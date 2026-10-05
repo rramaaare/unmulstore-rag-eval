@@ -1,0 +1,7 @@
+﻿,qwen-3.8-27b (Cerebras),semua_212,n_Qwen,n_Claude
+Faithfulness,0.865,0.865,212,0
+Context precision,0.838,0.838,212,0
+Context recall,0.934,0.934,212,0
+Semantic similarity,0.842,0.842,212,0
+Factual correctness,0.658,0.658,212,0
+Answer relevancy,0.534,0.534,212,0

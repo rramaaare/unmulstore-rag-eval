@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Two Single-Variable Fixes Elevate RAG Faithfulness to 0.88: A Controlled RAGAS Evaluation of Chunking and Prompt Interventions"
+authors:
+  - family-names: Ramadhani
+    given-names: Taufik
+  - family-names: Supriyanto
+    given-names: Muhammad Ibadurrahman Arrasyid
+repository-code: "https://github.com/rramaaare/unmulstore-rag-eval"
+license: MIT
+keywords:
+  - Retrieval-Augmented Generation
+  - RAGAS
+  - Faithfulness
+  - Chatbot
+  - FAQ

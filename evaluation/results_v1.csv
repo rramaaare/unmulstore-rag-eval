@@ -1,0 +1,1873 @@
+﻿id,type,domain,user_input,response,faithfulness,answer_relevancy,llm_context_precision_with_reference,context_recall,factual_correctness(mode=f1),semantic_similarity
+Q1,in_scope,umum,"UnmulStore itu aplikasinya apa, nih?","UnmulStore adalah aplikasi resmi toko dan layanan sewa yang dikhususkan untuk lingkungan Universitas Mulawarman (UNMUL).  
+
+Melalui aplikasi ini, mahasiswa dan civitas UNMUL dapat:
+
+- Membeli merchandise kampus (kaos, jaket, dll)  
+- Menggunakan layanan sewa (mis‑nya toga)  
+- Mengklaim almamater bagi mahasiswa baru  
+
+Semua proses pemesanan, pembayaran, dan pengecekan status dapat dilakukan langsung lewat aplikasi.  
+
+Jika ada pertanyaan lain seputar cara pakai, fitur, atau layanan yang tersedia, silakan tanya!",0.8888888888888888,0.5914408972376314,0.9999999999666668,1.0,0.74,0.9571271236376804
+Q3,in_scope,umum,"Orang di luar kampus boleh belanja di UnmulStore nggak, ya?","Orang di luar kampus tidak dapat berbelanja di Unmul Store. Unmul Store diperuntukkan khusus bagi mahasiswa dan civitas Universitas Mulawarman (mis mis mahasiswa, dosen, staf). Jadi hanya mereka yang bisa melakukan pembelian atau penyewaan barang melalui aplikasi.",0.25,0.7633352318482488,0.8333333332916666,1.0,0.29,0.6742410421122729
+Q4,in_scope,umum,"Aplikasi UnmulStore bisa dibuka di mana, dong?","UnmulStore dapat diakses dengan dua cara:
+
+1. **Aplikasi Android** – Unduh aplikasi UnmulStore dari Google Play Store dan instal di ponsel Android Anda.  
+2. **Versi Web** – Buka browser (Chrome, Firefox, dsb.) dan kunjungi alamat web UnmulStore.  
+
+Setelah membuka salah satu dari kedua opsi tersebut, Anda dapat masuk menggunakan email dan password kampus. Selamat berbelanja!",0.7,0.6044026258992174,0.8333333332916666,1.0,0.5,0.8489302064720003
+Q6,in_scope,umum,Gimana sih bedanya sewa sama pinjam?,"Maaf, saya hanya dapat membantu menjawab pertanyaan yang berkaitan dengan Unmul Store, seperti produk, cara pemesanan, pembayaran, pengiriman, kebijakan toko, dan hal‑hal serupa. Jika ada hal lain yang ingin Anda ketahui seputar Unmul Store, silakan beri tahu saya!",0.0,0.090085523666222,0.0,0.0,0.0,0.127218749534709
+Q7,in_scope,umum,"Nih, produknya bisa diintip tanpa login nggak?","Ya, Anda **bisa melihat produk** di halaman beranda Unmul Store tanpa harus login terlebih‑dahulu. Namun untuk melakukan pemesanan (checkout) Anda wajib masuk ke akun terlebih dahulu. Jadi browsing produk bebas, tapi transaksi membutuhkan login.",1.0,0.7142097474574044,0.8333333332916666,0.6666666666666666,0.86,0.826379345994374
+Q9,in_scope,umum,"UnmulStore-nya bisa dibuka via web nggak, ya?","UnmulStore dapat diakses lewat **browser (versi Web)** selain aplikasi Android. Jadi kamu cukup membuka alamat web UnmulStore di komputer atau perangkat seluler, lalu masuk menggunakan email dan password akunmu. Selamat berbelanja!  ",0.5,0.5277023909395736,0.8333333332916666,1.0,0.5,0.7746789848027233
+Q10,in_scope,umum,"Mau nanya-nanya UnmulStore, harus ke mana ya?","Untuk menanyakan apa saja seputar Unmul Store, kamu bisa menghubungi admin toko via:
+
+- **Nomor WhatsApp/Telepon:** **081 522 650048**  
+  (bisa dihubungi lewat chat atau panggilan)
+
+Sementara itu, fitur chat otomatis (chatbot) masih dalam pengembangan, jadi untuk saat ini menghubungi admin lewat nomor di atas adalah cara yang paling cepat untuk mendapatkan bantuan terkait produk, pemesanan, pembayaran, atau pertanyaan lainnya. Selamat berbelanja!",0.2,0.2799222909587451,0.99999999995,1.0,0.0,0.6276544585934026
+Q11,in_scope,akun,Gimana sih bikin akun baru di UnmulStore?,"Berikut langkah‑langkah untuk mendaftar akun baru di **UnmulStore**:
+
+1. **Buka halaman registrasi**  
+   – Bisa diakses melalui aplikasi Android, aplikasi web (browser), atau lewat tautan “Daftar” di beranda.
+
+2. **Isi formulir pendaftaran**  
+   - **Nama lengkap**  
+   - **Email** yang valid (email akan dipakai untuk verifikasi dan komunikasi)  
+   - **Password** dengan minimal **6 karakter**. gunakan kombinasi yang cukup kuat.
+
+3. **Tekan tombol “Daftar”**  
+   Sistem akan memproses pendaftaran. Jika data sudah lengkap dan email valid, akun baru Anda akan langsung aktif.
+
+4. **Masuk (login)**  
+   Setelah berhasil mendaftar, pilih menu **Masuk/Login**, masukkan email dan password yang baru Anda buat, lalu tekan **Masuk**.
+
+Jika ada kendala saat registrasi (misalnya email sudah terpakai atau lupa password), Anda dapat menghubungi admin UnmulStore di nomor **0815‑2265‑0048** untuk bantuan lebih lanjut. Selamat berbelanja!",0.5652173913043478,0.867136984269245,0.9999999999,1.0,0.0,0.6947036677941907
+Q12,in_scope,akun,Berapa ya panjang password paling pendek?,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar Unmul Store, seperti produk, cara pemesanan, pembayaran, pengiriman, dan kebijakan toko. Jika ada hal lain yang ingin Anda ketahui tentang Unmul Store, silakan beri tahu saya!",0.0,0.011552091106596,0.0,0.0,0.0,0.0219349624413898
+Q13,in_scope,akun,Emailnya harus bener pas daftar nggak?,"Ya, email yang Anda gunakan saat mendaftar di Unmul Store **harus berformat valid**. Email tersebut akan dipakai untuk masuk ke akun dan proses verifikasi, jadi gunakan email yang aktif dan benar. Jika email tidak valid, Anda tidak akan dapat login atau mengatur ulang password di kemudian hari.",0.6,0.604738298200237,0.9999999999666668,1.0,0.0,0.8005359329814169
+Q14,in_scope,akun,Gimana cara login ke akun yang udah terdaftar?,"Berikut cara login ke akun Unmul Store yang sudah terdaftar:
+
+1. **Buka aplikasi Unmul Store** (di perangkat Android) atau **akses versi web** melalui browser.  
+2. Pada beranda, pilih menu **“Masuk” / “Login”**.  
+3. Masukkan **email** yang sudah terdaftar dan **password** yang Anda buat saat registrasi.  
+4. Tekan **tombol “Masuk”**.  
+
+Jika email atau password salah, coba periksa kembali atau gunakan fitur **reset password** (hubungi admin Unmul Store di 0815‑2265‑0048).  
+
+Selamat berbelanja! 🚀",0.7272727272727273,0.6558223653357058,0.4166666666458333,1.0,0.43,0.5542176131162745
+Q15,in_scope,akun,Gimana sih cara reset password kalau lupa?,"Berikut langkah‑langkah mengatasi lupa password di Unmul Store:
+
+1. **Hubungi admin Unmul Store**  
+   - Nomor telepon: **0815‑22‑650‑048**  
+   - Sampaikan bahwa Anda lupa password dan minta bantuan reset.
+
+2. Admin akan memandu proses pemulihan akun, biasanya dengan verifikasi identitas (misalnya NIM atau email terdaftar) sebelum mengatur password baru.
+
+Jika ada pertanyaan lain seputar akun atau toko, silakan beri tahu saya!",0.25,0.7192918019483673,0.8333333332916666,1.0,0.22,0.7904426923627813
+Q16,in_scope,akun,Gimana edit data profilnya?,"Berikut cara mengedit data profil di Unmul Store:
+
+1. **Masuk ke aplikasi** dan pilih menu **Profil**.  
+2. Tekan **Edit Profil**.  
+3. Di halaman ini Anda dapat memperbarui:
+   - Nama lengkap  
+   - Nomor telepon  
+   - Alamat (kota dan jalan)  
+   - Foto profil  
+4. Setelah mengubah data yang diinginkan, **tekan tombol “Simpan”**. Pastikan koneksi internet stabil agar perubahan tersimpan dengan benar.  
+
+Jika ada kendala (misalnya perubahan tidak tersimpan), cek kembali koneksi Anda dan pastikan menekan tombol **Simpan**. Untuk bantuan lebih lanjut, dapat menghubungi CS Unmul Store di **0815‑2265‑0048**.",0.7857142857142857,0.6365920974178864,0.99999999995,1.0,0.67,0.6287449420866333
+Q17,in_scope,akun,Gimana cara nonaktifin akun?,"Berikut langkah untuk menonaktifkan (menghapus) akun Unmul Store:
+
+1. **Buka aplikasi Unmul Store** dan masuk ke menu **Profil**.  
+2. Pilih opsi **Hapus Akun** (atau **Nonaktifkan Akun**).  
+3. Pastikan **tidak ada pesanan aktif** yang sedang diproses, karena data terkait pesanan akan terpengaruh bila akun dihapus.  
+4. Ikuti konfirmasi yang muncul untuk menyelesaikan proses penghapusan akun.
+
+Setelah langkah tersebut selesai, akun Anda akan dinonaktifkan/dihapus secara permanen. Jika ada kendala, dapat menghubungi admin melalui nomor **0815‑2265‑0048**.",0.5555555555555556,0.4934865686612557,0.9999999999,1.0,0.0,0.6722628193665874
+Q20,in_scope,keamanan,Passwordnya disimpan aman nggak?,"Berikut ini informasi resmi dari FAQ Unmul Store mengenai keamanan password:
+
+- **Password tidak pernah ditampilkan** kepada siapapun, termasuk admin.
+- **Password tidak disimpan secara terang‑terangan** di aplikasi. Proses autentikasi dilakukan melalui layanan otentikasi yang aman, sehingga data sensitif seperti password tidak dicetak atau dapat diakses oleh pihak lain.
+
+Dengan begitu, password Anda disimpan dengan aman dan tidak dapat dilihat oleh pihak manapun. Jika ada kekhawatiran lain terkait akun, Anda dapat menghubungi admin untuk bantuan lebih lanjut.",0.9,0.6447050920663338,0.3333333333,1.0,0.37,0.7018340724520115
+Q21,in_scope,produk,Kalo merchandise ada yang apa aja sih?,"Berikut merchandise yang tersedia di Unmul Store:
+
+- **Kaos** (berbagai desain kampus)  
+- **Kemeja putih**  
+- **Work shirt**  
+- **Jaket**  
+- **Totebag**  
+- **Mug**  
+- **Tumblr**  
+- **Gantungan kunci**  
+- **Sticker pack**  
+- **Boneka Opan**  
+- **Selempang cumlaude**  
+- **Almamater** (jaket/seragam almamater)  
+- **Toga**  
+
+Itu semua produk merchandise yang tercantum dalam katalog Unmul Store. Jika ingin melihat detail tiap barang (ukuran, warna, harga, stok), silakan kunjungi halaman *Merchandise* di aplikasi atau situs Unmul Store. Selamat berbelanja!",0.6875,0.5777721607915484,0.99999999995,1.0,0.84,0.7852846495237774
+Q22,in_scope,produk,Bisa nyewa produk apa aja?,"Berdasarkan FAQ Unmul Store, **hanya produk toga yang dapat disewa**. Produk lain (misalnya almamater atau barang lainnya) hanya dapat dibeli, tidak ada opsi penyewaan. Jadi, jika Anda ingin menyewa, pilihlah toga yang tersedia di toko. Jika ada pertanyaan lain tentang cara penyewaan atau detail produk, silakan beri tahu saya!",0.8571428571428571,0.4688806957082344,0.7499999999625,1.0,0.25,0.6090015296433802
+Q25,in_scope,produk,Bisa nggak milih size produknya?,"Ya, kamu dapat memilih ukuran (size) produk di Unmul Store asalkan produk tersebut memang menyediakan variasi ukuran.  
+
+Berikut cara melakukannya:
+
+1. **Buka detail produk** – Klik produk yang ingin kamu beli dari beranda atau hasil pencarian.  
+2. **Lihat “size guide”** – Pada halaman detail akan tersedia panduan ukuran (size guide) yang menjelaskan ukuran‑ukuran yang tersedia.  
+3. **Pilih ukuran yang diinginkan** – Jika produk memiliki variasi ukuran, akan muncul pilihan (misalnya S, M, L, XL, dsb.) yang dapat kamu pilih sebelum menambahkannya ke keranjang.  
+
+Jika produk tidak memiliki opsi ukuran, maka tidak akan ada pilihan size di halaman tersebut. Jadi, pilih size hanya untuk produk yang memang menyediakan variasi ukuran. Jika ada pertanyaan lebih lanjut tentang ukuran tertentu atau stoknya, beri tahu kami produk apa yang kamu maksud!",0.0714285714285714,0.3504920827177015,0.9999999999,0.3333333333333333,0.37,0.6427824883678186
+Q26,in_scope,produk,"Maksudnya jenjang itu apa, ya?","Maaf, saya hanya dapat membantu menjawab pertanyaan seputar Unmul Store, seperti produk, cara pemesanan, pembayaran, pengiriman, kebijakan toko, dan hal‑hal terkait e‑commerce kampus. Jika ada hal lain yang ingin Anda ketahui mengenai Unmul Store, silakan tanyakan! Terima kasih.",0.0,0.084459755242357,0.0,0.0,0.0,0.3098390530945883
+Q27,in_scope,produk,Maksimal bisa beli berapa sih untuk tiap produk?,"Batas pembelian per produk di Unmul Store biasanya **maksimum 5 unit** untuk satu produk.  
+Jika sebuah produk memiliki batas yang berbeda (misalnya hanya 2 atau 10 unit), batas khusus itu akan tercantum pada halaman detail produk. Jadi, secara umum Anda dapat membeli hingga 5 barang yang sama dalam satu kali pemesanan, kecuali produk tersebut menyebutkan batas lain.",0.5,0.6546517154850703,0.8333333332916666,1.0,0.8,0.6502626502872029
+Q28,in_scope,produk,Deskripsi produknya bisa dilihat di mana ya?,"Untuk melihat deskripsi suatu produk di Unmul Store, cukup:
+
+1. **Buka beranda atau halaman katalog** dan pilih produk yang ingin Anda ketahui.  
+2. **Klik gambar atau nama produk** tersebut.  
+3. Anda akan diarahkan ke halaman **Detail Produk** yang menampilkan :
+   - Deskripsi lengkap
+   - Spesifikasi teknis
+   - Panduan ukuran (jika ada)
+   - Harga, stok, dan variasi (warna, ukuran, jenjang, dll.)
+
+Jadi, deskripsi produk dapat dilihat langsung pada halaman detail setelah Anda meng‑klik produk di beranda atau katalog. Jika produk sudah habis stok, tetap bisa dilihat (biasanya tampil berwarna abu‑abu) tetapi tidak dapat dipesan. 
+
+Jika masih belum menemukan informasi yang Anda cari, beri tahu saya nama produk spesifiknya, saya akan bantu mencari detail lebih lanjut.",0.4285714285714285,0.711754254894028,0.9999999999,1.0,0.4,0.5824797105733572
+Q29,in_scope,produk,kenapa produknya berwarna abu-abu di katalog?,"Produk yang muncul berwarna abu‑abu di katalog menandakan bahwa **stok barang tersebut sudah habis** (baik untuk pembelian maupun sewa). Produk tetap ditampilkan agar Anda dapat melihat bahwa barang memang ada, tetapi tidak dapat dipesan sampai stok kembali tersedia. Jika Anda melihat produk abu‑abu, coba pilih produk lain yang masih tersedia atau tunggu hingga stok di‑update kembali.",0.6666666666666666,0.9056990079211412,0.99999999995,1.0,0.5,0.7527854700089228
+Q30,in_scope,produk,Ada nggak cara buat nyari produknya?,"Untuk mencari produk di Unmul Store, kamu dapat:
+
+1. **Gunakan halaman beranda (Home)** – di sana tersedia katalog produk.
+2. **Kolom pencarian** – ketik nama atau kata kunci produk yang ingin dicari, misalnya “kaos Unmul” atau “buku kuliah”.
+3. **Filter / kategori** – pilih kategori (misalnya Merchandise, Akademik) untuk mempersempit hasil.
+4. **Hasil pencarian** – produk yang cocok akan muncul; produk yang **habis stok** ditandai dengan warna abu‑abu dan tidak dapat dipesan, namun masih bisa dilihat.
+
+Jadi, cukup masuk ke aplikasi/web Unmul Store, lalu ketik kata kunci di kolom pencarian atau pilih kategori yang diinginkan. Selamat berbelanja!",0.4782608695652174,0.3559816476308413,0.9999999999,1.0,0.0,0.6595960824290028
+Q31,in_scope,produk,Produknya ada beberapa foto nggak?,"Berikut informasi yang relevan dari dokumen Unmul Store:
+
+- **Ya, beberapa produk memiliki lebih dari satu foto.**  
+  Pada halaman detail produk biasanya disediakan beberapa gambar (image_paths) yang dapat dilihat satu per satu, termasuk gambar yang berbeda untuk tiap jenjang atau variasi produk.
+
+Jika Anda ingin melihat foto-foto tersebut, cukup **klik produk** di beranda atau katalog, lalu geser/klik gambar‑gambar yang tersedia di bagian galeri produk.
+
+Apabila ada produk tertentu yang Anda cari dan ingin melihat semua fotonya, beri tahu nama atau kategori produk tersebut, saya akan membantu mencari detailnya.",0.1428571428571428,0.7122052482619107,0.9999999999,1.0,0.22,0.7005292106688432
+Q32,in_scope,produk,Rating 4.8 di produk itu artinya apa?,"Rating 4.8 pada suatu produk berarti produk tersebut telah mendapatkan penilaian kualitas dari para pembeli dengan nilai rata‑rata 4,8 pada skala 5 bintang. Semakin tinggi angka rating, semakin baik ulasan yang diberikan oleh pengguna. Jadi, rating 4.8 menunjukkan bahwa mayoritas pembeli menilai produk tersebut sangat memuaskan.",0.0,0.9061854208197628,0.9999999999,1.0,0.0,0.8971338157679025
+Q33,in_scope,produk,Kira-kira ada produk andalan nggak?,"Beranda Unmul Store menampilkan **produk unggulan** (atau “produk andalan”) yang diprioritaskan agar mudah dilihat oleh pengunjung. Produk‑produk yang sering masuk ke daftar unggulan antara lain:
+
+- **Kaos** kampus (termasuk variasi warna & ukuran)  
+- **Kemeja putih** & **work shirt**  
+- **Mug** dan **tumblr** dengan logo Unmul  
+- **Jaket** serta **totebag**  
+- **Gantungan kunci**, **sticker pack**, dan **boneka Opan**  
+- **Selempang cumlaude**  
+- Produk akademik seperti **almamater** dan **toga** (toga juga bisa disewa)
+
+Produk‑produk ini ditandai sebagai “unggulan” dan muncul lebih dulu di beranda toko. Jika ingin melihat apa yang sedang menjadi unggulan saat ini, cukup kunjungi halaman utama Unmul Store – daftar tersebut akan otomatis ter-update. Selamat berbelanja!",0.1739130434782608,0.5637574161442861,0.49999999995,1.0,0.0,0.5694173160310618
+Q34,in_scope,produk,Ukuran yang pas itu bisa dicek gimana?,"Untuk mengetahui ukuran yang pas, cukup **buka halaman detail produk** di Unmul Store.  
+
+Jika produk tersebut memiliki **panduan ukuran (size guide)**, tombol atau tautan **“Size Guide”** akan muncul di bagian bawah spesifikasi produk. Anda dapat melihat tabel ukuran, cara mengukur tubuh, serta rekomendasi ukuran yang sesuai.
+
+Jadi langkahnya:
+1. Pilih produk yang ingin dibeli.  
+2. Pada halaman detail, cari bagian **Size Guide**.  
+3. Ikuti panduan yang disediakan untuk menemukan ukuran yang tepat.  
+
+Jika tidak ada “Size Guide”, biasanya produk tersebut tidak memerlukan ukuran khusus (misalnya barang non‑pakaian). Selamat berbelanja!",0.4166666666666667,0.446326947817074,0.99999999995,1.0,0.0,0.804186981029532
+Q35,in_scope,produk,Kategori produknya ada apa aja?,"Berikut kategori produk yang tersedia di Unmul Store:
+
+| Kategori | Contoh produk |
+|----------|---------------|
+| **Pakaian** | Kaos, kemeja putih, work‑shirt, jaket |
+| **Aksesoris** | Gantungan kunci, mug, tumblr, tote‑bag, sticker pack, selempang cumlaude |
+| **Koleksi khusus** | Boneka Opan |
+| **Produk akademik** | Almamater, toga |
+
+Informasi ini diambil dari dokumentasi resmi Unmul Store yang menyebutkan merchandise kampus meliputi pakaian, aksesoris, koleksi khusus, serta produk akademik seperti almamater dan toga. Jika Anda ingin melihat detail lebih lanjut atau menelusuri produk tertentu, silakan buka katalog di aplikasi Unmul Store.  ",0.5,0.6694003706699787,0.99999999995,0.0,0.0,0.6056829267816823
+Q37,in_scope,stok,"Pas admin approve, stoknya berkurang nggak?","Berikut jawaban yang diambil dari **FAQ Knowledge Base Unmul Store**:
+
+- **Stok berkurang otomatis saat checkout**, bukan saat admin menyetujui (approve) pesanan.  
+- Pengurangan stok dilakukan pada saat pesanan berhasil dibuat (checkout) sehingga mencegah terjadinya penjualan ganda.  
+
+Jadi, **setelah admin approve, stok tidak berkurang lagi** karena sudah berkurang sebelumnya pada saat checkout. Jika ada pertanyaan lain seputar proses pemesanan atau kebijakan lainnya, silakan tanyakan!",0.7777777777777778,0.6850153074326332,0.99999999995,1.0,0.92,0.827490265771618
+Q38,in_scope,stok,Bisa nggak barangnya dijual lebih dari stok?,"Tidak. Unmul Store melindungi stok agar tidak dapat dijual lebih dari jumlah yang tersedia.  
+
+- Saat checkout, jumlah yang Anda pilih akan **dibatasi oleh stok yang ada**.  
+- Jika stok tidak cukup, proses pesanan akan **gagal** dan tidak akan dapat diselesaikan.  
+- Selain itu, tiap produk biasanya memiliki batas maksimal pembelian **max qty = 5** (kecuali produk tertentu menetapkan batas lain).  
+
+Jadi, barang tidak bisa dijual melebihi stok yang tercatat. Jika Anda menemukan masalah lain terkait stok, silakan beri tahu kami!",0.8,0.7780078748741838,0.2083333333229166,1.0,0.44,0.6962792568426706
+Q39,in_scope,stok,kenapa pesenannya gagal gara-gara stok ya?,"Berikut penjelasannya:
+
+- **Produk yang stoknya habis tetap muncul di katalog**, namun akan ditandai dengan warna abu‑abu dan tidak dapat dipilih untuk dipesan.  
+- Jika Anda memang sudah menambahkan produk yang sedang **out of stock** ke keranjang, sistem akan **menolak pemesanan** karena kuantitas yang tersedia = 0. Jadi pesanan gagal karena tidak ada stok yang cukup.
+
+**Solusi:**  
+1. Cari produk lain yang masih memiliki stok (bisa dilihat di detail produk, biasanya ada label “Stok: X”).  
+2. Jika ingin tetap membeli produk yang habis, tunggu hingga stok kembali tersedia atau hubungi admin toko (0815‑2265‑0048) untuk konfirmasi kemungkinan restock.
+
+Semoga membantu! Jika ada pertanyaan lain tentang cara memesan atau produk lainnya, silakan beri tahu saya.",0.25,0.3793512773394574,0.0,0.0,0.14,0.614067420635138
+Q40,in_scope,stok,Barangnya nggak jadi balik ke stok?,"Berikut penjelasan dari FAQ Unmul Store:
+
+**Setelah pesanan dibatalkan, stok barang memang akan dikembalikan secara otomatis.**  
+- Pada Q150 disebutkan: “*Ya. Setelah pesanan dibatalkan atau ditolak, stok beli/sewa otomatis dikembalikan sesuai jumlah pesanan.*”
+
+Jika Anda sudah meng‑cancel pesanan namun stok belum kembali terlihat di katalog, kemungkinan:
+1. **Proses pembatalan masih dalam tahapan admin.** Pembatalan harus disetujui admin terlebih dahulu (lihat Q149).  
+2. **Refresh aplikasi/katalog** – tarik layar atau buka kembali aplikasi untuk memperbarui tampilan stok.  
+
+Apabila setelah beberapa saat stok masih belum kembali, silakan hubungi admin Unmul Store melalui nomor **0815‑2265‑0048** atau datang langsung ke toko (Senin‑Jumat, 09.00‑15.00 WITA) untuk konfirmasi lebih lanjut.",0.5833333333333334,0.593361828548057,0.1249999999875,0.5,0.0,0.7228635053101576
+Q41,in_scope,stok,Stok rentalnya balik lagi nggak setelah beres?,"Berikut ini jawaban yang diambil dari FAQ Unmul Store:
+
+**Ya.** Setelah penyewaan selesai dan barang dikembalikan, stok **rental (sewa)** secara otomatis dikembalikan ke sistem sehingga barang tersebut dapat disewakan kembali.  
+
+Jika ada proses konfirmasi pengembalian oleh admin, status akan berubah menjadi *Selesai* dan stok sewa akan tersedia kembali.  ",0.4,0.7746039580986505,0.9166666666361112,1.0,0.5,0.7660934996095443
+Q42,in_scope,stok,"Kalau sewa udah beres, stoknya dibeli balik nggak?","Berikut penjelasan dari FAQ Unmul Store:
+
+**Q: “Apakah stok beli kembali setelah sewa selesai?”**  
+Jawaban: **Tidak.** Penyewaan menggunakan **stok sewa**, bukan stok beli. Jadi ketika sewa selesai, yang kembali ke sistem hanyalah **stok sewa**; stok beli tidak berubah atau “dibeli kembali”.
+
+**Q: “Apakah stok sewa kembali setelah penyewaan selesai?”**  
+Jawaban: **Ya.** Setelah barang yang disewa dikembalikan dan admin mengonfirmasi pengembaliannya, stok sewa otomatis dikembalikan ke sistem sehingga barang tersebut dapat disewakan lagi.
+
+Jadi, **setelah sewa selesai, stok beli tidak ikut terpengaruh**—hanya stok sewa yang di‑restore. Jika Anda ingin membeli produk, stok beli tetap tersedia terpisah dari stok sewa. Semoga membantu!",0.9473684210526316,0.610307620276203,0.99999999995,1.0,0.46,0.6788377403170035
+Q43,in_scope,stok,Di bagian mana ya bisa lihat stok produknya?,"Untuk melihat stok suatu produk, **buka halaman detail produk**.  
+Di sana akan ditampilkan jumlah stok yang tersedia, dan jika produk memiliki variasi (ukuran, jenjang, dll), stok akan ditunjukkan per kombinasi pilihan Anda pada bottom‑sheet.
+
+Jadi, cukup **klik produk di beranda** atau hasil pencarian, kemudian periksa bagian “Stok” pada detail produk.",0.8,0.8321889475670371,0.9166666666361112,1.0,0.57,0.7926537787803583
+Q45,in_scope,stok,Kalau produknya yang warna abu itu artinya apa?,"Berikut ini penjelasan mengenai produk yang **tampak berwarna abu‑abu** di Unmul Store:
+
+- **Arti warna abu‑abu:**  
+  Produk yang muncul dengan warna abu‑abu menandakan **stoknya sudah habis** untuk semua pilihan yang tersedia (baik opsi beli maupun sewa). Produk tetap ditampilkan agar pengguna dapat melihat bahwa produk tersebut ada, namun tidak dapat dipesan hingga stok kembali tersedia.
+
+- **Apa yang dapat dilakukan?**  
+  - Anda masih dapat melihat detail produk (deskripsi, spesifikasi, gambar, dll.).  
+  - Produk tidak dapat ditambahkan ke keranjang atau diproses pembelian sampai ada stok kembali.
+
+Jika ada pertanyaan lain seputar produk, pemesanan, atau kebijakan Unmul Store, silakan tanyakan!",0.5,0.64980808802671,0.9999999999666668,1.0,0.22,0.6635123237805061
+Q46,in_scope,stok,"Stoknya diupdate gimana, ya?","Berikut cara stok di Unmul Store di‑update:
+
+1. **Pengurangan stok**  
+   - Stok berkurang **secara otomatis** saat pesanan berhasil dibuat (pada tahap checkout).  
+   - Jadi stok tidak menunggu persetujuan admin; proses ini mencegah terjadinya penjualan ganda.
+
+2. **Pembatasan stok**  
+   - Sistem memiliki proteksi sehingga tidak akan mengurangi stok lebih dari jumlah yang tersedia. Jika stok tidak cukup, pesanan akan gagal.
+
+3. **Pembaharuan secara real‑time**  
+   - Aplikasi menggunakan pembaruan real‑time. Jadi bila ada pembelian atau penyewaan dari pengguna lain, perubahan stok langsung terlihat di beranda dan halaman produk.
+
+4. **Stok untuk penyewaan**  
+   - Barang yang disewa menggunakan **rental_stock** terpisah dari stok beli.  
+   - Setelah penyewaan selesai dan barang dikembalikan, **stok sewa** otomatis kembali sehingga barang dapat disewa lagi. (Stok beli tidak berubah).
+
+5. **Menampilkan sisa stok**  
+   - Jumlah stok ditampilkan pada halaman detail produk dan ketika memilih variasi (misalnya ukuran atau jenjang) di bottom sheet produk.  
+   - Jika semua opsi habis, produk tetap terlihat dengan tampilan abu‑abu sehingga pengguna tahu barang ada, tapi tidak dapat dipesan.
+
+Singkatnya, stok di‑update secara otomatis pada saat checkout, dilindungi agar tidak melebihi kuantitas yang ada, dan dipulihkan kembali untuk barang sewaan setelah pengembalian. Semua perubahan ditampilkan secara real‑time di aplikasi.",0.9047619047619048,0.3937478100614366,0.9999999999,1.0,0.08,0.5077181573107488
+Q47,in_scope,stok,Bisa beli nggak kalau stok belinya masih ada tapi stok sewanya udah habis?,"Menurut FAQ Unmul Store, **bisa** membeli produk selama stok beli masih tersedia, meskipun stok sewa sudah habis. Stok beli dan stok sewa dikelola secara terpisah, jadi habisnya satu tidak memengaruhi kemampuan Anda untuk melakukan pembelian pada opsi yang masih ada. Selamat berbelanja!",0.8,0.659717298013856,0.99999999995,1.0,0.4,0.8061343893158833
+Q49,in_scope,keranjang,Gimana caranya biar item masuk ke cart?,"Untuk menambahkan item ke keranjang (cart) di Unmul Store, lakukan langkah‑langkah berikut:
+
+1. **Buka halaman detail produk** yang ingin Anda beli.  
+2. **Pilih variasi** yang tersedia (misalnya ukuran, jenjang, atau opsi “beli/sewa”).  
+3. **Tentukan jumlah** barang yang diinginkan.  
+4. Tekan tombol **“Tambah ke Keranjang”** (Add to Cart).  
+
+Setelah itu barang akan muncul di **halaman Keranjang** Anda, dimana Anda bisa mengubah jumlah, menghapus item, atau melanjutkan ke proses checkout. Selamat berbelanja!",0.6363636363636364,0.6667064287127785,0.9999999999,1.0,0.67,0.56281386506513
+Q51,in_scope,keranjang,Gimana checkout banyak barang?,"Berikut cara checkout banyak barang sekaligus di **Unmul Store**:
+
+1. **Masukkan barang ke keranjang**  
+   - Pada halaman detail tiap produk, pilih variasi (ukuran/jenjang) dan mode (beli / sewa), tentukan jumlah, lalu tekan **“Tambah ke keranjang”**.  
+   - Ulangi langkah ini untuk semua produk yang ingin Anda beli.
+
+2. **Cek keranjang**  
+   - Klik ikon **Keranjang** (biasanya di pojok kanan atas).  
+   - Di halaman keranjang Anda dapat **menambah** atau **mengurangi** jumlah tiap item, atau **menghapus** barang yang tidak jadi dibeli. Total harga akan otomatis menyesuaikan.
+
+3. **Pilih semua barang untuk checkout**  
+   - Pada halaman keranjang, terdapat kotak centang di sebelah masing‑masing produk.  
+   - **Centang** semua barang yang ingin Anda checkout (Anda juga bisa meninggalkan beberapa barang yang belum siap dibeli).
+
+4. **Tekan tombol “Checkout”**  
+   - Setelah barang yang diinginkan terpilih, klik tombol **“Checkout”** di bagian bawah halaman keranjang.  
+   - Sistem akan mengarahkan Anda ke halaman **Ringkasan Pesanan**.
+
+5. **Isi data dan pilih metode pembayaran**  
+   - Pastikan alamat pengiriman, nomor telepon, dan metode pembayaran sudah benar.  
+   - Jika Anda menggunakan mode **sewa**, perhatikan juga batas pengembalian yang akan ditampilkan.
+
+6. **Konfirmasi dan bayar**  
+   - Klik **“Bayar”** untuk menyelesaikan proses. Tombol bayar sudah dilindungi agar tidak ter‑klik ganda, sehingga pesanan tidak akan diproses dua kali.
+
+7. **Selesai**  
+   - Anda akan menerima **nota pemesanan** serta **notifikasi** via email/aplikasi. Semua barang yang dipilih akan masuk dalam satu order yang sama.
+
+> **Catatan:** Setelah Anda menekan tombol **Bayar**, isi keranjang sudah **dikunci** dalam pesanan dan tidak dapat diubah lagi. Jadi pastikan jumlah dan pilihan barang sudah tepat sebelum konfirmasi pembayaran. 
+
+Semoga membantu! Jika ada yang masih belum jelas, silakan tanyakan kembali. 🙌",0.3076923076923077,0.7381472670535345,0.9999999999,1.0,0.16,0.661122798380563
+Q53,in_scope,deposit,Depositnya dibayar kapan nih?,"Berikut penjelasan mengenai **kapan deposit dibayar** pada Unmul Store:
+
+- **Deposit dibayar bersamaan dengan pembayaran sewa** saat Anda melakukan checkout.  
+- Jadi, ketika Anda menyelesaikan proses checkout, jumlah deposit otomatis ditambahkan ke total pembayaran dan dibayarkan pada saat yang sama.
+
+Jika ada pertanyaan lain seputar proses pemesanan, pembayaran, atau kebijakan lainnya, silakan beri tahu saya!",0.6,0.7319196226111249,0.999999999975,1.0,0.0,0.54323781849639
+Q54,in_scope,deposit,Deposit bikin total jadi lebih gede nggak?,"Ya. Saat kamu melakukan checkout penyewaan, **deposit (uang jaminan) otomatis ditambahkan ke total pembayaran**. Jadi nilai total yang harus dibayar akan menjadi lebih besar dibandingkan hanya harga sewanya saja. Deposit ini bukan biaya tetap; setelah barang dikembalikan dalam kondisi baik, deposit akan dikembalikan kepada kamu (biasanya setelah admin mengonfirmasi pengembalian). Jadi meskipun total di checkout tampak lebih tinggi, sebagian dari angka itu adalah deposit yang nantinya akan dikembalikan.",1.0,0.6713446065335917,0.999999999975,1.0,0.5,0.787861599361342
+Q56,in_scope,keranjang,Boleh nggak sih edit item pas pesanan udah dibuat?,"Bisa. Setelah checkout selesai, **isi pesanan sudah terkunci** sehingga tidak dapat diubah lagi. Jadi, jika ingin mengubah atau menambah item, silakan lakukan **sebelum menekan tombol “Bayar”** (atau sebelum proses checkout selesai). Jika sudah selesai checkout, Anda perlu membuat pesanan baru.",0.875,0.6122787741077728,0.9999999999,1.0,0.44,0.7801034105051308
+Q57,in_scope,keranjang,"Fitur buat ngeblok submit dobel udah ada, nggak?","Ya, Unmul Store sudah menyediakan proteksi agar tombol **Bayar** tidak dapat dipencet dua kali secara berurutan. Jika pengguna menekan tombol tersebut berulang‑ulang, sistem akan menahan proses sehingga pesanan tidak diproses dua kali. Jadi risiko submit ganda sudah dicegah.",0.6,0.3158915259512337,0.9999999999,1.0,0.75,0.7223250663288419
+Q58,in_scope,deadline,"Gimana dong, kenapa pas checkout retur-nya dibatasi?","Hai! Pada saat checkout untuk **retur/penyewaan**, sistem memang menampilkan **batas pengembalian** (return deadline). Batas ini ditetapkan oleh admin per produk, sehingga setiap barang memiliki tanggal dan jam maksimal untuk dikembalikan. Tujuannya agar:
+
+1. **Barang dapat kembali tepat waktu** ke stok sehingga pengguna lain dapat meminjamnya lagi.  
+2. **Menghindari keterlambatan** yang dapat menimbulkan denda atau gangguan pada proses penyewaan selanjutnya.  
+3. **Memberikan kepastian** bagi Anda tentang berapa lama Anda boleh menggunakan barang sebelum harus mengembalikannya.
+
+Batas pengembalian biasanya terlihat di halaman checkout sebelum Anda melakukan pembayaran, jadi Anda sudah bisa melihatnya sebelumnya. Jika ada pertanyaan lebih lanjut tentang cara mengecek atau mengubah batas ini, silakan beri tahu saya! 😊",0.4615384615384615,0.6917589399625047,0.99999999995,1.0,0.31,0.7880616080606262
+Q61,in_scope,pembayaran,Bisa bayar lewat apa aja nih?,"Berikut ini informasi mengenai metode pembayaran yang tersedia di Unmul Store:
+
+- **Bayar di Toko** – Anda melakukan pembayaran secara langsung saat mengambil barang di lokasi Unmul Store. Saat ini belum ada opsi pengantaran barang, jadi pembayaran dilakukan ketika barang siap diambil.  
+
+Tidak ada metode pembayaran lain (mis‑mis transfer bank, e‑wallet, atau COD) yang disebutkan dalam dokumen FAQ. Jika ada pertanyaan lebih lanjut, silakan hubungi admin Unmul Store di **0815‑2265‑0048**.",0.75,0.3811429212521411,0.9999999999,1.0,0.0,0.7289129894570427
+Q62,in_scope,pembayaran,"Mau bayar di tokonya, harus ngapain?","Berikut langkah‑langkah untuk melakukan pembayaran **Bayar di Toko** pada Unmul Store:
+
+1. **Buat pesanan**  
+   Pilih produk yang ingin dibeli, masukkan ke keranjang, lalu lakukan checkout seperti biasa.
+
+2. **Pilih metode pembayaran**  
+   Pada halaman checkout pilih **“Bayar di Toko”**. Ini berarti Anda akan membayar secara tunai saat mengambil barang.
+
+3. **Ambil barang di toko**  
+   - Datang ke lokasi Unmul Store (Jl. Kuaro, Gunung Kelua, Samarinda Ulu, Kota Samarinda).  
+   - Toko beroperasi Senin‑Jumat, pukul 09.00‑15.00 WITA.  
+   - Tunjukkan **nota/pesanan** (bisa lewat aplikasi atau cetak) kepada petugas.
+
+4. **Lakukan pembayaran**  
+   Bayar total harga pesanan secara tunai kepada petugas toko. Setelah pembayaran selesai, Anda langsung menerima barang.
+
+**Catatan penting**  
+- Pembayaran **hanya** dilakukan di toko ketika Anda mengambil barang; tidak ada pembayaran di muka atau transfer bank.  
+- Pastikan tiba pada jam operasional toko agar proses pengambilan dan pembayaran berjalan lancar.  
+
+Jika ada pertanyaan lain tentang proses pemesanan atau jam operasional, silakan tanyakan!",0.2608695652173913,0.7781960262272086,0.9999999999,1.0,0.29,0.7308121692250394
+Q64,in_scope,pembayaran,"Barangnya baru dikirim kalau sudah bayar dulu, gitu?","Berikut penjelasannya:
+
+- **Pembayaran tidak wajib dilakukan di muka.** Anda tidak perlu membayar terlebih dulu sebelum barang dikirim.  
+- **Metode pembayaran yang tersedia hanya “Bayar di Toko”.** Artinya, Anda membayar ketika mengambil barang di lokasi Unmul Store.  
+- Jika Anda ingin membayar lewat transfer bank, saat ini belum tersedia. Anda dapat menghubungi admin (mis 0815‑2265‑0048) untuk alternatif pembayaran.
+
+Jadi, barang tidak akan dikirim sebelum Anda membayarnya; Anda cukup datang ke Unmul Store, bayar di sana, lalu barang siap diambil. Jika ada kendala dengan pembayaran di toko, silakan konfirmasi ke admin untuk solusi lain.",0.6363636363636364,0.6077894622439173,0.99999999995,1.0,0.14,0.7893060157434226
+Q65,in_scope,pembayaran,Ada cara transfer nggak?,"Berkenaan dengan cara pembayaran, Unmul Store **tidak menyediakan opsi transfer bank** atau pembayaran online lainnya. Satu‑satunya metode yang dapat Anda gunakan adalah **“Bayar di Toko”**, yaitu membayar secara tunai saat Anda mengambil barang di lokasi Unmul Store (Jl. Kuaro, Gunung Kelua, Kampus UNMUL).  
+
+Jadi, untuk saat ini Anda tidak dapat melakukan pembayaran lewat transfer; cukup datangkan pesanan Anda ke toko dan lakukan pembayaran di tempat. Jika ada pertanyaan lebih lanjut, silakan beri tahu saya!",0.6666666666666666,0.43729419719798,0.9999999999,0.5,0.2,0.522612200192565
+Q67,in_scope,pembayaran,Status pembayarannya bisa dilihat nggak?,"Berikut ini cara **mengecek status pembayaran** pada Unmul Store:
+
+- **Buka aplikasi / website Unmul Store** dan masuk ke akun Anda.  
+- Pilih menu **“Pesanan”** (biasanya berada di navigasi bawah).  
+- Di daftar pesanan, pilih pesanan yang ingin Anda lihat.  
+- Pada halaman **detail pesanan**, akan ditampilkan **status pembayaran** beserta metode yang dipilih (mis contoh: *Bayar di Toko*).  
+
+Status pembayaran dapat dilihat bersama **status pesanan** di sana, sehingga Anda dapat memantau apakah pembayaran sudah selesai atau masih menunggu. Jika ada pertanyaan lebih lanjut, silakan beri tahu saya!",0.7142857142857143,0.6764357295971642,0.9999999999666668,1.0,0.4,0.641444453535229
+Q68,in_scope,pesanan,"Riwayat pesanan gue ada di mana, nih?","Berikut cara melihat riwayat pesanan di Unmul Store:
+
+1. **Buka aplikasi atau website Unmul Store.**  
+2. Pada menu navigasi di bagian bawah (atau di sidebar), pilih **“Pesanan”.**  
+3. Di halaman **Pesanan** akan muncul daftar semua order Anda, termasuk yang sedang diproses dan yang sudah selesai.  
+4. Klik salah satu baris untuk membuka **detail pesanan**; di sana Anda juga dapat melihat ID order, status, dan timeline perkembangannya.
+
+Jadi, riwayat lengkap order Anda dapat diakses melalui menu **Pesanan**. 🚀",0.5833333333333334,0.3212481952019443,0.999999999975,1.0,0.33,0.6892083791952108
+Q70,in_scope,pesanan,Gimana kok order gue nunggu verifikasi?,"Status **“Menunggu Verifikasi”** berarti pesanan Anda baru saja dibuat dan saat ini sedang menunggu admin Unmul Store untuk memeriksa serta memprosesnya. Pada tahap ini:
+
+1. **Admin akan memeriksa** detail pesanan (produk, stok, dan pembayaran).  
+2. **Jika semua sudah sesuai**, admin akan mengubah status menjadi **“Dikemas”** (untuk pembelian yang diambil di toko) atau **langsung “Siap Diambil”** bila tidak perlu proses pengepakan.  
+3. **Jika ada masalah** (misalnya stok tidak tersedia atau pembayaran belum jelas), admin mungkin akan menghubungi Anda lewat notifikasi atau email untuk konfirmasi lebih lanjut.
+
+Jadi, tunggu beberapa saat hingga admin selesai memverifikasi. Anda dapat memantau perkembangan status di menu **Pesanan** pada aplikasi/web Unmul Store. Jika status tidak berubah dalam 1–2 hari kerja, Anda bisa menghubungi layanan bantuan melalui chat di aplikasi atau email support@unmulstore.ac.id.",0.3333333333333333,0.3523194653068609,0.99999999995,1.0,0.2,0.6578729861769534
+Q71,in_scope,pesanan,Order gue kenapa dikemas?,"Status **“Dikemas”** menandakan bahwa pesanan Anda saat ini sedang diproses oleh tim admin Unmul Store. Pada tahap ini barang‑barang yang Anda beli sedang **dipersiapkan dan dibungkus** agar siap untuk diambil atau dikirimkan.  
+
+Berikut apa yang biasanya terjadi pada tahap “Dikemas”:
+
+1. **Pengecekan stok** – memastikan semua item yang dipesan tersedia.  
+2. **Pengemasan** – barang dibungkus dengan rapih dan aman agar tidak rusak.  
+3. **Persiapan dokumen** – label atau tanda terima dibuat untuk proses selanjutnya.  
+
+Setelah proses pengemasan selesai, status pesanan akan otomatis berubah menjadi **“Siap Diambil”** (jika Anda memilih ambil di toko) atau **“Dikirim”** (jika memilih pengiriman).  
+
+Jadi, pesanan Anda sedang dalam proses finalisasi sebelum dapat Anda ambil di Unmul Store. Jika ada pertanyaan lain atau ingin mengetahui perkiraan waktu selesai, silakan beri tahu kami!   (Sumber: FAQ Unmul Store – penjelasan status “Dikemas”).",0.2727272727272727,0.4139213700046036,0.9999999999,1.0,0.0,0.5751319972824348
+Q75,in_scope,pesanan,Kapan pesanan itu dianggap beres?,"**Pesanan dianggap beres (selesai) ketika statusnya berubah menjadi **“Selesai”.**  
+
+- **Untuk pembelian:** barang sudah Anda terima, sehingga menjadi milik Anda.  
+- **Untuk sewa:** barang yang Anda sewa sudah dikembalikan dan proses sewa dinyatakan selesai.  
+
+Setelah status **Selesai** muncul di detail pesanan, tidak ada lagi tindakan yang diperlukan dari pihak Anda. Jika ada status lain (misalnya *Ditolak*, *Dibatalkan*, atau *Kedaluwarsa*), pesanan belum dianggap selesai.",0.5,0.9494080858172324,0.99999999995,1.0,0.55,0.7185495963001141
+Q76,in_scope,pesanan,Kenapa admin nolak pesanan sih?,"Admin biasanya menolak (menolak) pesanan ketika ada **data yang tidak valid** atau **permintaan tidak dapat dipenuhi**. Misalnya:
+
+- NIM, nomor kontak, atau detail barang yang Anda isi tidak lengkap atau tidak sesuai format.
+- Produk yang dipesan sedang tidak tersedia atau tidak dapat diproses karena stok atau kebijakan tertentu.
+
+Alasan penolakan akan ditampilkan di halaman **detail pesanan** Anda, sehingga Anda dapat melihat apa yang perlu diperbaiki. Setelah memperbaiki data yang salah, Anda dapat membuat pesanan baru dengan informasi yang benar. Jika masih belum jelas, Anda dapat menghubungi admin melalui nomor **0815‑2265‑0048** untuk mendapatkan penjelasan lebih lanjut.",0.5555555555555556,0.8515420482253236,0.19999999998,1.0,0.13,0.8181268192165136
+Q78,in_scope,pesanan,Gimana kalau pesanan udah kedaluwarsa?,"Berikut penjelasan mengenai **pesanan yang kedaluwarsa** di Unmul Store:
+
+- **Pengertian status “Kedaluwarsa”**  
+  Pesanan menjadi kedaluwarsa ketika barang tidak diambil dalam batas waktu yang telah ditentukan (biasanya **3 hari** sejak pesanan berstatus *Siap Diambil*).  
+
+- **Akibatnya**  
+  - Stok barang akan **dikembalikan ke sistem** sehingga dapat dibeli oleh pengguna lain.  
+  - Pesanan tidak dapat dilanjutkan atau diproses lebih lanjut.  
+
+- **Apa yang bisa Anda lakukan?**  
+  Jika pesanan Anda sudah kedaluwarsa, Anda dapat membuat pemesanan baru untuk barang yang sama (jika masih tersedia).  
+
+Jadi, pesanan yang kedaluwarsa secara otomatis dibatalkan, stok kembali tersedia, dan Anda dapat melakukan pemesanan ulang. Jika ada pertanyaan lain seputar proses pemesanan atau kebijakan lain, silakan beri tahu saya!",0.1538461538461538,0.6887493590421024,0.999999999975,1.0,0.57,0.6428856715622983
+Q79,in_scope,pesanan,Gimana statusku bisa nunggu dibatalin?,"Status **“Menunggu Pembatalan”** muncul ketika Anda sudah mengajukan permintaan pembatalan pesanan, namun admin Unmul Store belum memberi persetujuan akhir.
+
+**Penjelasan singkat dari FAQ Unmul Store**  
+- **Apa artinya?**  
+  Anda telah meminta pembatalan, dan pesanan berada dalam antrean untuk diproses oleh admin.  
+- **Kenapa status ini muncul?**  
+  Admin perlu memeriksa dulu apakah barang sudah diproses/kemas atau masih dalam tahap awal, kemudian memberi keputusan apakah pembatalan dapat diterima.  
+- **Berapa lama menunggu?**  
+  Waktu persetujuan biasanya cukup cepat (biasanya dalam hitungan jam), namun dapat bervariasi tergantung beban kerja admin.  
+
+**Jika ingin mempercepat atau memastikan statusnya**  
+1. **Cek notifikasi** di aplikasi/website; admin biasanya akan mengirimkan konfirmasi bila pembatalan sudah selesai.  
+2. **Hubungi layanan pelanggan** (misalnya lewat chat atau email) dengan menyertakan nomor pesanan, agar admin dapat memeriksa status lebih detail.  
+3. **Jika tidak ada respon dalam 24‑48 jam**, Anda dapat mengirim ulang permintaan pembatalan atau menanyakan statusnya kembali.
+
+Setelah admin menyetujui, status akan berubah menjadi **“Dibatalkan”**, dan stok barang akan kembali tersedia. Jika admin menolak karena barang sudah diproses, Anda mungkin akan mendapatkan informasi tentang alternatif (misalnya pengembalian dana setelah barang diterima).  
+
+Semoga membantu! Jika ada pertanyaan lain tentang proses pembatalan atau status pesanan, silakan beri tahu saya.",0.1538461538461538,0.3317304831828676,0.499999999975,1.0,0.0,0.5863801330702453
+Q82,in_scope,pesanan,Gimana sih susunan status untuk rentalnya?,"Berikut susunan status alur penyewaan (rental) di Unmul Store:
+
+1. **Menunggu Verifikasi** – pesanan masih dicek admin.  
+2. **Siap Diambil** – admin sudah memverifikasi, barang dapat Anda ambil di toko.  
+3. **Dalam Masa Sewa** – setelah Anda mengambil barang, periode penyewaan sedang berjalan.  
+4. **Dikembalikan** – Anda sudah mengembalikan barang, admin sedang memfinalisasi.  
+5. **Selesai** – proses penyewaan selesai dan tidak ada tindakan lanjutan.
+
+Jika pengembalian lewat batas waktu, status **Terlambat** akan muncul dan dapat dikenakan denda. Status lain yang mungkin muncul (misalnya) adalah **Disetujui**, **Ditolak**, **Dibatalkan**, atau **Kedaluwarsa**, tergantung pada keputusan admin atau kondisi pesanan.",0.4166666666666667,0.7089173187870165,0.99999999995,1.0,0.56,0.4912650802236352
+Q83,in_scope,sewa,"Maksudnya apa sih masa sewa yang sedang berjalan itu, ya?","**Masa sewa yang sedang berjalan** berarti periode di mana barang yang Anda sewa sudah berada dalam status **“Dalam Masa Sewa”**.  
+
+- Setelah admin menandai pesanan Anda sebagai *Dalam Masa Sewa* (biasanya setelah barang diambil), hitungan waktu sewa mulai berjalan.  
+- Selama masa ini Anda dapat menggunakan barang tersebut hingga batas waktu pengembalian yang sudah ditentukan.  
+- Setelah barang dikembalikan, status akan berubah menjadi *Dikembalikan* dan masa sewa berakhir.  
+
+Jadi, “masa sewa yang sedang berjalan” adalah waktu di antara pengambilan barang dan pengembaliannya, ketika Anda sedang memanfaatkan barang sewaan tersebut.",0.7777777777777778,0.8263810424901417,0.5833333333041666,1.0,0.2,0.6682412422403625
+Q84,in_scope,sewa,Kenapa statusku balik lagi dong?,"Halo! Jadi kalau status pesanan Anda “balik lagi” (misalnya berubah ke status sebelumnya atau tidak maju), biasanya ada beberapa penyebab yang umum:
+
+| Penyebab | Penjelasan |
+|----------|------------|
+| **Pembayaran belum terkonfirmasi** | Setelah Anda melakukan pembayaran, status masih akan **Menunggu Verifikasi** hingga admin memeriksa bukti pembayaran. Jika verifikasi belum selesai, status tidak akan melanjut ke **Dikemas** atau **Siap Diambil**.<br>*(Lihat Q70 & Q216 pada FAQ)* |
+| **Pembayaran tidak tercatat** | Kadang karena gangguan jaringan atau kesalahan pada sistem, pembayaran sudah berhasil tapi admin belum memperbarui status. Pastikan Anda sudah menerima **notifikasi pembayaran berhasil**. Jika tidak, hubungi admin untuk memastikan pembayaran tercatat.<br>*(Lihat Q216 “Pembayaran berhasil tapi status tidak berubah?”)* |
+| **Pesanan dibatalkan atau kedaluwarsa** | Jika Anda atau admin membatalkan pesanan, status berubah menjadi **Dibatalkan**. Jika barang tidak diambil dalam batas waktu (biasanya 3 hari setelah status *Siap Diambil*), status menjadi **Kedaluwarsa**.<br>*(Lihat Q77, Q78)* |
+| **Kesalahan teknis** | Kadang aplikasi mengalami glitch, sehingga status tampak “mundur”. Coba **tarik ulang (pull‑to‑refresh)** halaman pesanan, atau logout‑login kembali. Jika masih tidak berubah, laporkan ke CS.<br>*(Lihat Q90 “Pesanan tidak muncul di daftar?”)* |
+
+### Apa yang dapat Anda lakukan sekarang?
+1. **Periksa notifikasi** di aplikasi (pembayaran, verifikasi, atau pembatalan).  
+2. **Refresh** halaman riwayat pesanan.  
+3. **Cek email** (juga folder spam) untuk konfirmasi pembayaran/​verifikasi.  
+4. **Hubungi CS** jika tidak ada perubahan setelah 1‑2 jam kerja.  
+   - **Telepon/WhatsApp:** 0815‑2265‑0048  
+   - **Datang langsung** ke toko UnmulStore (Senin‑Jumat, 09.00‑15.00 WITA, Kampus Universitas Mulawarman).
+
+Jika setelah melakukan langkah‑langkah di atas status masih belum sesuai, tim admin akan membantu memeriksa detail pesanan Anda dan memperbaikinya. Semoga membantu! 🙏🏻",0.3243243243243243,0.6138998173959046,0.083333333325,1.0,0.0,0.4429923418069693
+Q88,in_scope,pesanan,Gimana ya bisa tau status pesanan berubah?,"Berikut cara mengetahui apabila status pesanan Anda berubah di **Unmul Store**:
+
+1. **Buka menu “Pesanan”** pada navigasi bawah aplikasi/website.  
+2. Di sana akan terlihat daftar semua pesanan Anda, termasuk status terkini masing‑masing.  
+3. Pilih salah satu pesanan untuk membuka **detail pesanan**. Pada halaman detail terdapat **timeline/status** yang menampilkan langkah terakhir (misalnya “Menunggu Verifikasi”, “Dikemas”, “Siap Diambil”, atau “Selesai”).  
+4. **Tidak ada notifikasi push** otomatis, tetapi informasi deadline dan perubahan status ditampilkan langsung di halaman pesanan, sehingga Anda selalu dapat memantau perkembangannya.
+
+Jika ada pertanyaan lebih lanjut tentang cara‑cara melihat detail atau langkah‑langkah selanjutnya, silakan beri tahu saya!",0.5,0.6857512172130908,0.999999999975,1.0,0.31,0.7052920793445072
+Q89,in_scope,pesanan,Gimana sih cara ngecek ID pesanan aku?,"Untuk mengecek ID pesanan Anda di Unmul Store, ikuti langkah berikut:
+
+1. **Buka aplikasi atau situs Unmul Store** dan masuk dengan akun Anda.  
+2. Pilih menu **“Pesanan”** (biasanya berada di navigasi bawah).  
+3. Di halaman daftar pesanan, pilih pesanan yang ingin Anda lihat.  
+4. Pada **detail pesanan**, ID pesanan akan ditampilkan jelas di bagian atas atau di sebelah nomor order.  
+
+ID pesanan juga muncul di riwayat pesanan, sehingga Anda dapat melihatnya kapan saja. Jika masih belum menemukan, pastikan Anda berada di halaman *detail* bukan sekadar ringkasan.  
+
+Semoga membantu! Jika ada pertanyaan lain, silakan beri tahu.",0.2222222222222222,0.5384718153820128,0.9999999999,1.0,0.13,0.4986871926862701
+Q90,in_scope,pesanan,"Kalau nggak ada pesanan yang muncul, harus gimana?","Jika tidak ada pesanan yang muncul di aplikasi, coba ikuti langkah‑langkah berikut:
+
+1. **Pastikan masuk dengan akun yang sama**  
+   – Saat Anda melakukan pemesanan, gunakan akun yang sama dengan yang sedang Anda login sekarang. Jika Anda login dengan akun berbeda, pesanan tidak akan terlihat.
+
+2. **Tarik (pull‑to‑refresh) untuk memuat ulang daftar**  
+   – Pada halaman **Menu → Pesanan**, geser layar ke bawah sampai muncul animasi refresh. Ini akan meminta server mengirimkan data pesanan terbaru.
+
+3. **Cek kembali setelah beberapa saat**  
+   – Kadang server membutuhkan waktu sedikit untuk memperbarui status. Tunggu beberapa menit lalu refresh kembali.
+
+4. **Jika masih tidak muncul**  
+   – Hubungi tim admin Unmul Store (misalnya lewat chat di aplikasi atau email yang tertera di *Contact Us*). Berikan nomor order atau bukti pembayaran supaya mereka dapat memeriksa apakah pesanan Anda sudah tercatat.
+
+Dengan memastikan akun yang tepat, melakukan refresh, dan menghubungi admin bila diperlukan, biasanya masalah “pesanan tidak muncul” dapat terselesaikan.",0.3571428571428571,0.4734500206658699,0.8333333332916666,1.0,0.12,0.7903167763000392
+Q91,in_scope,pengambilan_pengiriman,Barangnya bisa diambil di mana?,"Berikut informasi mengenai tempat pengambilan barang di **Unmul Store**:
+
+- **Lokasi pengambilan**: Barang yang dibeli dengan metode **“Bayar di Toko”** dapat diambil langsung di kantor Unmul Store yang berada di kampus Universitas Mulawarman, **Jl. Kuaro, Gunung Kelua, Kecamatan Samarinda Ulu, Kota Samarinda, Kalimantan Timur**.  
+
+- **Jam operasional**: Toko buka dari **Senin sampai Jumat, pukul 09.00 – 15.00 WITA**.  
+
+- **Batas waktu pengambilan**: Setelah status pesanan berubah menjadi *Siap Diambil*, barang harus diambil dalam **3 hari**. Jika tidak diambil dalam jangka waktu tersebut, pesanan dapat kedaluwarsa.
+
+Jadi, Anda dapat datang ke alamat di atas selama jam operasional untuk mengambil barang Anda. Jika ada pertanyaan lain, silakan beri tahu saya!",0.9,0.4625821362899074,0.7499999999625,1.0,0.2,0.6601900748935889
+Q92,in_scope,pengambilan_pengiriman,"Ambilnya wajib berapa hari, nih?","Berdasarkan dokumen FAQ Unmul Store, **batas waktu pengambilan barang adalah 3 hari** sejak pesanan berstatus **“Siap Diambil.”** Jika tidak diambil dalam periode tersebut, pesanan akan berubah menjadi **kedaluwarsa** dan stok barang akan kembali ke sistem.",1.0,0.3524040964727077,0.9999999999666668,1.0,0.5,0.7926978817142227
+Q93,in_scope,pembatalan,"Kalau barangnya nggak diambil, jadi hangus nggak ya?","Berikut penjelasan yang diambil dari FAQ Unmul Store:
+
+- **Batas waktu pengambilan barang**: setelah status pesanan berubah menjadi **“Siap Diambil”**, Anda memiliki **3 hari** untuk mengambil barang tersebut di lokasi Unmul Store.  
+- **Jika tidak diambil sampai batas waktu**: pesanan akan otomatis berubah status menjadi **“Kedaluwarsa”**. Stok barang akan dikembalikan ke sistem, dan pesanan tidak dapat diproses lebih lanjut.  
+
+Jadi, barang yang tidak diambil dalam 3 hari tidak akan hangus secara permanen, tetapi pesanan Anda akan dibatalkan dan stok kembali tersedia untuk pembeli lain. Jika Anda membutuhkan bantuan lebih lanjut (misalnya memperpanjang waktu atau mengajukan request khusus), silakan hubungi layanan pelanggan Unmul Store.",0.3636363636363636,0.34903531035543,0.9166666666361112,1.0,0.0,0.5802262064348049
+Q94,in_scope,deadline,Gimana cara tau batas waktu ambilnya?,"Batas waktu pengambilan (deadline) untuk pesanan Anda adalah **3 hari sejak pesanan dinyatakan “Siap Diambil”**.  
+
+- Pada halaman *My Orders* Anda akan melihat hitung‑mundur (countdown) yang menunjukkan sisa hari hingga batas tersebut.  
+- Jika barang tidak diambil sampai batas 3 hari, pesanan akan berstatus **Kedaluwarsa** dan stok barang akan dikembalikan ke sistem, sehingga pesanan tidak dapat dilanjutkan.
+
+Jadi, cek countdown di halaman pesanan Anda untuk memastikan Anda mengambil barang sebelum 3 hari berlalu.",0.6666666666666666,0.4481347215831012,0.49999999995,1.0,0.0,0.6506188810762041
+Q99,in_scope,klaim_almamater,Proses klaim almamater itu ada waktu tertentu nggak?,"Berikut informasi yang ditemukan di FAQ Unmul Store mengenai klaim almamater:
+
+- **Jadwal pengambilan almamater** ditetapkan oleh admin setelah klaim diverifikasi.  
+- Umumnya pengambilan dilakukan pada **minggu setelah klaim diapprove**.  
+- Jadi, proses klaim tidak memiliki batas waktu khusus, tetapi pengambilan almamater akan sesuai jadwal yang diberikan oleh admin setelah verifikasi.
+
+Jika ada pertanyaan lain tentang proses klaim atau detail lainnya, silakan tanyakan!",0.5,0.4303782802726419,0.99999999995,1.0,0.0,0.5199639831173204
+Q100,in_scope,sewa,Gimana alur sewa di UnmulStore?,"Berikut alur penyewaan barang di **Unmul Store**:
+
+1. **Menunggu Verifikasi**  
+   - Setelah Anda mengajukan permintaan sewa, tim admin akan memeriksa dan memverifikasi pesanan Anda.
+
+2. **Siap Diambil**  
+   - Setelah diverifikasi, barang akan dipersiapkan dan status pesanan berubah menjadi *Siap Diambil*. Anda dapat menjemput barang di toko Unmul Store atau mengatur pengambilan sesuai kebijakan toko.
+
+3. **Dalam Masa Sewa**  
+   - Pada saat barang sudah berada di tangan Anda, status berubah menjadi *Dalam Masa Sewa*. Pada tahap ini Anda dapat menggunakan barang hingga batas waktu pengembalian yang telah ditentukan.
+
+4. **Dikembalikan**  
+   - Setelah masa sewa selesai, Anda mengembalikan barang ke toko. Admin akan memeriksa kondisi barang dan mengubah status menjadi *Dikembalikan*.
+
+5. **Selesai**  
+   - Jika semua persyaratan terpenuhi (misalnya tidak ada kerusakan dan deposit dikembalikan), pesanan akan berstatus *Selesai*.
+
+Jika ada pertanyaan lebih lanjut tentang cara mengembalikan barang, deposit, atau denda keterlambatan, silakan beri tahu saya!",0.5,0.4023370781739955,0.0,0.0,0.0,0.451996008764574
+Q101,in_scope,sewa,Bisa sewa barang apa aja?,"Berikut ini barang‑barang yang **bisa disewa** di Unmul Store:
+
+| Produk yang dapat disewa | Keterangan |
+|--------------------------|------------|
+| **Toga** | Hanya toga yang tersedia dalam mode penyewaan. Semua produk lain (misalnya selempang cumlaude, almamater, atau barang‑barang jual) hanya dapat dibeli, tidak dapat disewa. |
+
+Jadi, bila Anda ingin menyewa, pilih **toga** melalui halaman produk, lalu ubah mode menjadi **Sewa** sebelum melanjutkan checkout. Jika ada pertanyaan lain tentang cara penyewaan atau kebijakan terkait, silakan beri tahu saya!",0.8,0.3456995214222152,0.99999999995,1.0,0.0,0.4170151155434131
+Q102,in_scope,sewa,"Batas waktu sewa paling lama itu berapa, ya?","Batas waktu penyewaan tidak ditentukan satu angka tetap untuk seluruh produk. Setiap barang yang disewakan mempunyai **return deadline** (tanggal dan waktu pengembalian maksimal) yang ditetapkan oleh admin toko. Jadi lama maksimal penyewaan tergantung pada produk yang Anda pilih; bila melewati deadline tersebut barang harus segera dikembalikan atau akan dikenakan denda.
+
+Jika Anda ingin mengetahui batas waktu paling lama untuk produk tertentu (misalnya toga atau barang lain), silakan cek detail produk di Unmul Store atau hubungi admin Unmul Store untuk konfirmasi.",0.6,0.6548587382434922,0.499999999975,1.0,0.4,0.6614130399221892
+Q103,in_scope,sewa,"Admin yang nentuin batas waktu sewa, nggak?","Admin atau superadmin Unmul Store yang **menetapkan batas waktu** (deadline) untuk pengembalian barang sewa. Batas ini ditetapkan saat produk dikelola, dan sistem akan mencatatnya ketika penyewaan dimulai. Jika Anda ingin mengubah atau memperpanjang batas tersebut, silakan menghubungi admin toko.",0.6,0.3688259879714661,0.999999999975,1.0,0.4,0.7794963913495272
+Q104,in_scope,sewa,Mulai kapan ya sewa itu dihitung?,"Sewa baru **mulai dihitung** setelah barang diambil dan pesanan ditandai oleh admin sebagai **“Dalam Masa Sewa.”**  
+Artinya, ketika status pesanan berubah menjadi *Dalam Masa Sewa* (biasanya saat Anda mengambil barang), sistem mulai menghitung durasi sewa. Jadi hitungan waktu sewa dimulai tepat pada saat barang diserahkan kepada penyewa.",0.5,0.6068887955444197,0.9999999999,1.0,0.57,0.8387986845067152
+Q105,in_scope,sewa,Gimana sih caranya buat balikin barang yang disewa?,"Berikut prosedur pengembalian barang yang Anda sewakan di Unmul Store:
+
+1. **Kembalikan barang ke toko Unmul Store**  
+   - Bawa barang yang Anda sewa ke lokasi toko (biasanya di kampus) sebelum batas waktu (return deadline) yang tercantum pada pesanan.
+
+2. **Konfirmasi oleh admin**  
+   - Setelah barang diterima, admin akan memeriksa kondisi barang. Jika barang dalam keadaan baik sesuai ketentuan, status pesanan akan berubah menjadi **“Dikembalikan”** dan kemudian menjadi **“Selesai.”**
+
+3. **Deposit (jika ada)**  
+   - Deposit atau jaminan yang Anda bayar akan dikembalikan setelah barang diperiksa dan dinyatakan baik. Jika terdapat kerusakan atau kehilangan di luar batas wajar, deposit dapat dipotong sesuai kebijakan.
+
+4. **Jika melewati batas pengembalian**  
+   - Jika barang dikembalikan setelah return deadline, dapat dikenakan denda sesuai ketentuan toko.
+
+Pastikan barang yang akan dikembalikan dalam kondisi bersih dan tidak rusak agar deposit dapat dikembalikan sepenuhnya. Jika ada pertanyaan lebih lanjut, silakan hubungi admin Unmul Store.",0.3125,0.4323795698522196,0.9999999999,1.0,0.0,0.7621817084358329
+Q106,in_scope,deposit,Jaminannya balik nggak?,"Berikut ini penjelasan mengenai **jaminan (deposit) balik** di Unmul Store:
+
+| Pertanyaan | Jawaban |
+|------------|---------|
+| **Apakah deposit dikembalikan?** | Ya. Deposit atau uang jaminan akan dikembalikan setelah barang yang disewa dikembalikan dalam kondisi baik. |
+| **Kapan deposit dikembalikan?** | Deposit dikembalikan setelah admin mengonfirmasi bahwa barang telah dikembalikan dalam kondisi baik. Proses ini terjadi setelah Anda menyerahkan barang ke toko Unmul Store. |
+| **Apakah deposit kembali bila sewa dibatalkan?** | Jika penyewaan dibatalkan **sebelum** proses sewa dimulai, deposit akan dikembalikan sesuai ketentuan yang berlaku. |
+| **Apakah ada potongan?** | Potongan hanya berlaku jika terdapat kerusakan di luar wajar. Jika barang kembali dalam kondisi baik, tidak ada pemotongan. |
+
+Jadi, selama Anda mengembalikan barang sewa dalam kondisi baik dan mengikuti prosedur pengembalian ke toko, deposit Anda akan **dikembalikan**. Jika ada kerusakan, admin dapat memotong sesuai kebijakan.",0.875,0.3351217371595883,0.9999999999666668,1.0,0.0,0.6819415153950987
+Q107,in_scope,sewa,"Kalau barang yang disewa ilang, nanti bakal gimana?","Berikut penjelasan yang tercantum dalam **FAQ Unmul Store**:
+
+- **Jika barang sewa hilang atau rusak**:  
+  Pada saat pengembalian, barang akan diperiksa kondisinya.  
+  Kerusakan atau kehilangan yang di luar batas wajar **akan memengaruhi pengembalian deposit** sesuai kebijakan toko. Jadi, deposit Anda dapat dipotong untuk menutupi kerugian tersebut.
+
+Singkatnya, bila barang yang Anda sewa tidak kembali, deposit yang Anda bayarkan akan dipotong untuk mengganti barang yang hilang. Jika ada pertanyaan lebih lanjut tentang proses pengembalian atau deposit, silakan beri tahu saya!",0.3333333333333333,0.3741367832071197,0.8333333332916666,1.0,0.29,0.7742823384661353
+Q2,in_scope,umum,Di UnmulStore itu menu tersedia apa aja?,"Berikut ini menu utama yang tersedia di **Unmul Store**:
+
+| Menu | Keterangan |
+|------|------------|
+| **Beranda / Katalog Produk** | Menampilkan semua merchandise (kaos, jaket, tote bag, dll) yang dapat dibeli. |
+| **Keranjang** | Menyimpan barang yang ingin dibeli sebelum proses checkout. |
+| **Checkout** | Proses pembayaran dan pengisian data pengiriman. |
+| **Riwayat & Status Pesanan** | Melihat status pesanan (diproses, dikirim, selesai) serta riwayat pembelian. |
+| **Profil Pengguna** | Mengelola data akun, alamat, dan preferensi. |
+| **Akademik** | Layanan khusus akademik: <br>‑ **Almamater Maba** (pemesanan/klaim) <br>‑ **Toga** (pemesanan/sewa) |
+| **Merchandise** | Produk merch kampus (kaos, jaket, topi, tas, dll). |
+| **Fasilitas & Sewa** | Penyewaan fasilitas kampus seperti lapangan atau lahan (belum semua aktif). |
+| **Layanan Lain** | Menu yang masih dalam pengembangan (mis: UKT, pulsa, listrik, perjalanan) – ditandai “Layanan Belum Tersedia”. |
+
+Jika ada menu yang belum aktif, biasanya akan muncul label **“Layanan Belum Tersedia”**. Bila butuh detail lebih lanjut tentang produk atau cara pemesanan pada menu tertentu, silakan beri tahu saya!",0.4827586206896552,0.8849466423107529,0.9999999999666668,1.0,0.42,0.5077456688618294
+Q5,in_scope,umum,"Di UnmulStore, tersedia nggak layanan UKT, pesawat, sama pulsa?","Berikut informasi yang kami temukan pada **FAQ UnmulStore**:
+
+- Pada menu **Layanan** aplikasi terdapat beberapa pilihan, antara lain:
+  - **Akademik**: Almamater Maba, Toga, **UKT**
+  - **Perjalanan**: **Pesawat**, Hotel
+  - **Digital**: Listrik, **Pulsa**
+
+- Namun **hanya** layanan **Almamater Maba**, **Toga**, dan **Merchandise** yang sudah aktif.  
+  Semua layanan lainnya (termasuk **UKT**, **pesawat**, dan **pulsa**) saat ini masih ditandai dengan keterangan **“Layanan Belum Tersedia”**.
+
+Jadi, di UnmulStore *tersedia* menu layanan UKT, pesawat, dan pulsa, tetapi **belum dapat dipakai** karena layanan tersebut belum aktif. Jika ada pembaruan atau layanan tersebut sudah tersedia, informasinya akan diperbarui di aplikasi.",0.9310344827586208,0.8804902747316912,0.3333333333,1.0,0.84,0.7209078761987535
+Q24,in_scope,produk,Biaya rentalnya lebih murah nggak?,"Berikut ini penjelasan mengenai harga sewa (rental) di Unmul Store:
+
+- **Harga sewa biasanya lebih murah daripada harga beli.**  
+  Pada halaman detail produk, ketika Anda memilih mode **Sewa**, akan muncul harga sewa (rental_price) yang memang lebih rendah dibandingkan harga jual produk tersebut.
+
+- **Produk yang dapat disewa** hanyalah **toga**. Produk lain (misalnya almamater) hanya tersedia untuk dibeli, jadi tidak ada harga sewa untuk mereka.
+
+- **Harga sewa bersifat spesifik per produk** (misalnya ukuran atau jenjang tertentu) sehingga nilainya dapat berbeda‑beda. Untuk mengetahui angka pastinya, silakan buka detail produk toga yang ingin Anda sewa; di sana akan tertampilkan tarif sewa yang berlaku.
+
+Jadi, ya, **biaya rental di Unmul Store memang lebih murah dibandingkan harga beli**, tetapi hanya berlaku untuk produk yang memang memiliki opsi sewa (saat ini hanya toga). Jika Anda ingin melihat harga sewa konkret, cukup pilih produk toga yang diinginkan dan pilih mode “Sewa”. Semoga membantu!",0.6428571428571429,0.7434677194092254,0.49999999995,1.0,0.0,0.7203817799561747
+Q36,in_scope,stok,"Maksud dari stock dan rental_stock itu apa, dong?","**Stock** dan **rental_stock** adalah dua jenis stok yang dikelola secara terpisah di Unmul Store:
+
+| Jenis | Penjelasan |
+|-------|------------|
+| **stock** (stok beli) | Menunjukkan berapa banyak barang yang tersedia untuk **dibeli**. Stok ini berkurang secara otomatis ketika sebuah pesanan pembelian berhasil checkout. Setelah barang dibeli, stok tidak akan kembali karena barang tersebut sudah terjual. |
+| **rental_stock** (stok sewa) | Menunjukkan berapa banyak barang yang tersedia untuk **disewa**. Stok ini berkurang ketika penyewaan berhasil dibuat (checkout). Setelah periode penyewaan selesai dan barang dikembalikan, rental_stock akan **dipulihkan** sehingga barang bisa disewakan lagi. |
+
+Jadi, *stock* digunakan untuk transaksi penjualan, sedangkan *rental_stock* digunakan khusus untuk transaksi penyewaan. Kedua stok ini tidak saling memengaruhi; misalnya, jika ada 5 toga untuk disewa, hanya rental_stock yang berkurang saat ada yang menyewa, sementara stock tetap tidak berubah.",0.9230769230769232,0.6995063161096923,0.99999999995,1.0,0.64,0.6734989255778496
+Q44,in_scope,stok,Stok tiap variasi gimana?,"Stok tiap variasi (ukuran, jenjang, warna, dll) ditampilkan secara terpisah pada halaman detail produk.  
+
+- Saat Anda membuka detail produk, Anda akan melihat **jumlah stok** di sebelah tombol “Tambah ke Keranjang”.  
+- Jika produk memiliki variasi, pilih dulu kombinasi yang diinginkan (misalnya ukuran S atau jenjang Maba) pada *bottom sheet*; setelah pilihan dipilih, angka stok yang muncul adalah **stok untuk kombinasi tersebut**.  
+
+Jadi, setiap kombinasi variasi memiliki kuantitas stok masing‑masing. Jika semua variasi habis, produk akan tetap muncul tetapi berwarna abu‑abu untuk menandakan tidak ada stok yang tersedia.  
+
+Catatan tambahan: tiap produk memiliki dua tipe stok – **stock** (untuk pembelian) dan **rental_stock** (untuk penyewaan) – yang dihitung terpisah. Jika Anda memilih opsi “beli”, yang dicek adalah *stock*; jika menyewa, yang dicek adalah *rental_stock*.  ",0.6875,0.4564890116280278,0.8333333332916666,1.0,0.24,0.7370799441442715
+Q48,in_scope,stok,"Isi cart-ku nggak bakal kena stok habis, kan?","Berikut penjelasan dari FAQ Unmul Store mengenai stok dan keranjang belanja:
+
+- **Stok di keranjang tidak “dipotong” secara permanen**. Saat Anda menambahkan barang ke keranjang, aplikasi belum mengurangi stok secara final.  
+- **Saat checkout**, stok akan divalidasi lagi. Jika pada saat itu stok sudah habis, pesanan **tidak dapat dibuat** dan stok yang sempat terpotong akan otomatis dikembalikan. Anda akan melihat pesan bahwa stok tidak cukup.  
+
+Jadi, isi keranjang Anda tidak menjamin barang tetap tersedia sampai proses checkout selesai. Pastikan melakukan checkout secepatnya untuk menghindari kehabisan stok.",0.4444444444444444,0.3899794614274461,0.9166666666361112,1.0,0.36,0.6601851532824895
+Q52,in_scope,keranjang,Harga sewanya di keranjang gimana nih?,"Saat Anda memilih **mode sewa** pada produk, yang masuk ke keranjang adalah **harga sewanya** (rental_price). Deposit atau uang jaminan **tidak termasuk** dalam harga tersebut, melainkan akan ditambahkan secara otomatis ke total pembayaran saat checkout. Jadi di keranjang Anda akan melihat hanya harga sewa, kemudian pada halaman checkout total akan terdiri dari:
+
+1. Harga sewa (dari semua item yang dipilih)  
+2. Deposit/jaminan yang otomatis ditambahkan di atas harga sewa  
+
+Jika ada pertanyaan lain tentang cara mengubah mode sewa atau detail checkout, silakan beri tahu saya!",0.5714285714285714,0.5027790848815705,0.9999999999666668,1.0,0.5,0.6210697136790202
+Q55,in_scope,deposit,"Deposit otomatisnya ikutan masuk ke total pembayaran nggak, nih?","Berikut penjelasan mengenai deposit pada proses checkout di Unmul Store:
+
+- **Deposit otomatis ditambahkan ke total pembayaran** saat Anda melakukan checkout untuk produk yang disewakan.  
+- Total yang Anda lihat di halaman checkout sudah termasuk **harga sewa + deposit**.  
+- Deposit bukan biaya sewa permanen; **akan dikembalikan** setelah barang dikembalikan dalam kondisi baik (sesuai kebijakan pengembalian deposit).
+
+Jadi, ya, deposit memang masuk ke total pembayaran secara otomatis. Jika ada pertanyaan lain tentang cara kerja deposit atau proses checkout, silakan tanyakan!",0.375,0.7238981433054059,0.999999999975,1.0,0.0,0.7455901231509738
+Q59,in_scope,stok,Bisa nggak sih beli barangnya melebihi stok?,"Berikut ini penjelasan resmi dari Unmul Store terkait pembelian melebihi stok:
+
+- **Tidak bisa**. Sistem Unmul Store melindungi stok sehingga tidak memungkinkan pesanan dibuat bila jumlah yang diminta melebihi stok yang tersedia.  
+- Jika pada saat checkout stok tidak cukup, pesanan **gagal** dan Anda akan menerima pesan bahwa stok tidak cukup. Stok yang sempat terpotong akan otomatis dikembalikan.  
+- Dengan mekanisme ini, **overselling** (penjualan melebihi stok) tidak terjadi.
+
+Jadi, Anda tidak dapat membeli barang yang melebihi jumlah stok yang ada. Jika stok habis, Anda dapat menunggu stok kembali atau memilih produk lain.",0.4166666666666667,0.7115820784475254,0.999999999975,0.5,0.4,0.5338051864636788
+Q60,in_scope,keranjang,"Kalau checkoutnya putus, harus ngapain?","Berikut langkah‑langkah yang bisa Anda lakukan jika proses checkout terputus:
+
+1. **Cek status pesanan**  
+   - Jika **pesanan sudah terkonfirmasi** (biasanya muncul notifikasi “Pesanan berhasil dibuat”), pesanan tersebut sudah disimpan di sistem dan Anda tidak perlu mengulanginya. Anda dapat melihatnya di menu **Pesanan**.
+
+2. **Jika belum terkonfirmasi**  
+   - Tutup aplikasi (atau halaman web) lalu **buka kembali** Unmul Store.  
+   - Masuk dengan akun yang sama, lalu masuk ke **Keranjang**. Jika barang masih ada, **lanjutkan proses checkout** kembali.  
+   - Pastikan koneksi internet stabil dan stok produk masih tersedia.
+
+3. **Jika barang tidak muncul di keranjang**  
+   - Kemungkinan checkout terputus sebelum pesanan disimpan. Tambahkan kembali produk yang ingin dibeli ke keranjang, kemudian **ulangi proses checkout**.
+
+4. **Jika masih mengalami kendala**  
+   - Periksa apakah ada pesan error (misalnya stok tidak cukup atau masalah pembayaran).  
+   - Hubungi admin Unmul Store melalui **Live Chat** atau **WhatsApp** yang tertera di aplikasi untuk konfirmasi dan bantuan lebih lanjut.
+
+Intinya: pesanan yang sudah terkonfirmasi tetap tersimpan; kalau belum, cukup ulangi checkout setelah membuka kembali aplikasi. Jika masih gagal, mintalah bantuan admin.",0.4347826086956521,0.779557597694918,0.9999999999,1.0,0.14,0.7230032079200807
+Q69,in_scope,pesanan,"Ada status apa aja buat order, nih?","Berikut daftar status order yang bisa Anda temui di Unmul Store, dengan penjelasan singkat untuk masing‑masing jenis pesanan:
+
+---
+
+### 1. **Pembelian (ambil di toko)**
+| Urutan | Status | Penjelasan |
+|--------|--------|------------|
+| 1 | **Menunggu Verifikasi** | Pesanan baru saja dibuat dan sedang menunggu admin memverifikasi serta memprosesnya. |
+| 2 | **Dikemas** | Admin sedang menyiapkan/mengemas barang agar siap diambil. |
+| 3 | **Siap Diambil** | Barang sudah siap dan dapat diambil langsung di toko Unmul Store. |
+| 4 | **Selesai** | Anda telah mengambil barang dan transaksi selesai. |
+
+---
+
+### 2. **Penyewaan (Rental)**
+| Urutan | Status | Penjelasan |
+|--------|--------|------------|
+| 1 | **Menunggu Verifikasi** | Permintaan sewa sedang diperiksa admin. |
+| 2 | **Siap Diambil** | Barang siap diambil di toko. |
+| 3 | **Dalam Masa Sewa** | Barang sedang Anda gunakan sejak admin memulai masa sewa hingga batas pengembalian. |
+| 4 | **Dikembalikan** | Barang sudah dikembalikan ke toko. |
+| 5 | **Selesai** | Proses sewa berakhir dan tidak ada kewajiban lagi. |
+
+> **Catatan tambahan:**  
+> - **Terlambat** – muncul bila barang belum dikembalikan melewati batas waktu.  
+> - **Disetujui / Menunggu Pembatalan / Ditolak / Dibatalkan / Kedaluwarsa** – status tambahan yang dapat muncul pada tahap verifikasi atau pembatalan.
+
+---
+
+Jika Anda ingin mengetahui status order Anda saat ini, cukup buka menu **“Pesanan”** pada navigasi bawah aplikasi Unmul Store, pilih order yang bersangkutan, dan lihat detail statusnya. Semoga membantu! 🙌",0.7272727272727273,0.3848117403467498,0.999999999975,1.0,0.4,0.6522532108133032
+Q72,in_scope,pesanan,Barangku udah bisa diambil belum?,"Berikut penjelasan mengenai status **“Siap Diambil”** pada Unmul Store:
+
+- **Arti status**: Barang Anda sudah selesai diproses dan telah siap untuk diambil di lokasi UnmulStore.  
+- **Lokasi pengambilan**: UnmulStore berada di kampus Universitas Mulawarman, Jl. Kuaro, Gunung Kelua, Samarinda Ulu, Kota Samarinda, Kalimantan Timur.  
+- **Batas waktu pengambilan**: Anda memiliki **3 hari** sejak status berubah menjadi *Siap Diambil* untuk mengambil barang tersebut. Jika tidak diambil dalam periode ini, pesanan dapat kedaluwarsa dan barang akan kembali ke stok.
+
+**Cara memeriksa status pesanan Anda:**
+1. Buka aplikasi UnmulStore dan masuk dengan akun Anda.  
+2. Pilih menu **“Riwayat / Status Pesanan”**.  
+3. Cari pesanan yang ingin Anda cek; jika berstatus **“Siap Diambil”**, maka barang sudah dapat diambil di toko.  
+4. Jika belum terlihat atau masih dalam status lain (misalnya *Menunggu Verifikasi* atau *Dikemas*), tunggu hingga status berubah atau tarik‑refresh daftar pesanan.
+
+Jika Anda sudah melihat status **“Siap Diambil”**, silakan datang ke UnmulStore pada jam operasional (Senin‑Jumat, 09.00‑15.00 WITA) dan tunjukkan nomor pesanan atau QR‑code pada aplikasi untuk proses pengambilan.
+
+Apabila ada pertanyaan lebih lanjut atau Anda belum menemukan status tersebut, beri tahu kami nomor pesanan Anda agar kami dapat membantu memeriksa detailnya. 😊",0.375,0.0875317420030508,0.9999999999,1.0,0.22,0.6191307031851943
+Q77,in_scope,pesanan,"Kalau order dibatalin, bakal gimana?","Berikut penjelasan mengenai apa yang terjadi bila **order Anda dibatalkan** di Unmul Store:
+
+| Tahapan | Penjelasan |
+|---|---|
+| **Pengajuan pembatalan** | Anda dapat mengajukan pembatalan melalui aplikasi/website. Status pesanan akan berubah menjadi **“Menunggu Pembatalan”** (status ini menandakan bahwa permintaan pembatalan sedang menunggu persetujuan admin). |
+| **Persetujuan admin** | Pembatalan **tidak otomatis**; admin harus menyetujui terlebih dahulu. Jika admin menyetujui, status berubah menjadi **“Dibatalkan”**. |
+| **Pengembalian stok** | Setelah pesanan dibatalkan (baik oleh Anda maupun oleh admin), **stok barang akan otomatis dikembalikan** ke jumlah yang tersedia, sehingga barang dapat dipesan kembali oleh pengguna lain. |
+| **Deposit / jaminan (untuk sewa)** | Jika order Anda berupa **sewa** dan dibatalkan **sebelum penyewaan dimulai**, deposit atau jaminan yang telah dibayarkan akan **dikembalikan** sesuai ketentuan yang berlaku. |
+| **Pengaruh pada akun** | Pembatalan **tidak memengaruhi** penilaian atau akun Anda secara permanen, selama Anda mengikuti prosedur yang ada. Tidak ada penalti khusus kecuali terjadi pelanggaran kebijakan lain. |
+| **Jika barang sudah diproses** | Pada beberapa kondisi (misalnya barang sudah masuk proses pengemasan atau pengiriman), **pembatalan mungkin tidak dapat dilakukan**. Pada kasus ini, admin akan memberi tahu alasan penolakan pembatalan. |
+
+**Ringkasnya:**  
+1. Anda ajukan pembatalan → status “Menunggu Pembatalan”.  
+2. Admin menyetujui → status “Dibatalkan”.  
+3. Stok barang kembali tersedia.  
+4. Untuk sewa, deposit dikembalikan bila dibatalkan sebelum berjalan.  
+5. Tidak ada dampak negatif pada akun bila prosedur diikuti.  
+
+Jika Anda membutuhkan bantuan untuk mengajukan pembatalan atau melihat status pesanan, silakan masuk ke akun Unmul Store dan pilih menu **“Riwayat Pesanan” → “Ajukan Pembatalan”**. Jika ada pertanyaan lebih lanjut, kami siap membantu!",0.5384615384615384,0.6256148131780807,0.8055555555287036,1.0,0.11,0.5450489158417425
+Q80,in_scope,pesanan,Gimana alur status pembelian di tokonya?,"Berikut alur status pembelian di Unmul Store:
+
+1. **Menunggu Verifikasi** – Pesanan Anda sedang diperiksa oleh admin.
+2. **Dikemas** – Setelah diverifikasi, barang akan dipersiapkan dan dikemas.
+3. **Siap Diambil** – Barang sudah tersedia untuk diambil di toko (atau akan dikirim jika memilih layanan pengiriman).
+4. **Selesai** – Pesanan selesai; untuk pembelian, barang sudah menjadi milik Anda.
+
+Setiap tahap dapat dilihat di halaman “Detail Pesanan” pada aplikasi atau situs Unmul Store. Jika ada status lain seperti “Ditolak”, “Dibatalkan”, atau “Menunggu Pembatalan”, itu berarti ada masalah atau permintaan pembatalan yang sedang diproses. Semoga membantu! 🚀",0.3846153846153846,0.7730823041212065,0.9999999999,1.0,0.0,0.4591535939927373
+Q85,in_scope,denda,Status penyewaan gue kok telat ya?,"Hai! Status **“Terlambat”** pada penyewaan muncul ketika barang yang Anda sewa belum dikembalikan hingga melewati batas waktu pengembalian yang telah ditentukan. Karena melewati batas tersebut, sistem otomatis memberi label *Terlambat* dan biasanya akan dikenakan **denda keterlambatan** (biasanya Rp 10.000 per hari, tergantung produk).
+
+Berikut hal‑hal yang bisa Anda lakukan:
+
+1. **Cek timeline penyewaan**  
+   - Buka halaman **Status Pesanan** di Unmul Store. Di sana akan terlihat alur lengkap: *Menunggu Verifikasi → Siap Diambil → Dalam Masa Sewa → Terlambat → Dikembalikan → Selesai*.
+
+2. **Kembalikan barang secepat‑nya**  
+   - Setelah barang dikembalikan, status akan berubah menjadi **“Dikembalikan”** dan admin akan memfinalisasi penyewaan. Semakin cepat Anda mengembalikan, semakin sedikit denda yang akan dikenakan.
+
+3. **Hubungi admin**  
+   - Jika ada kendala (misalnya barang masih dalam proses pengiriman atau Anda butuh perpanjangan waktu), segera hubungi tim admin Unmul Store melalui chat di aplikasi atau email yang tertera pada halaman pesanan. Mereka dapat membantu memperpanjang masa sewa atau meninjau kembali denda jika memang ada alasan khusus.
+
+4. **Periksa denda**  
+   - Besaran denda biasanya **Rp 10.000 per hari**, namun dapat berbeda tergantung produk. Jika denda dipotong dari deposit, admin akan menginformasikannya pada Anda.
+
+Jika Anda sudah mengembalikan barang namun masih menunjukkan status “Terlambat”, pastikan foto bukti pengembalian (jika ada) sudah di‑upload atau beri tahu admin untuk mempercepat proses verifikasi.
+
+Semoga penjelasannya membantu! Jika ada pertanyaan lain mengenai penyewaan atau hal lain di Unmul Store, silakan beri tahu saya. 😊",0.2580645161290322,0.4880495457261481,0.9166666666361112,1.0,0.0,0.5628528290439803
+Q86,in_scope,pesanan,Gimana cara cek status pesanan?,"Untuk mengecek status pesanan di Unmul Store, ikuti langkah berikut:
+
+1. **Buka aplikasi/unmulstore.id** dan masuk dengan akun kamu.  
+2. Pada menu navigasi bawah, pilih **“Pesanan”**.  
+3. Di halaman **Daftar Pesanan**, kamu akan melihat semua order yang sedang berlangsung maupun yang sudah selesai.  
+4. Ketuk salah satu order untuk membuka **detail pesanan**. Di sana terdapat **timeline/status terkini** (misalnya : Menunggu Verifikasi → Dikemas → Siap Diambil → Selesai) serta **ID order** dan informasi deadline bila ada.  
+
+Jika ada perubahan status, kamu juga akan mendapat notifikasi di aplikasi.  
+
+Semoga membantu! Jika ada pertanyaan lain seputar pemesanan atau produk, silakan tanya.",0.6470588235294118,0.691266463553606,0.499999999975,1.0,0.0,0.4519438807785177
+Q98,in_scope,pengambilan_pengiriman,"Kalo ambil barang, proses sewa dan beli itu sama nggak?","Tidak, proses pengambilan barang untuk **sewa** dan **beli** di Unmul Store tidak sama.
+
+**Jika membeli (beli):**  
+1. *Menunggu verifikasi* pembayaran.  
+2. *Dikemas* oleh tim kami.  
+3. *Siap diambil* (atau dikirim, tergantung pilihan pengiriman).  
+4. *Selesai* – barang menjadi milik Anda secara permanen.
+
+**Jika menyewa (sewa):**  
+1. *Menunggu verifikasi* pembayaran.  
+2. *Siap diambil* langsung (tidak ada proses pengemasan).  
+3. *Dalam masa sewa* – Anda memakai barang selama jangka waktu yang telah ditentukan.  
+4. *Dikembalikan* ke Unmul Store setelah masa sewa berakhir.  
+5. *Selesai* – deposit atau jaminan akan dikembalikan (jika tidak ada kerusakan).
+
+Jadi, selain langkah verifikasi, **pembelian** melibatkan pengemasan dan kepemilikan permanen, sedangkan **penyewaan** langsung menuju pengambilan, diikuti masa penggunaan dan pengembalian barang. Jika ada pertanyaan lain tentang cara pemesanan atau status pesanan, silakan beri tahu!",0.6666666666666666,0.6165413583963111,0.249999999975,0.5,0.11,0.583031051996833
+Q108,in_scope,sewa,Gimana ya perpanjang masa sewanya?,"Untuk memperpanjang masa sewa, Anda perlu **menghubungi admin toko** terlebih dahulu, sebelum batas pengembalian (return deadline) yang tertera pada pesanan Anda.
+
+**Langkah‑langkahnya:**
+
+1. **Cek deadline** pada detail pesanan (biasanya di halaman “Riwayat Pesanan” atau melalui notifikasi email).  
+2. **Hubungi admin** – misalnya lewat chat di aplikasi Unmul Store, WhatsApp resmi kampus, atau email yang tertera di halaman kontak.  
+3. Sampaikan **nomor pesanan** serta **permintaan perpanjangan** (berapa hari/bulan tambahan yang Anda inginkan).  
+4. Admin akan memeriksa ketersediaan barang dan menghitung **biaya tambahan** (jika ada).  
+5. Setelah disetujui, admin akan **menyesuaikan deadline** di sistem, dan Anda akan menerima konfirmasi beserta detail pembayaran tambahan (jika diperlukan).
+
+Jadi, intinya: **koordinasikan dulu dengan admin sebelum batas pengembalian** agar perpanjangan dapat diproses. Jika ada pertanyaan lebih lanjut, silakan hubungi admin melalui kanal yang tersedia. Selamat menikmati layanan sewa!",0.2857142857142857,0.597786779560939,0.7499999999625,1.0,0.11,0.7271633544378194
+Q109,in_scope,sewa,"Nih, kalau mau sewa lebih dari satu barang, bisa gabung di satu order nggak?","Bisa, Anda dapat menyewa beberapa produk sekali langsung dalam satu pesanan selama stok sewa mencukupi. Jadi tidak perlu membuat order terpisah untuk tiap barang. Selamat berbelanja!",0.75,0.6102861766506107,0.99999999995,1.0,1.0,0.8209200421597411
+Q110,in_scope,sewa,Sewanya paling banyak berapa?,"Batas maksimal penyewaan tergantung pada dua hal:
+
+1. **Stok sewa yang tersedia** – Anda tidak dapat menyewa lebih banyak unit daripada yang ada dalam persediaan.
+2. **Batas maksimal per produk** yang ditetapkan oleh admin toko – tiap produk dapat memiliki limit khusus (misalnya maksimal 3 unit per order).
+
+Jadi, jumlah sewa terbesar yang dapat Anda lakukan adalah **jumlah stok yang masih ada dan tidak melebihi limit per‑produk** yang telah ditentukan. Jika ingin menyewa dalam jumlah besar, pastikan stok mencukupi atau hubungi admin Unmul Store untuk konfirmasi batas spesifik pada produk yang Anda inginkan.",0.5454545454545454,0.3232003460979405,0.49999999995,1.0,0.67,0.7400247586569287
+Q112,in_scope,deadline,"Tenggat waktunya beda-beda tiap produk nggak, ya?","Iya, **tenggat waktu (deadline) tidak selalu sama untuk setiap produk** di Unmul Store.
+
+- **Batas pengambilan** untuk barang yang dibeli biasanya **3 hari** setelah status pesanan berubah menjadi *Siap Diambil*. Jika tidak diambil dalam jangka waktu tersebut, pesanan akan berubah menjadi *Kedaluwarsa* dan stok barang dikembalikan ke sistem.  
+- **Batas pengembalian** untuk produk yang disewa **ditetapkan per produk** oleh admin. Jadi tiap produk sewa dapat memiliki lama pengembalian yang berbeda-beda (misalnya 7 hari, 14 hari, dsb.). Batas ini dapat dilihat pada halaman checkout dan pada halaman pesanan akan muncul hitung mundur (countdown) supaya Anda dapat memantau sisa waktu.
+
+Jika Anda ingin mengetahui tenggat waktu spesifik untuk suatu produk, silakan lihat detail produk tersebut di katalog atau pada halaman checkout sebelum menyelesaikan pemesanan. Jika masih ada pertanyaan lebih lanjut, saya siap membantu!",0.7692307692307693,0.724402939821986,0.4166666666458333,1.0,0.43,0.536808236814376
+Q113,in_scope,deadline,"Pas checkout, di mana sih batasnya buat pengembalian bisa dilihat?","Batas pengembalian merupakan tanggal dan waktu maksimal barang sewa harus dikembalikan ke toko. Informasi batas ini ditampilkan pada halaman checkout sebelum Anda menyelesaikan pembayaran, sehingga Anda bisa melihat deadline pengembalian sebelum melakukan checkout.  (Sumber: FAQ Unmul Store)",0.8,0.7195919877369615,0.99999999995,1.0,0.33,0.6521077266256932
+Q114,in_scope,deadline,"Sebelum tenggatnya, dikasih pengingat nggak?","Ya, sebelum batas waktu (tenggat) pengembalian atau pengambilan barang Unmul Store akan memberi **pengingat**.  
+
+- **Halaman Pesanan** menampilkan hitung mundur (countdown) batas pengembalian, sehingga Anda dapat melihat sisa waktu yang tersedia.  
+- Pada halaman **checkout** untuk produk sewa, batas pengembalian juga ditampilkan, jadi Anda sudah tahu deadline‑nya sebelum melakukan pembayaran.  
+
+Dengan demikian, Anda akan mendapatkan visualisasi waktu yang tersisa dan dapat memantau deadline secara langsung melalui aplikasi/web Unmul Store. Jika melewati batas tersebut tanpa pengembalian/pengambilan, pesanan akan berubah status menjadi *Kedaluwarsa* dan tidak dapat dilanjutkan.",0.7,0.284591672852953,0.5833333333041666,1.0,0.36,0.6994934138166248
+Q115,in_scope,sewa,Nanti bakal ada apa pas sewanya udah beres?,"Setelah masa sewa selesai, prosesnya adalah sebagai berikut:
+
+1. **Pengembalian barang** – Anda mengembalikan barang sewa ke admin toko.  
+2. **Konfirmasi admin** – Admin memeriksa barang apakah dalam kondisi baik.  
+3. **Stok kembali** – Setelah barang dikonfirmasi, stok sewa akan dikembalikan ke sistem dan status pesanan berubah menjadi **Selesai**.  
+4. **Pengembalian deposit** – Jika barang dikembalikan dalam kondisi baik (tidak rusak atau hilang), deposit yang Anda bayarkan pada saat checkout akan dikembalikan kepada Anda.
+
+Jadi, setelah sewa berakhir Anda akan melihat status “Selesai” di riwayat order, stok barang kembali tersedia untuk penyewa lain, dan deposit Anda akan dikembalikan (bila tidak ada potongan karena kerusakan).",0.375,0.6242552608959976,0.9999999999,1.0,0.33,0.6845912510503552
+Q116,in_scope,deposit,Deposit buat sewa itu artinya apa ya?,"Deposit dalam konteks sewa di Unmul Store adalah **biaya jaminan** yang dibayarkan bersamaan dengan pembayaran sewa. Berikut penjelasannya:
+
+- **Tujuan deposit:** Menjadi jaminan agar barang yang disewa dikembalikan dalam kondisi baik.  
+- **Cara kerja:** Deposit ditambahkan otomatis ke total pembayaran saat checkout.  
+- **Pengembalian:** Setelah barang dikembalikan dan admin mengonfirmasi kondisinya baik, deposit akan dikembalikan kepada Anda.  
+
+Jadi, deposit bukan merupakan biaya sewa permanen, melainkan uang jaminan yang akan dikembalikan setelah proses penyewaan selesai.",0.8,0.7530534704648266,0.999999999975,1.0,0.0,0.7147652886799983
+Q117,in_scope,deposit,Depositnya berapa buat produk?,"Berikut penjelasan mengenai deposit di Unmul Store:
+
+- **Deposit adalah biaya jaminan** yang dibayarkan bersamaan saat Anda melakukan checkout penyewaan. Deposit akan dikembalikan setelah barang diserahkan kembali dalam kondisi baik 【6†L1-L4】.  
+- **Besaran deposit tidak satu‑nilai untuk semua barang**. Setiap produk (atau jenjang produk) memiliki deposit yang ditetapkan secara terpisah oleh admin toko 【6†L5-L7】.  
+- Karena itu, **tidak ada tarif deposit standar** seperti “Rp X per produk”. Anda perlu melihat detail produk yang ingin disewa pada aplikasi/katalog Unmul Store; di sana biasanya tercantum nilai deposit untuk masing‑masing barang.  
+
+Jika Anda sudah memilih produk tertentu, cek halaman produk di aplikasi atau tanyakan langsung ke admin (nomor 0815 2265 0048) untuk mengetahui berapa deposit yang berlaku untuk produk tersebut.  
+
+Semoga membantu! 🙏",0.4545454545454545,0.6868025325903452,0.0769230769153846,1.0,0.18,0.588797770577564
+Q118,in_scope,deposit,"Bayaran jaminannya kapan, nih?","Berikut penjelasan mengenai **bayaran jaminan (deposit)** di Unmul Store:
+
+| Pertanyaan | Jawaban |
+|------------|---------|
+| **Kapan deposit dibayar?** | Deposit (uang jaminan) dibayar **bersamaan dengan pembayaran sewa** saat proses checkout. Dengan kata lain, ketika Anda menyelesaikan pemesanan, total pembayaran akan mencakup harga sewa + deposit. |
+| **Apakah deposit harus dibayar di muka?** | Ya, deposit termasuk dalam total pembayaran yang harus dibayar pada saat checkout. Pembayaran dilakukan di toko saat Anda mengambil barang, jadi Anda tidak perlu membayar terpisah sebelumnya. |
+| **Kapan deposit dikembalikan?** | Deposit akan dikembalikan setelah **admin mengonfirmasi** bahwa barang telah dikembalikan dalam kondisi baik. Jika tidak ada kerusakan di luar wajar, uang jaminan akan dikembalikan kepada Anda. |
+
+Jika ada pertanyaan lain seputar proses pemesanan, pembayaran, atau kebijakan pengembalian, silakan tanyakan!",0.8333333333333334,0.2736214938055067,0.99999999995,1.0,0.55,0.5891395711125196
+Q119,in_scope,deposit,Uang depositnya bakal hangus nggak?,"Tidak, uang deposit **tidak akan hangus**. Deposit akan dikembalikan setelah barang yang Anda sewa dikembalikan dalam kondisi baik. Hanya bila ada kerusakan di luar wajar (misalnya barang rusak atau hilang) maka akan ada pemotongan dari deposit sesuai kebijakan admin. Jadi selama barang dikembalikan dengan baik, deposit Anda akan kembali penuh.",0.4,0.8823112593611264,0.9999999999666668,1.0,0.5,0.7882567995999497
+Q120,in_scope,deposit,Kira-kira depositnya balik dalam waktu berapa lama?,"Deposit akan dikembalikan setelah **admin mengonfirmasi bahwa barang yang Anda sewa sudah dikembalikan dalam kondisi baik dan proses sewa dinyatakan selesai**.  
+
+Biasanya proses konfirmasi ini dilakukan dalam waktu **1–3 hari kerja** setelah barang diterima kembali oleh pihak Unmul Store. Setelah konfirmasi selesai, dana deposit akan dikreditkan kembali ke metode pembayaran yang Anda gunakan saat checkout.  
+
+Jika Anda belum menerima pengembalian deposit dalam rentang waktu tersebut, silakan hubungi layanan Customer Care Unmul Store untuk pengecekan lebih lanjut.",0.3333333333333333,0.8183135591034537,0.9999999999666668,1.0,0.57,0.7940823263790392
+Q121,in_scope,deposit,Barang apa aja yang nggak perlu deposit?,"Berikut adalah barang‑barang di **Unmul Store** yang **tidak dikenakan deposit** karena diperlakukan sebagai penjualan (bukan penyewaan):
+
+| Kategori | Contoh Produk |
+|----------|--------------|
+| **Merchandise kampus** | Kaos, kemeja putih, work shirt, gantungan kunci, mug, tumblr, jaket, tote‑bag, sticker pack, boneka Opan, selempang cumlaude |
+| **Produk akademik** | Almamater, toga (jika dibeli, bukan disewa) |
+
+*Produk‑produk di atas hanya dapat **dibeli** melalui Unmul Store, sehingga **tidak ada biaya deposit** yang harus dibayar.  
+Jika ada produk yang Anda lihat mempunyai opsi **“Sewa”**, maka deposit akan dikenakan sesuai dengan nilai yang ditetapkan oleh admin. Untuk informasi lebih detail tentang harga atau stok masing‑masing barang, Anda dapat menanyakan nama produk spesifik.",0.5,0.6331029334523128,0.8333333332916666,1.0,0.0,0.4603736204260633
+Q122,in_scope,deposit,Jadi depositnya itu biaya permanen nggak?,"Tidak, deposit bukan biaya permanen. Deposit ditambahkan ke total pembayaran saat checkout, tetapi uang jangka ini akan dikembalikan kepada Anda setelah barang dikembalikan dalam kondisi baik dan penyewaan dianggap selesai. Jadi deposit hanya berfungsi sebagai jaminan, bukan sebagai biaya sewa yang tetap.",0.8333333333333334,0.9310277283224624,0.9999999999666668,1.0,0.57,0.8578794089802693
+Q124,in_scope,denda,"Denda itu maksudnya gimana, nih?","Berikut penjelasan mengenai **denda** di Unmul Store:
+
+- **Pengertian denda**  
+  Denda adalah biaya yang dikenakan jika barang sewa tidak dikembalikan hingga melewati batas pengembalian yang tercatat pada pesanan. (FAQ “Apa itu denda keterlambatan?”)
+
+- **Besaran denda**  
+  Denda default adalah **Rp10.000 per hari**. Besaran ini dapat berbeda tergantung pada masing‑masing produk yang disewa. (FAQ “Berapa besaran denda per hari?”)
+
+- **Perhitungan denda**  
+  Denda dihitung secara otomatis oleh sistem:  
+  `Jumlah hari keterlambatan × denda harian produk`. (FAQ “Bagaimana denda dihitung?”)
+
+- **Kapan denda mulai dihitung**  
+  Denda mulai berlaku setelah melewati batas pengembalian yang tercatat pada pesanan. Tidak ada masa tenggang tambahan; hari pertama setelah batas pengembalian sudah termasuk dalam perhitungan. (FAQ “Sejak kapan denda mulai dihitung?”)
+
+- **Apakah denda dapat dimaafkan?**  
+  Admin dapat mengubah atau menghapus denda melalui menu *monitoring denda* setelah mengevaluasi kasusnya. (FAQ “Apakah denda bisa dimaafkan atau dihapus?”)
+
+- **Hubungan denda dengan deposit**  
+  Denda keterlambatan dihitung terpisah. Apakah denda dapat dipotong dari deposit akan dikonfirmasi oleh admin. (FAQ “Apakah deposit dipotong jika barang terlambat dikembalikan?”)
+
+Jika Anda memiliki pertanyaan lain tentang denda atau hal lainnya di Unmul Store, silakan beri tahu saya!",0.7142857142857143,0.264265228603775,0.999999999975,1.0,0.0,0.733053935594324
+Q125,in_scope,denda,Dendanya berapa ya?,"Denda standar untuk keterlambatan sewa di Unmul Store adalah **Rp 10.000 per hari**.  
+Namun, tarif denda dapat berbeda‑beda tergantung pada masing‑masing produk; beberapa produk mungkin memiliki tarif denda yang sudah ditentukan di deskripsinya.
+
+Jika Anda ingin mengetahui denda spesifik untuk barang yang sedang Anda sewa, silakan cek detail produk tersebut di aplikasi atau tanyakan langsung melalui menu **Monitoring Denda** di akun Anda. 
+
+Semoga membantu! 🙏",0.0,0.3823792693964267,0.5833333333041666,1.0,0.0,0.6288486337283624
+Q126,in_scope,denda,"Jumlah denda gue berapa, nih?","Hai! Untuk mengetahui berapa total denda yang sedang menunggumu, kamu bisa:
+
+1. **Buka aplikasi atau situs Unmul Store** dan masuk dengan akun kamu.  
+2. Pergi ke **„Pesanan Saya”** → pilih pesanan yang berstatus **„Terlambat”**.  
+3. Pada halaman detail pesanan akan ditampilkan **total denda** yang sudah dihitung secara otomatis.  
+4. Jika masih belum terlihat, kamu dapat membuka menu **„Monitoring Denda”** (biasanya di bagian admin/pengguna) yang menampilkan semua denda yang belum dibayar.
+
+Sayangnya saya tidak dapat mengakses data pribadi kamu secara langsung, jadi saya tidak dapat memberi angka pasti di sini. Silakan cek salah satu cara di atas, atau hubungi admin Unmul Store jika ada kendala. Semoga membantu! 😊",0.125,0.4813633049643577,0.5833333333041666,1.0,0.0,0.3951576679706825
+Q127,in_scope,denda,"Keterlambatan tuh mulai dihitung dari kapan, nih?","Keterlambatan / denda mulai dihitung **setelah melewati batas pengembalian yang tertera pada pesanan**. Jadi hari pertama setelah batas pengembalian sudah dianggap sebagai hari keterlambatan, dan denda akan dikenakan per hari (misalnya Rp 10.000 per hari, kecuali ada ketentuan khusus pada produk tertentu).",1.0,0.4989597569373882,0.999999999975,1.0,0.29,0.4110850513464232
+Q128,in_scope,denda,"Kalo telat 1 hari, dendanya berapa?","Berkenaan dengan denda keterlambatan pada Unmul Store:
+
+- **Denda standar** adalah **Rp 10.000 per hari**.  
+- Besaran denda dapat **berbeda** tergantung pada produk yang Anda sewakan, karena masing‑masing produk dapat menetapkan tarif denda harian yang berbeda.  
+
+Jadi, jika Anda telat **1 hari**, denda minimal **Rp 10.000**, atau sesuai tarif khusus yang tercantum pada produk tersebut. (Sumber: FAQ Unmul Store – “Denda default adalah Rp10.000 per hari, namun dapat berbeda sesuai yang ditetapkan pada masing-masing produk.”)",0.3333333333333333,0.5673429256757988,0.9999999999666668,1.0,0.0,0.3314913434200554
+Q132,in_scope,denda,"Masa tenggangnya berapa lama, dong?","Tidak ada masa tenggang tambahan. Denda mulai dihitung sejak lewat batas waktu yang telah ditentukan (batas pengembalian untuk penyewaan atau batas pengambilan untuk pembelian). Jadi, setelah batas waktu itu terlewati, denda langsung dikenakan.",1.0,0.5609132828562767,0.9999999999,1.0,0.67,0.6880419607292785
+Q133,in_scope,denda,dendanya memang cuma buat sewa doang?,"Berikut penjelasan resmi dari Unmul Store:
+
+- **Denda hanya dikenakan untuk penyewaan** yang telat mengembalikan barang.  
+- Untuk pembelian, **tidak ada denda**. Jika barang yang dibeli tidak diambil, statusnya akan menjadi “Kedaluwarsa”, bukan dikenai denda.
+
+Jadi, ya, denda memang hanya berlaku pada transaksi sewa, bukan pada pembelian. Jika ada pertanyaan lain seputar sewa atau kebijakan toko, silakan tanyakan!",0.625,0.2625741672324543,0.999999999975,1.0,0.67,0.5257684705335657
+Q135,in_scope,denda,Sistemnya ngitung denda nggak?,"Ya, sistem Unmul Store menghitung denda secara otomatis.  
+
+- **Cara hitung:** Denda = (jumlah hari keterlambatan) × (tarif denda harian produk).  
+- **Tarif standar:** Rp 10.000 per hari, namun tiap produk bisa memiliki tarif yang berbeda.  
+- **Kapan mulai dihitung:** Denda mulai berlaku segera setelah melewati batas pengembalian yang tercatat pada pesanan.  
+
+Jadi, jika Anda telat mengembalikan barang sewa, sistem akan menambahkan denda secara otomatis sesuai tarif dan lama keterlambatan. Jika ada pertanyaan lebih lanjut tentang denda pada produk tertentu, silakan beri kode atau nama produk !",0.5714285714285714,0.31481064720179,0.6388888888675925,1.0,0.0,0.5202315518618594
+Q137,in_scope,deadline,Batas waktunya buat ambil berapa lama ya?,"Batas waktu untuk mengambil barang pesanan di Unmul Store adalah **3 hari** sejak pesanan dinyatakan **Siap Diambil**. Jika tidak diambil dalam jangka waktu tersebut, pesanan akan berstatus *Kedaluwarsa* dan stok barang dikembalikan ke sistem. Jika ada pertanyaan lain seputar proses pemesanan atau kebijakan toko, silakan tanyakan!",0.0,0.3974967149128137,0.999999999975,1.0,0.0,0.7643514692390995
+Q138,in_scope,deadline,Berapa hari sih buat ambil barangnya?,"Berapa lama Anda harus mengambil barang setelah statusnya menjadi **“Siap Diambil”**?
+
+- **Batas waktu pengambilan:** **3 hari** sejak pesanan ditandai sebagai *Siap Diambil*.
+- Jika tidak diambil dalam periode tersebut, pesanan dapat dianggap kedaluwarsa dan barang akan kembali ke stok.
+
+Jadi, setelah Anda mendapatkan notifikasi bahwa barang sudah siap, silakan ambil dalam waktu maksimal tiga hari. Jika ada kendala, hubungi admin Unmul Store.",0.4,0.59391643374404,0.9999999999,1.0,0.57,0.6781039157819706
+Q140,in_scope,deadline,"Jadi, tenggat waktu buat kembalikan sewa itu maksudnya apa, ya?","Tenggat waktu **pengembalian barang sewa** (return deadline) adalah tanggal dan jam maksimal ketika barang yang Anda sewa harus dikembalikan ke Unmul Store.  
+
+- **Batas pengembalian** ditetapkan oleh admin atau superadmin untuk tiap produk sewa saat produk tersebut di‑upload ke sistem.  
+- Sistem akan menampilkan deadline ini pada halaman checkout, dan setelah pesanan masuk ke status *Dalam Masa Sewa* akan ada hitung‑mundur di halaman pesanan agar Anda bisa memantau sisa waktu.  
+- Jika barang tidak dikembalikan sampai batas waktu tersebut, biasanya akan dikenakan denda (sesuai kebijakan toko).  
+
+Jadi, tenggat waktu ini berfungsi sebagai batas akhir pengembalian agar penyewaan dapat selesai tepat waktu dan tidak menimbulkan biaya tambahan. Jika ada pertanyaan lain tentang proses pengembalian atau denda, silakan beri tahu saya!",0.25,0.413722288974071,0.999999999975,1.0,0.2,0.8192421388802469
+Q141,in_scope,deadline,"Dua tenggat waktunya itu nggak beda, kan?","Maaf, saya belum cukup yakin dengan konteks pertanyaannya. Anda sedang menanyakan tentang dua tenggat waktu yang mana? Contohnya: tenggat waktu pemesanan vs tenggat waktu pembayaran, atau mungkin tenggat waktu pengiriman vs batas pengembalian barang? Mohon beri sedikit detail sehingga saya dapat membantu dengan informasi yang tepat.",0.0,0.0,0.0,0.0,0.0,0.5271971003204402
+Q142,in_scope,deadline,"Yang nentuin tenggat produk itu siapa, nih?","Berdasarkan informasi yang ada di basis pengetahuan Unmul Store, **tenggat (deadline) produk ditentukan oleh Admin atau Superadmin**. Saat mengelola produk, admin‑admin inilah yang menetapkan batas pengambilan dan batas pengembalian (deadline) untuk tiap barang. Jika ada perubahan, admin juga dapat mengubah deadline tersebut. 
+
+Jadi, yang mengatur tenggat produk adalah tim admin/superadmin toko. Jika Anda memerlukan bantuan lebih lanjut terkait pengaturan deadline pada produk tertentu, silakan hubungi admin Unmul Store melalui kanal support yang tersedia.",0.8333333333333334,0.5688815632141094,0.9999999999666668,1.0,0.5,0.7358690003484105
+Q143,in_scope,deadline,Gimana kalau tenggatnya nggak bener?,"Jika tanggal batas (tenggat) pengembalian tidak tepat, sistem akan menghitung **denda sejak lewat batas pengembalian** tanpa memberikan masa tenggang tambahan. Jadi, bila barang sudah melewati tanggal yang tertera, denda akan langsung diterapkan.
+
+Namun, bila ada situasi khusus (mis‑misalnya kesalahan sistem atau alasan yang dapat dipertimbangkan), **admin dapat mengubah atau mengampuni denda** melalui menu *monitoring denda* sesuai evaluasi kasus.
+
+Intinya, usahakan selalu mengembalikan barang tepat waktu agar terhindar dari denda. Jika ada masalah dengan tanggal tenggat, hubungi tim admin Unmul Store agar dapat ditinjau kembali.",0.4,0.275680597831988,0.0,0.0,0.0,0.5987369098242227
+Q144,in_scope,deadline,Gimana sih cara liat waktu yang masih tersisa?,"Berikut cara melihat sisa waktu (count‑down) untuk barang yang Anda sewa di Unmul Store:
+
+1. **Buka aplikasi/website Unmul Store** dan masuk dengan akun Anda.  
+2. Pilih menu **“Pesanan”** (atau “Order”).  
+3. Di daftar pesanan, temukan pesanan **sewa** yang masih *berjalan* (status biasanya “Sedang Disewa” atau “Dalam Masa Sewa”).  
+4. Ketuk/klik pesanan tersebut untuk masuk ke **halaman detail pesanan**.  
+5. Pada bagian atas atau di samping informasi barang, akan muncul **hitung mundur (countdown)** yang menampilkan *berapa lama lagi batas pengembalian* (deadline).  
+6. Jika countdown sudah hampir habis, sistem akan menampilkan peringatan agar Anda segera mengembalikan barang.
+
+> **Catatan:** Batas pengembalian (deadline) juga dapat dilihat pada **halaman checkout** sebelum Anda menyelesaikan pembayaran, sehingga Anda sudah mengetahui berapa lama masa sewa sebelum konfirmasi akhir.
+
+Jadi cukup masuk ke menu **Pesanan → Detail Pesanan** dan perhatikan countdown yang ditampilkan. Jika ada pertanyaan lain tentang cara menggunakan fitur ini, silakan beri tahu saya!",0.1176470588235294,0.382384980404355,0.7499999999625,0.0,0.12,0.4007623016628115
+Q145,in_scope,deadline,Deadline-nya dipake buat apa aja?,"Berikut penjelasan mengenai **deadline** di Unmul Store:
+
+- **Deadline** adalah batas waktu yang ditetapkan untuk setiap pesanan.  
+- Ada dua jenis deadline:
+  1. **Batas Pengambilan** – waktu maksimal barang (pembelian) harus diambil di toko. Jika tidak diambil hingga batas tersebut, pesanan akan berubah menjadi **Kedaluwarsa** dan stok barang dikembalikan ke sistem.  
+  2. **Batas Pengembalian** – untuk barang yang disewa, merupakan tanggal dan waktu terakhir barang harus dikembalikan ke toko.
+
+- Admin atau superadmin yang menetapkan (dan dapat mengubah) kedua deadline ini saat mengelola produk.
+
+Jadi, deadline dipakai untuk **mengatur waktu pengambilan barang yang dibeli** serta **waktu pengembalian barang yang disewa**, agar proses transaksi berjalan lancar dan stok tetap terkelola dengan baik.",0.6923076923076923,0.6854252042362224,0.999999999975,1.0,0.35,0.5628954005364195
+Q146,in_scope,pembatalan,Caranya gimana kalau mau batalin order?,"Berikut cara membatalkan (batal) order di Unmul Store:
+
+1. **Buka detail pesanan** yang ingin Anda batalkan pada aplikasi/website Unmul Store.  
+2. Pilih opsi **“Ajukan Pembatalan”** (atau tombol serupa).  
+3. Status pesanan akan berubah menjadi **“Menunggu Pembatalan”**. Pada tahap ini, admin akan meninjau dan menyetujui permintaan Anda.  
+4. Jika pembatalan disetujui, status akan menjadi **“Dibatalkan”** dan barang akan kembali ke stok.
+
+> **Catatan:**  
+- Pembatalan tidak otomatis; harus mendapat persetujuan admin.  
+- Jika barang sudah dalam proses pengiriman atau sudah diambil, pembatalan mungkin tidak dapat dilakukan.  
+
+Semoga membantu! Jika ada pertanyaan lain seputar proses pemesanan atau kebijakan lain, silakan beri tahu saya.",0.5,0.3684475267964712,0.6388888888675925,1.0,0.63,0.655465973001846
+Q147,in_scope,pembatalan,Pesanan yang udah dikirim tuh masih bisa dibatalin nggak?,"Berikut informasi yang saya temukan dalam dokumen kebijakan Unmul Store:
+
+- **Tidak semua pesanan dapat dibatalkan.**  
+- **Pesanan yang sudah dikirim** (status “Dikirim” atau “Sedang dalam pengiriman”) **tidak dapat dibatalkan lagi**. Pada tahap ini barang sudah berada di jalur pengiriman, sehingga proses pembatalan tidak memungkinkan.
+
+Jika Anda ingin membatalkan pesanan, Anda hanya dapat mengajukannya **sebelum status berubah menjadi “Dikirim”**. Caranya biasanya melalui detail pesanan dengan tombol **“Ajukan Pembatalan”**, kemudian status akan berubah menjadi “Menunggu Pembatalan” sampai admin menyetujuinya.
+
+Jadi, pesanan yang sudah berada dalam proses pengiriman tidak dapat dibatalkan. Jika ada masalah dengan barang yang sudah diterima, Anda dapat mengajukan permohonan pengembalian atau retur sesuai kebijakan retur yang berlaku. 
+
+Apabila ada pertanyaan lain mengenai cara mengajukan pembatalan sebelum pengiriman atau kebijakan pengembalian, silakan beri tahu saya!",0.2,0.3930801791950724,0.5833333333041666,0.5,0.12,0.5831258863502642
+Q149,in_scope,pembatalan,"Kalau mau dibatalkan, masih perlu persetujuan nggak?","Ya. Pada Unmul Store, ketika Anda mengajukan pembatalan pesanan, status pesanan akan berubah menjadi **“Menunggu Pembatalan.”** Pembatalan tersebut **harus disetujui oleh admin** terlebih dahulu — tidak akan langsung dibatalkan secara otomatis. Setelah admin menyetujui, pesanan akan dibatalkan dan stok barang akan kembali tersedia. Jadi, untuk membatalkan pesanan memang tetap memerlukan persetujuan admin.",0.2857142857142857,0.5565226432805824,0.6388888888675925,1.0,0.73,0.5059391644040668
+Q150,in_scope,pembatalan,Stoknya balik lagi nggak kalau barangnya dibatalin?,"Berikut penjelasan dari FAQ Unmul Store:
+
+- **Ya, stok akan kembali** ketika pesanan dibatalkan, ditolak, atau kedaluwarsa. Sistem secara otomatis mengembalikan jumlah barang yang semula dipesan ke stok (baik untuk pembelian maupun penyewaan).  
+
+Jadi, bila Anda membatalkan barang, stoknya akan tersedia kembali untuk pembeli atau penyewa lain.",0.625,0.4301785942808225,0.8055555555287036,1.0,0.86,0.8105368255048521
+Q151,in_scope,pembatalan,Jaminannya bakal dikembaliin kalau batal nggak?,"Ya. Jika penyewaan dibatalkan **sebelum barang mulai dipakai**, deposit atau jaminan akan dikembalikan sesuai ketentuan yang berlaku.  
+
+- Deposit dikembalikan setelah admin mengonfirmasi bahwa pembatalan sah.  
+- Pengembalian biasanya dilakukan melalui metode pembayaran yang sama dengan saat Anda membayar deposit.  
+
+Catatan: Jika barang sudah berada dalam proses pengiriman atau sudah dipakai, pengembalian deposit dapat dipotong sesuai kebijakan kerusakan atau penggunaan. Jika ada pertanyaan lebih lanjut tentang proses pengembalian, silakan hubungi admin Unmul Store.",0.375,0.3781270882521865,0.9999999999,1.0,0.0,0.7968366359661467
+Q152,in_scope,pembatalan,Gimana bedanya ditolak sama dibatalin?,"Berikut penjelasan perbedaan **“ditolak”** dan **“dibatalkan”** pada status pesanan di Unmul Store:
+
+| Status | Penjelasan | Siapa yang mengeksekusi |
+|--------|------------|--------------------------|
+| **Ditolak** | Admin menolak pesanan atau perubahan karena ada masalah (misalnya data tidak valid, stok tidak tersedia, atau alasan lain). Alasan penolakan biasanya ditampilkan pada detail pesanan. | **Admin** (bukan pembeli) |
+| **Dibatalkan** | Pesanan dibatalkan, baik atas permintaan Anda maupun oleh admin. Stok barang akan dikembalikan. | **Anda** (pembeli) atau **admin** |
+
+Jadi, **ditolak** berarti admin menolak karena ada alasan tertentu, sedangkan **dibatalkan** berarti pesanan dihentikan (oleh Anda atau admin) dan barang akan kembali ke stok. Jika pesanan Anda ditolak, Anda dapat memperbaiki data dan melakukan checkout ulang. Jika dibatalkan, Anda dapat membuat pesanan baru sesuai kebutuhan.",0.8947368421052632,0.520286334742713,0.9166666666361112,1.0,0.59,0.584889399766083
+Q153,in_scope,pembatalan,Kenapa sih order-nya ditolak?,"Berikut ini penjelasan resmi dari Unmul Store mengenai mengapa pesanan (order) Anda dapat ditolak:
+
+**Status “Ditolak”**  
+- Pesanan ditolak oleh admin karena **data pesanan tidak valid** atau **tidak dapat dipenuhi**.  
+- Alasan penolakan akan ditampilkan di halaman **detail pesanan** Anda, sehingga Anda dapat melihat apa yang perlu diperbaiki (misalnya: data alamat, pilihan produk, atau stok yang tidak tersedia).
+
+**Apa yang dapat Anda lakukan selanjutnya?**  
+- Periksa detail alasan penolakan pada aplikasi atau situs Unmul Store.  
+- Perbaiki data yang diperlukan (misalnya: perbarui alamat, pilih produk yang tersedia, atau sesuaikan pilihan pembayaran).  
+- Buat pesanan baru dengan data yang sudah benar.  
+
+Jika Anda masih belum yakin mengapa pesanan ditolak setelah melihat alasan di detail, silakan hubungi tim admin Unmul Store untuk bantuan lebih lanjut.  
+
+Semoga membantu! 🙏",0.3684210526315789,0.6251761884856935,0.9999999999666668,1.0,0.12,0.673373342723294
+Q154,in_scope,pembatalan,Gue masih bisa checkout ulang nggak?,"Tidak bisa. Setelah Anda menekan tombol **checkout / bayar**, isi keranjang sudah dikunci menjadi satu pesanan. Jika ingin mengubah barang atau menambah produk, Anda harus melakukannya **sebelum** menekan tombol bayar, kemudian lakukan checkout kembali. Setelah proses checkout selesai, tidak ada cara untuk meng‑edit atau melakukan checkout ulang untuk pesanan yang sama.",0.1428571428571428,0.6543709978124889,0.0,0.0,0.0,0.2559471049377695
+Q155,in_scope,pembatalan,"Kalau dibatalin, akunnya bakal kena dampak nggak?","Berdasarkan pengetahuan resmi Unmul Store, **jika Anda membatalkan akun (menghapus akun) maka data‑data terkait akan terpengaruh**.  
+
+- Sebelum menghapus akun, **pastikan tidak ada pesanan yang masih aktif** karena data pesanan tersebut akan terhubung dengan akun Anda.  
+- Proses penghapusan dilakukan melalui **menu Profil > Hapus Akun**.  
+
+Jika ada pesanan yang masih berjalan atau belum selesai, sebaiknya selesaikan atau batalkan pesanan tersebut terlebih dahulu, kemudian baru hapus akun. Dengan begitu tidak akan ada dampak negatif pada proses pemesanan atau data Anda.  
+
+Jika Anda membutuhkan bantuan lebih lanjut, dapat menghubungi admin Unmul Store di nomor **0815‑2265‑0048**.",0.5714285714285714,0.583065615612954,0.0,0.0,0.0,0.3940172382560217
+Q156,in_scope,pembatalan,Gimana sih ngecancel sewa yang masih aktif?,"Berikut cara membatalkan (cancel) penyewaan yang masih aktif di **Unmul Store**:
+
+1. **Selesaikan pengembalian barang terlebih dahulu**  
+   - Status penyewaan harus berada pada tahap **“Dikembalikan”** atau **“Selesai”**. Selama barang masih berada dalam masa sewa (status *“Dalam Masa Sewa”*), pembatalan tidak dapat diproses.
+
+2. **Ajukan permintaan pembatalan**  
+   - Masuk ke **Akun → Riwayat Penyewaan**.  
+   - Pilih penyewaan yang ingin dibatalkan, kemudian klik **“Minta Pembatalan”** (atau tombol serupa yang tersedia pada detail order).
+
+3. **Konfirmasi dari admin**  
+   - Permintaan pembatalan akan masuk ke admin.  
+   - **Admin** akan meninjau apakah barang sudah dikembalikan dengan baik dan memutuskan apakah pembatalan dapat disetujui.  
+   - Jika disetujui, status order akan berubah menjadi **“Dibatalkan”**.
+
+4. **Pengembalian deposit (jika ada)**  
+   - Jika penyewaan dibatalkan **sebelum masa sewa dimulai**, deposit/jaminan akan dikembalikan sesuai ketentuan yang berlaku.  
+   - Jika pembatalan dilakukan setelah masa sewa berjalan, deposit biasanya tidak dikembalikan (tergantung kebijakan admin).
+
+5. **Catatan penting**  
+   - Pembatalan **tidak otomatis**; harus melalui persetujuan admin.  
+   - Jika barang sudah berada dalam proses pengiriman atau sudah dipakai, kemungkinan besar pembatalan **tidak dapat** dilakukan.
+
+Jadi, langkah utama adalah mengembalikan barang terlebih dahulu, kemudian mengirimkan permohonan pembatalan melalui aplikasi, dan menunggu konfirmasi dari admin. Jika ada kendala atau pertanyaan lebih lanjut, silakan hubungi tim support Unmul Store melalui chat di aplikasi.",0.3703703703703703,0.2781965823437156,0.99999999995,1.0,0.19,0.5657500713931215
+Q158,in_scope,klaim_almamater,"Data wajib buat klaim itu apa aja, ya?","Berikut data wajib yang harus diisi untuk melakukan klaim almamater mahasiswa baru:
+
+| Data wajib | Keterangan |
+|------------|------------|
+| **Nama** | Nama lengkap mahasiswa |
+| **NIM** | Nomor Induk Mahasiswa (untuk memverifikasi identitas) |
+| **Jalur masuk** | SNBP, SNBT, atau MANDIRI (jalur masuk yang dipilih) |
+| **Ukuran almamater** | Pilihan ukuran (S, M, L, dst.) |
+
+**Catatan tambahan**  
+- Pada formulir klaim juga tersedia opsi **totebag** (pilihan tambahan), namun totebag bersifat **opsional** dan tidak termasuk data wajib.  
+
+Jadi, untuk mengklaim almamater, Anda cukup menyiapkan nama, NIM, jalur masuk, dan ukuran almamater. Jika ada pertanyaan lebih lanjut, silakan beri tahu saya!",0.75,0.583403189263379,0.8333333332916666,1.0,0.0,0.3506249138209064
+Q159,in_scope,klaim_almamater,NIM dipake buat klaim itu fungsinya apa?,"NIM (Nomor Induk Mahasiswa) digunakan untuk **memverifikasi identitas Anda saat melakukan klaim almamater** (misalnya untuk mahasiswa baru). Dengan memasukkan NIM, Unmul Store dapat memastikan bahwa barang yang diklaim memang merupakan hak Anda sebagai mahasiswa UNMUL.
+
+Jika Anda tidak mengetahui atau tidak memiliki NIM yang diperlukan, silakan menghubungi bagian akademik atau admin Unmul Store untuk bantuan lebih lanjut. 
+
+Semoga membantu! 🙏",0.25,0.5187224373980088,0.9999999999,0.0,0.57,0.8656859484548188
+Q160,in_scope,klaim_almamater,Almamaternya boleh diklaim dua kali nggak?,"The search results include relevant info: Q160 says ""Apakah satu NIM hanya bisa klaim satu kali? Jawaban: Ya. Satu NIM hanya dapat digunakan untuk satu klaim almamater."" So answer: No, cannot claim twice.Tidak bisa. Menurut kebijakan klaim almamater di Unmul Store, satu NIM hanya dapat digunakan **satu kali** untuk mengklaim almamater. Jadi almamater tidak dapat diklaim dua kali dengan NIM yang sama.",0.75,0.4763156561366269,0.9999999999,1.0,0.5,0.7289870715190565
+Q161,in_scope,klaim_almamater,Opsi apa aja sih buat masuk ke almamater?,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar Unmul Store, seperti produk, cara pemesanan, pembayaran, pengiriman, atau kebijakan toko. Jika ada hal lain yang ingin Anda ketahui tentang Unmul Store, silakan beri tahu saya!",0.0,0.1919365007791227,0.0,0.0,0.0,0.0630756662224889
+Q162,in_scope,klaim_almamater,Totebagnya masuk paket almamater nggak ya?,"Berikut informasi yang kami temukan terkait totebag dan paket almamater:
+
+- **Totebag bersifat opsional**.  
+- Saat mengisi formulir klaim almamater, Anda dapat memilih untuk menambahkan totebag atau tidak. Jadi totebag tidak otomatis termasuk dalam paket almamater, melainkan dapat dipilih secara terpisah bila Anda menginginkannya.  
+
+Jika Anda ingin menyertakan totebag, cukup centang opsi “totebag” pada formulir klaim Anda. Selamat berbelanja!",0.625,0.8099376155794893,0.9999999999,1.0,0.33,0.7792018142883743
+Q163,in_scope,klaim_almamater,gimana milih ukuran yang pas?,"Untuk memilih ukuran yang pas, ikuti langkah‑langkah berikut:
+
+1. **Cek Size Guide**  
+   - Pada halaman detail produk, jika produk memiliki panduan ukuran, akan muncul tombol atau tautan **“Size Guide”**.  
+   - Buka panduan tersebut, biasanya berisi tabel ukuran (misalnya S, M, L, XL) beserta ukuran badan (lingkar dada, pinggang, paha) yang direkomendasikan.
+
+2. **Bandingkan dengan ukuran tubuh Anda**  
+   - Ukur lingkar dada, pinggang, dan paha Anda menggunakan pita ukuran.  
+   - Cocokkan hasil pengukuran dengan tabel pada Size Guide untuk menemukan ukuran yang paling sesuai.
+
+3. **Perhatikan variasi yang tersedia**  
+   - Beberapa produk menawarkan variasi ukuran dan/atau warna. Pastikan Anda **memilih ukuran** yang tersedia (misalnya S, M, L, XL) sebelum menambahkannya ke keranjang.
+
+4. **Jika masih ragu**  
+   - Anda bisa menghubungi admin/Customer Service Unmul Store untuk konfirmasi lebih lanjut.  
+   - Jika ternyata ukuran yang dipilih tidak cocok setelah barang diterima, Anda dapat mengajukan penukaran ukuran sesuai kebijakan toko (hubungi admin untuk cek ketersediaan dan prosedur).
+
+Dengan cara ini, Anda dapat memastikan memilih ukuran yang paling cocok untuk produk yang diinginkan. Selamat berbelanja!",0.2941176470588235,0.4530993958716387,0.9999999999,0.5,0.12,0.5849202074527726
+Q165,in_scope,klaim_almamater,"Kira-kira berapa lama nunggu almamaternya, ya?","Berikut ini penjelasan mengenai **lama waktu menunggu** dalam proses di **Unmul Store**:
+
+| Tahapan | Keterangan | Estimasi Waktu |
+|--------|------------|----------------|
+| **Menunggu Verifikasi** | Pesanan baru saja dibuat dan sedang menunggu admin memverifikasi serta memprosesnya. | Biasanya **1‑2 hari kerja**. |
+| **Dikemas** | Admin menyiapkan dan mengemas barang pesanan Anda. | **1 hari kerja** setelah verifikasi selesai. |
+| **Siap Diambil** | Barang sudah siap diambil di lokasi Unmul Store. | Anda memiliki **batas waktu 3 hari** sejak status berubah menjadi “Siap Diambil” untuk mengambil barang. Jika lewat dari batas ini, pesanan dapat dianggap kedaluwarsa. |
+| **Selesai** | Pesanan selesai setelah Anda mengambil barang atau setelah proses pengiriman (jika menggunakan layanan pengiriman). | – |
+
+Jadi, secara total, **waktu tunggu** mulai dari pemesanan hingga barang siap diambil biasanya **sekitar 2‑4 hari kerja**, tergantung pada kepadatan admin dan ketersediaan stok. Jika Anda memilih metode **“Bayar di Toko”**, prosesnya dapat lebih cepat karena tidak melibatkan pengiriman. 
+
+Jika ada pertanyaan lebih spesifik mengenai status pesanan Anda, silakan berikan nomor pesanan atau hubungi admin melalui nomor **0815‑2265‑0048**. Semoga membantu!",0.3333333333333333,0.4240906866954979,0.0,0.0,0.0,0.5738256258503633
+Q166,in_scope,klaim_almamater,Almamaternya kena bayar nggak?,Almamater mahasiswa baru dapat diklaim secara **gratis** (biaya Rp 0). Jadi tidak ada biaya yang harus dibayar untuk mendapatkan almamater saat menjadi mahasiswa baru.,1.0,0.4698838678958021,0.9999999999,1.0,1.0,0.6684708509935715
+Q167,in_scope,klaim_almamater,"Kalau NIM-nya salah, bakal gimana ya?","Berikut ini penjelasannya menurut **FAQ Unmul Store**:
+
+- **Jika NIM tidak valid atau tidak terdaftar**, maka sistem akan **menolak** permintaan klaim almamater.  
+- Pastikan NIM yang Anda masukkan sudah benar.  
+- Bila masih terjadi masalah (misalnya NIM masih ditolak meski sudah yakin benar), **hubungi admin** Unmul Store atau bagian akademik untuk bantuan lebih lanjut.  
+
+Jadi, NIM yang salah → klaim ditolak → menghubungi admin untuk perbaikan.",0.5,0.2398358969010658,0.999999999975,1.0,0.0,0.7778792255833346
+Q168,in_scope,klaim_almamater,Bisa nggak form klaimnya diubah?,"Berikut jawabannya berdasarkan panduan Unmul Store:
+
+- **Form klaim tidak dapat diubah langsung di aplikasi** setelah Anda menekan tombol **Submit**.  
+- Jika ada data yang ingin Anda ubah (misalnya ukuran, nama, atau NIM), cukup **hubungi admin** Unmul Store. Admin akan memperbarui informasi klaim Anda secara manual.
+
+Jadi, untuk mengubah data pada formulir klaim, silakan menghubungi tim admin (misalnya melalui email atau kanal komunikasi yang biasanya disediakan oleh Unmul Store). Jika Anda belum mengetahui kontak admin, dapat dicek di halaman *Kontak* atau *Help Center* Unmul Store. Selamat mencoba!",0.1,0.0821469219576811,0.3333333333,1.0,0.0,0.5578417973374183
+Q169,in_scope,klaim_almamater,Almamater itu cuman buat maba doang?,"Maaf, saya hanya dapat membantu pertanyaan yang berhubungan dengan Unmul Store, seperti produk, pemesanan, pembayaran, pengiriman, atau kebijakan toko. Jika ada hal lain seputar Unmul Store yang ingin Anda tanyakan, silakan beri tahu saya!",0.0,0.0257186657934474,0.0,0.0,0.0,0.1652430628185313
+Q196,in_scope,teknis,Gimana kalau aplikasinya nggak respons?,"Berikut langkah‑langkah yang dapat Anda coba jika aplikasi Unmul Store tidak merespons:
+
+1. **Tutup dan buka kembali aplikasi** – pastikan aplikasi benar‑benar tertutup (bisa lewat “Recent Apps” atau “Force Stop” di pengaturan), kemudian buka lagi.
+2. **Periksa koneksi internet** – pastikan jaringan Wi‑Fi atau data seluler Anda stabil. Jika perlu, coba ganti jaringan atau nyalakan mode pesawat beberapa detik lalu matikan kembali.
+3. **Perbarui aplikasi ke versi terbaru** – buka Play Store, cari “Unmul Store” dan lakukan update jika tersedia.
+4. **Bersihkan cache aplikasi** – masuk ke *Settings → Apps → Unmul Store → Storage → Clear Cache*.
+5. **Jika masih tidak berhasil**, hubungi admin untuk bantuan lebih lanjut:  
+   **WhatsApp/Phone:** 0815‑2265‑0048  
+
+Semoga membantu! Jika ada masalah lain, silakan beri tahu.",0.2857142857142857,0.6571629147760125,0.9166666666361112,1.0,0.13,0.690127815286618
+Q50,in_scope,keranjang,Gimana sih nambahin sama ngurangin jumlahnya?,"Berikut cara menambah dan mengurangi jumlah produk di Unmul Store:
+
+**1. Menambah produk ke keranjang**
+1. Buka halaman detail produk yang ingin dibeli.  
+2. Pilih variasi (mis‑mis ukuran atau jenjang) serta mode **Beli** atau **Sewa**.  
+3. Tentukan jumlah yang diinginkan (misalnya 2 buah).  
+4. Tekan tombol **“Tambah ke Keranjang”**. Produk akan masuk ke keranjang dengan jumlah yang Anda set.
+
+**2. Mengubah (menambah atau mengurangi) jumlah di keranjang**
+1. Buka **Halaman Keranjang** (ikon keranjang di pojok kanan atas).  
+2. Pada tiap item terdapat tombol **“+”** (menambah) dan **“-”** (mengurangi).  
+3. Tekan “+” untuk menambah satu unit atau “–” untuk mengurangi satu unit.  
+4. Total harga akan otomatis menyesuaikan dengan perubahan jumlah.
+
+Jika jumlah yang Anda inginkan melebihi stok yang tersedia, aplikasi akan memberi peringatan dan tidak memungkinkan penambahan lebih lanjut.  
+Semoga membantu! Jika ada pertanyaan lain, silakan beri tahu saya.",0.3888888888888889,0.1856136797898896,0.9999999999,1.0,0.33,0.5044225528848242
+Q111,in_scope,deadline,Maksudnya gimana sih batas buat ngembaliin sewa?,"Batas pengembalian sewa adalah **tanggal dan waktu maks­imal** dimana barang yang Anda sewa harus dikembalikan ke Unmul Store.  
+
+- **Ditentukan per produk** oleh admin/superadmin saat produk dibuat atau di‑update.  
+- **Ditampilkan saat checkout** sehingga Anda tahu sampai kapan barang harus dikembalikan.  
+- Jika melewati batas ini, barang akan dianggap **telat** dan biasanya dikenakan **denda** (sesuai kebijakan toko).  
+
+Jadi, batas pengembalian bukan batas pengambilan barang, melainkan batas waktu akhir untuk mengembalikan barang sewa yang sudah Anda pakai. Jika Anda mengembalikannya tepat waktu, tidak ada denda atau masalah tambahan.",0.4444444444444444,0.6251275032214744,0.999999999975,1.0,0.43,0.6286175737157231
+Q123,in_scope,deposit,"Kalau telat, bisa nggak dipotong dari deposit?","Ya. Jika pengembalian barang terlambat, Unmul Store akan mengenakan **denda keterlambatan**. Besaran denda dihitung terpisah (misalnya default Rp 10.000 per hari, bisa berbeda per produk). 
+
+Apabila Anda sudah membayar **deposit**, admin dapat **memotong denda tersebut dari deposit** Anda. Pemotongan ini akan dikonfirmasi oleh admin pada saat proses pengecekan barang kembali. Jadi, denda tidak dibebankan terpisah di luar deposit, melainkan dipotong dari deposit yang sudah Anda bayarkan. 
+
+Jika ada pertanyaan lebih lanjut mengenai besaran denda untuk produk tertentu atau status deposit Anda, silakan hubungi admin melalui chat di aplikasi Unmul Store.",0.2727272727272727,0.6612124154447622,0.9999999999,1.0,0.2,0.5856648781497957
+Q129,in_scope,denda,Gimana sih cara ngecek denda gue?,"Berikut langkah‑langkah untuk mengecek denda Anda di Unmul Store:
+
+1. **Masuk ke aplikasi/website Unmul Store** dan login dengan akun mahasiswa Anda.  
+2. Pada menu utama, pilih **“Monitoring Denda”**.  
+3. Di halaman tersebut akan muncul daftar pesanan yang berstatus **“Terlambat”**.  
+4. Klik salah satu pesanan untuk melihat **detail total denda** (jumlah hari terlambat × tarif denda harian produk).  
+
+> **Catatan:**  
+> - Denda biasanya **Rp10.000 per hari**, tetapi tarif dapat berbeda tergantung produk.  
+> - Jika Anda merasa denda tidak tepat atau ingin meminta penghapusan/memaafkan denda, dapat menghubungi admin melalui tombol **“Ajukan Review”** pada halaman monitoring denda.  
+
+Jika Anda belum menemukan menu tersebut, pastikan aplikasi Anda sudah versi terbaru atau hubungi admin Unmul Store untuk bantuan lebih lanjut.",0.2307692307692307,0.059836705517824,0.49999999995,1.0,0.0,0.4158188688119021
+Q131,in_scope,denda,Denda itu bisa nggak sih dicancel?,"Ya, denda bisa dibatalkan atau diubah.  
+
+Menurut kebijakan **Unmul Store**, denda keterlambatan dapat **dimaafkan atau dihapus** oleh admin melalui menu **Monitoring Denda**, setelah admin melakukan evaluasi terhadap kasus Anda. Jadi, jika Anda merasa denda tersebut tidak tepat atau ada alasan khusus (misalnya gangguan teknis, kelalaian sistem, atau situasi darurat), Anda dapat mengajukan permohonan kepada admin.  
+
+**Cara mengajukan pembatalan denda:**
+
+1. **Masuk ke akun Unmul Store** Anda.  
+2. Buka menu **“Pesanan”** → pilih pesanan yang terkena denda.  
+3. Klik **“Ajukan Penghapusan Denda”** atau kirimkan pesan melalui fitur **Chat**/ **Support**.  
+4. Sertakan **alasan lengkap** (misalnya keterlambatan karena masalah transportasi, kesalahan sistem, dll.) dan, bila perlu, **bukti pendukung** (screenshot, foto, dsb.).  
+5. Admin akan meninjau permohonan Anda dan memberi keputusan. Jika disetujui, denda akan dihapus atau diubah pada **Monitoring Denda**.
+
+Jika belum menemukan opsi tersebut di aplikasi, Anda juga dapat menghubungi **Tim Support** melalui email atau WA yang tertera di halaman **Kontak** untuk meminta bantuan langsung.  
+
+Semoga membantu! Jika ada pertanyaan lain seputar pemesanan, pembayaran, atau kebijakan lainnya, silakan beri tahu saya.",0.0714285714285714,0.1458051558782636,0.8333333332916666,1.0,0.0,0.7008153645872359
+Q139,in_scope,deadline,"Kalau barangnya nggak diambil, bakal gimana?","Berikut informasi yang saya temukan di dokumen FAQ Unmul Store mengenai **barang yang tidak diambil**:
+
+- **Batas waktu pengambilan**: Setelah status pesanan berubah menjadi **“Siap Diambil”**, Anda memiliki **3 hari** untuk mengambil barang di lokasi Unmul Store.  
+- **Jika tidak diambil sampai batas waktu**: Pesanan akan otomatis berubah status menjadi **“Kedaluwarsa”**. Stok barang akan dikembalikan ke sistem, dan pesanan tidak dapat dilanjutkan atau diproses lebih lanjut.  
+
+Jadi, bila barang tidak diambil dalam 3 hari, pesanan akan kedaluwarsa dan barang akan kembali tersedia untuk pembeli lain. Jika Anda membutuhkan bantuan lebih lanjut (misalnya ingin memperpanjang batas waktu atau mengajukan permohonan khusus), silakan menghubungi layanan pelanggan Unmul Store.",0.625,0.4060883749259438,0.9999999999666668,1.0,0.0,0.5547615154081579
+Q157,in_scope,klaim_almamater,Gimana sih klaim jas almamaternya?,"Berikut cara klaim jas almamater di Unmul Store:
+
+1. **Buka menu “Akademik → Almamater Maba”** di beranda aplikasi atau website Unmul Store.  
+2. **Isi formulir klaim** dengan data berikut:  
+   - Nama lengkap  
+   - NIM (Nomor Induk Mahasiswa)  
+   - Jalur masuk  
+   - Ukuran jas (S, M, L, XL, dst.)  
+   - Opsional: pilihan totebag  
+3. **Kirim formulir**.  
+4. **Verifikasi oleh admin**. Setelah klaim Anda disetujui, admin akan menetapkan jadwal pengambilan.  
+5. **Pengambilan**: biasanya dapat diambil pada minggu berikutnya setelah verifikasi selesai.  
+
+**Catatan penting**  
+- Klaim almamater untuk mahasiswa baru (maba) **gratis** (biaya Rp 0).  
+- Jika NIM tidak terdaftar atau data tidak cocok, klaim akan ditolak dan Anda perlu menghubungi admin untuk konfirmasi.  
+
+Semoga membantu! Jika ada pertanyaan lain seputar proses atau jadwal, silakan tanyakan.",0.5625,0.5426545451397864,0.8333333332916666,1.0,0.32,0.6708276821242234
+Q164,in_scope,klaim_almamater,"Biasanya klaim itu diverifikasi berapa lama, nih?","Berikut informasi yang saya temukan terkait berapa lama klaim diverifikasi:
+
+- **Proses verifikasi** dilakukan oleh admin. Setelah klaim disetujui, jadwal pengambilan akan diberikan.  
+- **Umumnya** jadwal pengambilan ditetapkan pada **minggu setelah klaim diverifikasi**.  
+
+Jadi, biasanya Anda perlu menunggu sekitar **satu minggu** setelah klaim Anda diverifikasi sebelum dapat mengambil barang (misalnya almamater). Jika ada perubahan atau Anda membutuhkan kepastian lebih detail, Anda dapat menghubungi admin Unmul Store.",0.1428571428571428,0.4793766899021172,0.99999999995,1.0,0.6,0.6735970073277049
+Q197,in_scope,teknis,Gimana kalau datanya nggak nongol?,"Jika hasil pencarian tidak muncul, ada beberapa kemungkinan:
+
+1. **Kata kunci yang digunakan belum tepat** – coba ubah atau perjelas pertanyaan Anda. Misalnya, sebutkan nama produk secara lengkap, harga, atau kategori yang Anda cari.  
+
+2. **Data memang belum tersedia** – mungkin informasi yang Anda butuhkan belum dimasukkan ke dalam basis dokumen Unmul Store. Anda bisa menanyakan kembali dengan detail lain (misalnya “cara pemesanan barang di Unmul Store” atau “metode pembayaran yang diterima”).
+
+3. **Kesalahan penulisan** – periksa kembali ejaan atau tata bahasa; kadang satu huruf saja dapat memengaruhi pencarian.
+
+Jika sudah mencoba cara‑cara di atas namun tetap tidak menemukan informasi, beri tahu saya detail apa yang Anda cari, dan saya akan membantu mencari kembali atau memberikan penjelasan umum yang relevan.",0.0,0.3205672852491376,0.0,0.0,0.0,0.2003114392750504
+Q202,in_scope,teknis,Boleh nggak sih sesi ganda?,"Hai! Mohon maaf, saya kurang mengerti maksud “sesi ganda” yang Anda tanyakan. Apakah Anda merujuk pada pemesanan produk atau layanan di Unmul Store (misalnya memesan lebih dari satu sesi pelatihan, kelas, atau item tertentu)? Jika iya, silakan beri detail lebih lanjut supaya saya dapat membantu dengan tepat. Terima kasih!",0.0,0.0,0.0,0.0,0.0,0.1255830396434089
+Q207,in_scope,keamanan,Admin bisa ngeliat password gue nggak?,"Berikut informasi yang saya temukan terkait pertanyaan Anda:
+
+- **Admin tidak dapat melihat atau menampilkan password pengguna.**  
+  Pada bagian keamanan (FAQ UnmulStore) disebutkan: *“Autentikasi ditangani secara aman melalui layanan otentikasi, dan aplikasi tidak boleh mencetak/menampilkan data sensitif seperti password.”*  
+
+- Jika Anda lupa password, Anda dapat melakukan **reset password** dengan menghubungi admin UnmulStore melalui nomor **0815‑2265‑0048**.
+
+Jadi, password Anda bersifat rahasia dan tidak dapat diakses oleh admin atau pihak lain. Jika memerlukan bantuan reset, silakan hubungi nomor di atas.",0.5384615384615384,0.6669066839252893,0.249999999975,1.0,0.4,0.5181297611483073
+Q209,in_scope,keamanan,Detail orderan orang lain bisa dilihat nggak?,"Berikut ini jawaban berdasarkan pengetahuan resmi Unmul Store:
+
+**Tidak.** Setiap pengguna hanya dapat melihat pesanan miliknya sendiri. Data pesanan orang lain tidak dapat diakses atau dilihat oleh pengguna lain untuk menjaga privasi dan keamanan transaksi. Jika ada pertanyaan lebih lanjut tentang cara melihat pesanan Anda sendiri atau hal lain terkait, silakan beri tahu saya!",0.6666666666666666,0.4752985912887581,0.499999999975,1.0,0.57,0.694130125064256
+Q210,in_scope,keamanan,Data pembayaran aman nggak?,"Berikut ini informasi yang kami temukan tentang keamanan data pembayaran di Unmul Store:
+
+- **Informasi transaksi hanya diakses oleh pengguna terkait dan admin yang berwenang**. Jadi data pembayaran Anda tidak dapat dilihat oleh orang lain selain Anda dan admin yang menangani proses transaksi. *(Sumber: FAQ Unmul Store – bagian “keamanan, pembayaran”)*  
+
+- **Jika terjadi pelanggaran keamanan** (misalnya data bocor atau ada aktivitas mencurigakan), Anda dapat melaporkannya kepada admin untuk segera ditangani. *(Sumber: FAQ Unmul Store – “penanganan insiden keamanan”)*  
+
+Dengan mekanisme tersebut, data pembayaran Anda dijamin tetap bersifat pribadi dan aman. Jika ada pertanyaan lebih lanjut, silakan hubungi admin melalui nomor 0815‑2265‑0048.",0.8125,0.7237381116586481,0.9999999999,1.0,0.0,0.5351155169774429
+Q215,in_scope,pesanan,Kenapa pesanan nggak kelihatan?,"Berikut penjelasan dari FAQ Unmul Store yang relevan dengan pertanyaan Anda:
+
+**Kenapa pesanan tidak terlihat?**  
+1. **Login dengan akun yang sama** – Pastikan Anda masuk menggunakan akun yang dipakai saat melakukan pemesanan.  
+2. **Refresh / tarik untuk memuat ulang** – Pada halaman **Pesanan**, tarik ke bawah (pull‑to‑refresh) sehingga daftar ter‑update.  
+3. **Periksa menu Pesanan** – Buka menu **Pesanan** di navigasi bawah, kemudian lihat daftar. Jika masih kosong, coba logout‑login kembali.  
+
+Jika setelah melakukan langkah‑langkah di atas pesanan masih tidak muncul, kemungkinan ada masalah teknis pada server. Anda dapat menghubungi admin Unmul Store melalui fitur chat atau email yang tertera di aplikasi untuk memastikan pembayaran dan status pesanan tercatat.  
+
+Semoga membantu! Jika ada pertanyaan lain seputar cara melihat detail pesanan, status, atau proses pengambilan, silakan beri tahu saya.",0.7058823529411765,0.6032559714969371,0.9166666666361112,1.0,0.31,0.5696306975152772
+Q216,in_scope,pesanan,"Kalau statusnya kok belum berubah ya, kenapa ya?","Berikut penjelasan resmi dari Unmul Store mengenai mengapa **status pesanan belum berubah**:
+
+- **Status diperbarui secara bertahap oleh admin.**  
+  Setelah Anda melakukan pembayaran, tim admin akan memeriksa dan memverifikasi transaksi terlebih dahulu. Jika proses verifikasi belum selesai, status masih akan tetap pada tahap sebelumnya (misalnya “Menunggu Verifikasi” atau “Pembayaran Dikonfirmasi”).
+
+- **Jika status terlalu lama tidak berubah**, sebaiknya **hubungi admin** untuk memastikan pembayaran Anda sudah tercatat dengan benar. Anda dapat menghubungi admin melalui menu **“Bantuan”** pada aplikasi atau melalui kontak yang tertera di bagian profil toko.
+
+Jadi, biasanya memang ada jeda waktu sebelum status berubah. Jika jedanya terasa terlalu lama, lakukan konfirmasi ke admin agar mereka dapat mengecek kembali pembayaran Anda. Semoga membantu! 🙏",0.4285714285714285,0.3164801061079578,0.9999999999,1.0,0.44,0.7041537962110562
+Q219,in_scope,teknis,Barangnya nggak keliatan di home?,"Hai! Produk yang Anda cari memang seharusnya muncul di beranda (home) Unmul Store, karena **beranda adalah katalog produk utama**. Namun bila barang tidak terlihat di sana, ada beberapa hal yang dapat Anda lakukan:
+
+1. **Buka langsung halaman katalog**  
+   - Pada aplikasi (atau web) terdapat menu *Produk/Katalog* yang dapat diakses **sebelum login**.  
+   - Dokumen kami menyebutkan: *“halaman produk dan katalog tetap dapat dilihat sebelum login.”* jadi Anda tetap dapat melihat semua barang meskipun tidak muncul di beranda.
+
+2. **Refresh / Tarik ke bawah**  
+   - Kadang tampilan beranda memuat data secara bertahap. Coba geser ke bawah atau tarik untuk me‑refresh halaman.
+
+3. **Periksa filter atau kategori**  
+   - Bila Anda sedang menampilkan kategori tertentu, barang yang Anda cari mungkin berada di kategori lain. Pastikan filter “Semua” atau pilih kategori yang tepat.
+
+4. **Pastikan aplikasi terbaru**  
+   - Jika Anda memakai aplikasi Android, pastikan sudah menggunakan versi terbaru. Update aplikasi dapat memperbaiki tampilan produk.
+
+5. **Jika masih tidak muncul**  
+   - Hubungi admin Unmul Store di nomor **0815‑2265‑0048**. Sertakan nama barang yang tidak terlihat, sehingga tim dapat memeriksa apakah ada masalah pada data atau tampilan.
+
+Semoga membantu! Jika ada pertanyaan lain seputar produk, cara pemesanan, atau pembayaran, silakan beri tahu saya. 😊",0.25,0.2585494521846476,0.0,0.0,0.0,0.3270784738277655
+Q221,in_scope,teknis,Kenapa aplikasinya lemot ya?,"Aplikasi Unmul Store bisa terasa lemot karena beberapa faktor umum yang sudah tercantum di FAQ kami:
+
+1. **Koneksi internet tidak stabil** – Fitur‑fitur aplikasi membutuhkan akses ke server, jadi jaringan yang lemah atau terputus dapat membuat loading menjadi lambat.  
+2. **Aplikasi atau perangkat sedang menjalankan banyak program lain** – Menutup aplikasi atau proses lain yang berjalan di latar belakang dapat memberi lebih banyak sumber daya (RAM & CPU) untuk Unmul Store.  
+3. **Versi aplikasi tidak terbaru** – Versi lama mungkin memiliki bug atau performa yang belum dioptimalkan. Pastikan Anda sudah memperbarui aplikasi melalui Google Play Store atau App Store ke versi paling baru.
+
+**Cara mengatasinya**  
+- Periksa dan pastikan koneksi internet Anda stabil (misalnya gunakan Wi‑Fi yang kuat atau jaringan seluler dengan sinyal baik).  
+- Tutup aplikasi lain yang tidak diperlukan sebelum membuka Unmul Store.  
+- Buka **Google Play Store** (atau App Store) dan lakukan pembaruan aplikasi ke versi terbaru.  
+
+Jika setelah melakukan langkah‑langkah di atas aplikasi masih terasa lambat, Anda dapat melaporkan masalah tersebut kepada tim admin Unmul Store melalui nomor **0815‑2265‑0048** atau langsung ke toko di kampus untuk bantuan lebih lanjut.",0.65,0.5600017158534288,0.9166666666361112,1.0,0.0,0.4770109487986732
+Q222,in_scope,teknis,"Kalau aplikasinya sering nge-crash, gimana?","Berikut ini langkah‑langkah yang dapat Anda coba saat aplikasi Unmul Store sering **crash** atau **tertutup sendiri**:
+
+1. **Perbarui aplikasi** ke versi terbaru melalui Google Play Store atau App Store.  
+2. **Pastikan ruang penyimpanan** di ponsel cukup; hapus file atau aplikasi yang tidak diperlukan bila perlu.  
+3. **Tutup aplikasi lain** yang berjalan di latar belakang untuk mengurangi beban memori.  
+4. **Periksa koneksi internet** agar stabil; coba sambungkan ke jaringan Wi‑Fi yang baik atau data seluler yang kuat.  
+5. Jika masalah masih berlanjut, **laporkan bug** ke admin/CS:  
+   - Telepon: **0815‑2265‑0048**  
+   - Atau datang langsung ke toko di kampus.
+
+Semoga membantu! Jika masih ada kendala lain, beri tahu saya.",0.75,0.7280256006474581,0.999999999975,1.0,0.14,0.577369377427467
+Q225,in_scope,akun,gimana sih cara reset password-nya?,"Untuk melakukan reset password di Unmul Store, silakan hubungi admin melalui nomor berikut:
+
+**📞 0815‑2265‑0048**
+
+Admin akan membantu Anda mengatur ulang password akun. Jika ada pertanyaan lain seputar akun atau toko, jangan ragu untuk menanyakannya!",1.0,0.6921468151492983,0.9999999999,0.5,0.33,0.5133879700029167
+Q226,in_scope,akun,Gimana ya biar editan di profilnya ke-save?,"Berikut langkah‑langkah supaya perubahan yang Anda buat di **Profil > Edit Profil** tersimpan:
+
+1. **Isi semua data yang ingin diubah** (nama, nomor telepon, alamat, foto profil, dll).  
+2. **Tekan tombol “Simpan”** di bagian bawah halaman edit.  
+3. Pastikan **koneksi internet stabil** saat menekan tombol tersebut; aplikasi akan menampilkan konfirmasi bahwa perubahan berhasil disimpan.  
+4. Jika tidak muncul notifikasi sukses, **coba lagi** atau periksa kembali koneksi Anda.  
+
+Jika setelah menekan “Simpan” perubahan masih tidak muncul, coba **restart aplikasi** dan periksa kembali profil Anda. Bila tetap tidak berhasil, Anda dapat menghubungi layanan bantuan Unmul Store di **0815‑2265‑0048** untuk bantuan lebih lanjut.",0.3,0.6566232636637049,0.3333333333,1.0,0.15,0.5176940605167222
+Q229,in_scope,akun,Gimana kalau emailnya ga nyampe?,"Jika email konfirmasi tidak sampai, coba langkah‑langkah berikut:
+
+1. **Periksa folder Spam/Junk** – kadang‑kadang email masuk ke sana.  
+2. **Pastikan alamat email yang Anda gunakan sudah benar** (tanpa typo).  
+3. **Cek koneksi internet** – email dapat tertunda bila jaringan tidak stabil.  
+
+Jika setelah melakukan tiga hal di atas email masih belum muncul, **hubungi tim admin/CS Unmul Store** untuk bantuan lebih lanjut. Anda dapat menghubungi mereka lewat:
+
+- **Nomor WA/Telepon:** 0815‑2265‑0048  
+- **Jam layanan:** Senin–Jumat, 09.00–15.00 WITA  
+
+Tim akan memeriksa status pengiriman email dan membantu memastikan akun Anda terverifikasi. Jika diperlukan, mereka dapat mengirim ulang email konfirmasi secara manual.",0.4166666666666667,0.6675724030570818,0.9999999999,1.0,0.0,0.7116683723899774
+Q236,in_scope,akun,Mau pesan tanpa login itu bisa nggak?,"Bisa, tapi **wajib login** untuk dapat membuat pesanan. Anda dapat menelusuri produk tanpa masuk akun, namun untuk checkout dan memantau status pesanan harus login terlebih dahulu. Jadi pesan tanpa login tidak memungkinkan.",1.0,0.5284048003891959,0.9999999999,1.0,0.89,0.7217248076513427
+Q237,in_scope,akun,Beranda itu harus login nggak?,"Tidak. Kamu bisa melihat halaman beranda (katalog produk) Unmul Store tanpa harus login terlebih dahulu. Namun untuk menambah barang ke keranjang, melakukan checkout, atau mengakses fitur akun lainnya, kamu perlu masuk (login) terlebih dahulu.",0.4,0.4968720459122632,0.49999999995,0.5,0.57,0.7549189321047324
+Q238,in_scope,umum,Menu Akademik isinya apa sih?,"Berikut ini isi **Menu Akademik** di Unmul Store:
+
+- **Almamater untuk Mahasiswa Baru (Maba)** – layanan klaim almamater (kaos, jaket, dll.) khusus untuk mahasiswa baru.  
+- **Toga** – layanan pemesanan toga, biasanya untuk wisuda atau acara resmi kampus.  
+
+Saat ini, hanya dua layanan tersebut yang sudah aktif di Menu Akademik. Menu lainnya (seperti layanan digital, pesawat, hotel, dll.) masih belum tersedia dan akan menampilkan keterangan **“Layanan Belum Tersedia.”**  
+
+Jika Anda membutuhkan detail lebih lanjut tentang cara memesan atau persyaratan masing‑masing layanan, silakan tanyakan!",0.5,0.7145620306528983,0.9999999999,1.0,0.0,0.6556947953304839
+Q239,in_scope,umum,"Kok layanannya nampilin belum tersedia, sih?","Berikut penjelasan mengenai kenapa Anda melihat keterangan **“Layanan belum tersedia”** pada aplikasi Unmul Store:
+
+- Di dalam Unmul Store terdapat beberapa kategori layanan, antara lain **Akademik (Almamater Maba, Toga, UKT), Merchandise, Fasilitas & Sewa, Perjalanan (Pesawat, Hotel), serta Digital (Listrik, Pulsa)**.  
+- **Saat ini hanya layanan Akademik (Almamater Maba, Toga) dan Merchandise yang sudah aktif**. Semua kategori lain masih dalam tahap pengembangan atau belum dibuka untuk umum, sehingga pada menu tersebut ditampilkan label **“Layanan Belum Tersedia”**.  
+
+Jadi, layanan yang belum tersedia belum dapat dipakai hingga tim Unmul Store mengaktifkannya di kemudian hari. Jika ada pertanyaan lain tentang layanan yang sudah aktif atau prosedur pemesanan, silakan beri tahu saya!",0.8461538461538461,0.4450304730809309,0.9999999999666668,1.0,0.18,0.4777576132219515
+Q240,in_scope,umum,Barangnya bisa diambil di mana ya?,"Untuk pengambilan barang:
+
+- **Lokasi pengambilan:** Barang dengan metode **“Bayar di Toko”** dapat diambil langsung di **lokasi Unmul Store** (toko kampus).  
+- **Batas waktu pengambilan:** Setelah status pesanan berubah menjadi **“Siap Diambil,”** Anda memiliki **3 hari** untuk mengambil barang. Jika lewat batas tersebut, pesanan akan berstatus **Kedaluwarsa** dan stok akan dikembalikan ke sistem.  
+
+Pastikan memeriksa halaman pesanan Anda untuk melihat hitung‑mundur (countdown) batas waktu pengambilan. Jika ada pertanyaan lain, silakan beri tahu!",0.7142857142857143,0.3423057669098912,0.3333333333,0.5,0.2,0.3109513497078078
+Q241,in_scope,umum,"UnmulStore buka jam berapa sampai jam berapa, nih?","UnmulStore beroperasi pada hari **Senin sampai Jumat**, mulai pukul **09.00 hingga 15.00 WIB**. Pada akhir pekan (Sabtu & Minggu) toko tidak melayani pembukaan. Selamat berbelanja!",0.6,0.652234846709537,0.9999999999,1.0,0.67,0.8771135811344918
+Q244,in_scope,produk,Gimana cara cek spek produknya?,"Untuk melihat spesifikasi suatu produk di **Unmul Store**, ikuti langkah berikut:
+
+1. **Buka beranda (home) Unmul Store**.  
+2. **Cari atau pilih produk yang ingin Anda lihat** (bisa lewat kategori, pencarian, atau daftar produk).  
+3. **Klik gambar atau nama produk** tersebut.  
+
+   → Anda akan diarahkan ke **halaman detail produk**.  
+
+4. Pada halaman detail, akan muncul informasi lengkap seperti:
+   - **Deskripsi** produk  
+   - **Spesifikasi teknis** (misalnya bahan, ukuran, warna, dll.)  
+   - **Panduan ukuran** (size guide) bila ada  
+   - Harga, stok, dan pilihan variasi (ukuran, jenjang, warna, dll.)
+
+Jika produk berada dalam keadaan **habis stok**, tetap dapat dilihat namun akan berwarna abu‑abu dan tidak dapat dipesan.   
+
+Jadi, cara paling cepat untuk mengecek spek produk adalah **klik produk di beranda untuk membuka halaman detailnya**.",0.5652173913043478,0.5785785992777355,0.9999999999,1.0,0.38,0.593030310314874
+Q246,in_scope,sewa,"Selisih harga sewanya sama belinya berapa, dong?","Berdasarkan penjelasan yang terdapat dalam FAQ Unmul Store, harga sewa (rental price) dan harga beli memang **berbeda**.  
+
+- **Harga sewa** biasanya lebih rendah daripada harga beli, karena hanya menutupi biaya penggunaan selama periode sewa.  
+- **Harga beli** adalah total harga barang yang harus dibayar sekaligus agar barang menjadi milik Anda.  
+
+Berapa selisih persisnya? Itu tergantung pada masing‑masing produk, karena setiap item memiliki tarif sewa dan harga beli yang sudah ditentukan di halaman detail produk. Jadi, untuk mengetahui selisih harga secara pasti, silakan lihat **detail produk** yang Anda minati; di sana akan tercantum harga beli dan juga harga sewanya (jika produk tersebut mendukung penyewaan).  
+
+Jika produk tidak menyediakan opsi sewa, hanya harga beli yang akan ditampilkan. Semoga membantu!",0.4,0.4907046390861149,0.99999999995,1.0,0.31,0.7590379287738986
+Q248,in_scope,produk,"Kalau barangnya cacat, harus gimana ya?","Berikut penjelasan yang dapat kami temukan dalam **FAQ Unmul Store**:
+
+- **Jika barang yang Anda sewakan rusak (cacat) atau hilang**  
+  - Anda tetap harus mengembalikan barang tersebut ke toko Unmul Store.  
+  - Deposit atau jaminan yang Anda bayarkan pada saat penyewaan akan **digunakan untuk menutupi kerusakan** (atau akan dipotong jika barang tidak dapat dikembalikan dalam kondisi baik).  
+  - Hanya bila barang dikembalikan dalam kondisi baik sesuai ketentuan, **deposit akan dikembalikan penuh** setelah proses konfirmasi selesai.  
+
+- **Jika barang yang Anda beli mengalami cacat**  
+  - Dokumen FAQ yang kami temukan belum memuat detail kebijakan retur/pengembalian untuk barang yang dibeli.  
+  - Untuk kasus barang cacat setelah pembelian, sebaiknya hubungi langsung **admin Unmul Store** (atau datang ke toko) dengan membawa bukti pembelian. Mereka akan memeriksa kondisi barang dan memberikan solusi, seperti penggantian atau pengembalian uang sesuai kebijakan toko.
+
+**Langkah yang dapat Anda lakukan sekarang:**
+
+1. **Kembalikan barang ke toko** (untuk barang sewa).  
+2. **Sertakan bukti pembayaran/deposit** bila diminta.  
+3. **Hubungi admin** melalui kontak yang tertera di aplikasi atau datang langsung ke lokasi Unmul Store (Jl. Kuaro, Gunung Kelua, Samarinda Ulu) untuk mendapatkan konfirmasi dan proses selanjutnya.  
+
+Jika masih ada pertanyaan lain atau membutuhkan bantuan lebih lanjut, silakan beri tahu kami! 🙏",0.2,0.3600785347471014,0.0,0.0,0.0,0.2740637044185843
+Q250,in_scope,produk,Garansinya ada nggak?,"Berkenaan dengan garansi, kebijakan garansi **ditentukan per produk** dan tergantung pada kebijakan masing‑masing toko di Unmul Store. Untuk mengetahui apakah suatu barang memiliki garansi, berapa lama garansinya, atau detail lain, Anda dapat:
+
+1. **Melihat informasi pada halaman detail produk** – biasanya ada keterangan “Garansi” bila produk tersebut bergaransi.  
+2. **Menghubungi admin / CS** – mereka dapat memberikan konfirmasi dan detail lengkap tentang garansi untuk produk yang Anda minati.
+
+Jadi, tidak ada jawaban satu‑ukuran‑untuk‑semua; silakan cek detail produk atau tanyakan langsung ke admin untuk info spesifik.",0.0,0.3609278048120906,0.8333333332916666,1.0,0.67,0.7623920249302691
+Q251,in_scope,produk,Ada nggak fitur buat kasih rating?,"Berikut informasi yang saya temukan di basis pengetahuan Unmul Store:
+
+- **Rating produk** memang ada. Rating adalah penilaian kualitas produk dari pengguna yang ditampilkan dalam skala bintang (misalnya 4.8).  
+- Pengguna dapat **memberi ulasan dan rating** pada produk yang pernah dibeli.  
+
+Jadi, Unmul Store menyediakan fitur rating / ulasan untuk membantu pembeli lain melihat kualitas barang. Jika Anda ingin memberi rating, cukup buka halaman detail produk setelah melakukan pembelian, lalu isi bintang dan komentar Anda.",0.1666666666666666,0.5140452721538317,0.0,0.0,0.0,0.3988036805389029
+Q252,in_scope,umum,UnmulStore ini gratis nggak buat dipake?,"UnmulStore **gratis untuk diunduh dan digunakan**. Anda tidak perlu membayar apa pun untuk mengakses aplikasi, membuat akun, atau melakukan pemesanan produk dan layanan yang tersedia. 
+
+Jika ada pertanyaan lain tentang cara menggunakan UnmulStore, produk, pembayaran, atau kebijakan lainnya, silakan tanyakan!",0.25,0.5108163302600087,0.3333333333,1.0,0.67,0.6125930144006484
+Q254,in_scope,umum,Gimana ya cara kontak adminnya?,"Untuk menghubungi admin Unmul Store, Anda dapat:
+
+- **Telepon/WhatsApp:** 0815‑2265‑0048  
+- **Datang langsung** ke lokasi Unmul Store di kampus Universitas Mulawarman (Jl. Kuaro, Gunung Kelua, Samarinda Ulu, Kota Samarinda, Kaltim) selama jam operasional (Senin–Jumat, 09.00–15.00 WITA).
+
+Jika ada pertanyaan lain seputar pemesanan, pembayaran, atau produk, silakan beri tahu saya!",0.8,0.6240954839929533,0.9166666666361112,1.0,0.92,0.8219508381951202
+Q255,in_scope,pembayaran,"Kalo dibatalin, uangnya balik nggak?","Berikut penjelasan mengenai pengembalian uang bila Anda membatalkan pesanan di Unmul Store:
+
+- **Pembatalan harus disetujui admin terlebih dahulu.** (FAQ Q149)  
+- Jika pembatalan **diproses dan disetujui**, uang yang sudah dibayarkan (termasuk deposit atau jaminan) **akan dikembalikan** sesuai ketentuan yang berlaku. (FAQ Q151)  
+- Pengembalian dana biasanya dilakukan melalui metode pembayaran yang Anda gunakan saat melakukan pemesanan, dan prosesnya dapat memakan waktu beberapa hari kerja tergantung bank atau layanan pembayaran.
+
+Jadi, **ya, uang Anda akan kembali** asalkan pembatalan telah diterima dan diproses oleh admin Unmul Store. Jika ada pertanyaan lebih lanjut atau ingin mengajukan pembatalan, silakan hubungi admin melalui fitur chat di aplikasi atau kunjungi halaman **“Pembatalan Pesanan”** pada akun Anda.",0.3076923076923077,0.4011642088705244,0.9999999999,0.0,0.0,0.6461907479466759
+Q256,in_scope,deposit,"Eh, depositnya bisa dipindahin nggak?","Berdasarkan FAQ Unmul Store, **deposit tidak dapat dipindahkan ke orang lain**.  
+
+Deposit merupakan uang jaminan yang dibayarkan saat melakukan penyewaan dan akan **dikembalikan kepada pemesan** setelah barang dikembalikan dalam kondisi baik dan admin mengonfirmasi penyewaan selesai. Penggunaan deposit untuk penyewaan berikutnya atau pemindahan ke orang lain ditentukan oleh admin, tetapi secara umum tidak diperbolehkan untuk dipindah.
+
+Jika Anda membutuhkan alternatif atau ingin mengajukan permohonan khusus, silakan hubungi admin Unmul Store.",0.5555555555555556,0.667276294291844,0.6388888888675925,1.0,0.25,0.6263663295353974
+Q259,in_scope,pengambilan_pengiriman,Bisa nggak sih barangnya diwakilin?,"Bisa, tapi pengambilan biasanya dilakukan oleh pemesan langsung. Jika ingin diwakilkan oleh orang lain, silakan konfirmasi dengan admin Unmul Store untuk mendapatkan izin dan petunjuk lanjutannya.",0.4,0.2580299430779638,0.9999999999,1.0,0.67,0.6194791769577059
+Q260,in_scope,pesanan,Gimana ngecek orderan sebelumnya?,"Untuk melihat orderan atau pesanan sebelumnya di **Unmul Store**, ikuti langkah berikut:
+
+1. **Buka aplikasi Unmul Store** (atau web‑versi jika Anda menggunakannya di browser).  
+2. Pada **navigasi bawah**, pilih menu **“Pesanan”**.  
+3. Di sana akan muncul **daftar riwayat pesanan** Anda, meliputi:
+   - Pesanan yang masih diproses  
+   - Pesanan yang sudah selesai  
+   - Detail lengkap tiap pesanan (produk, jumlah, harga, status, dll).
+
+Jika daftar pesanan tidak muncul atau kosong:  
+
+- Pastikan Anda **masuk (login) dengan akun yang sama** yang dipakai saat melakukan pemesanan.  
+- Lakukan **geser ke bawah (pull‑to‑refresh)** untuk memuat ulang daftar.  
+
+Dengan cara tersebut Anda bisa mengecek semua orderan sebelumnya, melihat status terkini, serta membuka detail tiap pesanan. Jika masih ada kendala, silakan hubungi admin melalui nomor **0815‑2265‑0048**.",0.8,0.4626584232990339,0.4333333333225,1.0,0.0,0.5809131756832611
+Q261,in_scope,stok,"Kalau stoknya habis, kapan bakal restok lagi ya?","Untuk produk yang habis (tampil abu-abu di katalog), jadwal restok ditentukan admin dan tidak ada tanggal pasti per produk. Stok akan kembali setelah admin menambahkannya, dan perubahannya tampil real-time di beranda/halaman detail. Cek halaman produk secara berkala atau hubungi admin UnmulStore di 0815-2265-0048 (Senin-Jumat, 09.00-15.00 WITA) untuk konfirmasi ketersediaan. Jika ada pertanyaan lain seputar produk atau pemesanan, silakan beri tahu saya!",0.659637819365263,0.615261919846494,0.7797619047251488,0.8571428571428571,0.38357142857142856,0.6914442533672799
+OOS1,out_of_scope,-,Apakah UnmulStore menjual laptop?,"Berdasarkan informasi yang ada di katalog Unmul Store, produk yang dijual berupa merchandise kampus (kaos, kemeja putih, work shirt, gantungan kunci, mug, tumblr, jaket, totebag, sticker pack, boneka Opan, selempang cumlaude) serta barang akademik seperti almamater dan toga. Saat ini belum ada layanan atau kategori produk lain yang aktif, sehingga **laptop tidak termasuk dalam daftar barang yang dijual** di Unmul Store. Jika ada perubahan atau penambahan produk di kemudian hari, informasi tersebut akan diumumkan melalui halaman resmi toko.",0.5454545454545454,0.940569718787576,0.99999999995,0.0,0.0,0.3933338877493543
+OOS3,out_of_scope,-,Apakah ada layanan pemesanan tiket pesawat sekarang?,"Saat ini **Unmul Store belum menyediakan layanan pemesanan tiket pesawat**.  
+Daftar layanan yang sudah aktif hanyalah:
+
+- Almamater (Maba)  
+- Toga  
+- Merchandise  
+
+Menu layanan lain, termasuk pemesanan tiket pesawat, masih ditandai dengan keterangan **“Layanan Belum Tersedia”**. Jadi untuk saat ini Anda belum dapat memesan tiket pesawat melalui Unmul Store. Jika layanan tersebut diaktifkan di masa mendatang, informasinya akan diumumkan kembali di platform. 😊",0.875,0.720826124299155,0.0,0.0,0.0,0.3742953701036005
+OOS4,out_of_scope,-,Siapa rektor Universitas Mulawarman saat ini?,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar Unmul Store, seperti produk, cara pemesanan, pembayaran, pengiriman, dan kebijakan toko. Jika ada hal lain yang ingin Anda ketahui tentang layanan Unmul Store, silakan beri tahu saya!",0.0,0.0760202183595295,0.0,0.0,0.0,0.3632369837018949
+OOS5,out_of_scope,-,Berapa harga tiket bioskop di Samarinda?,"Maaf, saya tidak memiliki informasi tentang harga tiket bioskop di Samarinda. Saya di sini untuk membantu menjawab pertanyaan seputar Unmul Store, seperti produk, cara pemesanan, pembayaran, pengiriman, atau kebijakan toko. Jika ada hal lain tentang Unmul Store yang ingin Anda ketahui, silakan beri tahu saya!",0.0,0.0,0.0,0.0,0.0,0.2321029094352877
+Q23,in_scope,produk,Gimana sih liat pilihan sewa di produk?,"Berikut cara melihat dan memilih opsi **sewa** pada sebuah produk di Unmul Store:
+
+1. **Buka halaman produk**  
+   – Dari beranda atau pencarian, klik produk yang ingin Anda lihat. Semua detail produk dapat dilihat tanpa harus login dulu.
+
+2. **Cek apakah produk tersedia untuk disewa**  
+   – Di bagian atas atau di tab “Detail”, akan ada **tombol / pilihan “Mode”**.  
+   – Jika produk dapat disewa, biasanya akan muncul pilihan **“Beli”** dan **“Sewa”**.
+
+3. **Pilih mode “Sewa”**  
+   – Klik tombol atau dropdown “Sewa”. Setelah itu tampilan akan berubah menjadi opsi‑opsi sewa.
+
+4. **Tentukan variasi dan jumlah**  
+   – Pilih varian yang tersedia (misalnya ukuran, warna, atau tipe).  
+   – Masukkan jumlah unit yang ingin Anda sewa.
+
+5. **Lihat harga sewa**  
+   – Harga per periode (misalnya per hari, minggu, atau bulan) akan muncul otomatis di samping pilihan jumlah.  
+   – Jika ada deposit atau jaminan, jumlah tersebut juga akan ditampilkan.
+
+6. **Lanjutkan ke checkout**  
+   – Setelah semua pilihan sudah sesuai, klik **“Checkout”**. Deposit yang diperlukan akan otomatis ditambahkan ke total tagihan.
+
+7. **Selesai**  
+   – Setelah pembayaran selesai, Anda akan menerima konfirmasi pemesanan sewa beserta **batas waktu pengembalian** (return deadline). Pastikan barang dikembalikan sebelum tanggal tersebut untuk menghindari denda.
+
+**Tips tambahan**
+- Semua produk yang dapat disewa biasanya diberi label “*Dapat Disewa*” di daftar produk.
+- Jika Anda belum login, Anda tetap dapat melihat opsi sewa, namun untuk melakukan checkout harus masuk (login) terlebih dahulu.
+
+Semoga membantu! Jika ada pertanyaan lain tentang produk atau proses penyewaan, silakan tanya lagi. 🙌",0.25,0.7424675824317722,0.49999999995,0.5,0.0,0.6122048455950391
+Q87,in_scope,pesanan,Gimana cara cek resi sama tracking?,"Berikut cara mengecek nomor resi dan melakukan tracking pada **Unmul Store**:
+
+1. **Masuk ke Akun**  
+   - Buka aplikasi atau web Unmul Store dan login dengan akun Anda.
+
+2. **Buka Menu Pesanan**  
+   - Pilih menu **“Pesanan”** (biasanya ada di bagian profil atau navigasi utama).
+
+3. **Pilih Order yang Ingin Diperiksa**  
+   - Di daftar order, ketuk atau klik order yang sedang Anda tunggu.
+
+4. **Lihat Detail Order**  
+   - Pada halaman detail pesanan akan muncul informasi berikut:
+     - **Nomor Resi** (jika pesanan dikirim melalui layanan kurir).  
+     - **Tombol “Lacak”** atau **“Tracking”**.
+
+5. **Cek Resi**  
+   - Jika ada nomor resi, catat atau salin nomor tersebut.  
+   - Anda juga bisa langsung menekan tombol **“Lacak”**, yang akan membuka halaman tracking resmi kurir (mis‑contoh: JNE, Tiki, SiCepat) dengan nomor resi yang sudah terisi otomatis.
+
+6. **Jika Metode Pengambilan = “Bayar di Toko”**  
+   - Pada order dengan metode **“Bayar di Toko”**, tidak ada nomor resi karena barang hanya diambil di lokasi Unmul Store.  
+   - Pada detail pesanan akan terlihat **tombol “Lacak”** yang memberi petunjuk lokasi dan jam ambil barang, bukan tracking pengiriman.
+
+7. **Notifikasi Perubahan Status**  
+   - Setiap kali status pesanan berubah (misalnya dari *Diproses* → *Siap Diambil* atau *Dikirim*), Anda dapat memantau perubahan tersebut di halaman **Pesanan**.  
+   - Unmul Store belum menyediakan notifikasi push, jadi pengecekan manual melalui menu ini diperlukan.
+
+**Ringkasan singkat**
+
+| Metode | Cara Cek |
+|--------|----------|
+| **Kurir (Ada Resi)** | Menu → Pesanan → Detail → Nomor Resi + Tombol **Lacak** |
+| **Bayar di Toko** | Menu → Pesanan → Detail → Petunjuk **Ambil Barang** (tidak ada resi) |
+
+Jika Anda masih tidak menemukan nomor resi atau tombol “Lacak”, kemungkinan pesanan Anda belum masuk tahap pengiriman atau menggunakan metode ambil di toko. Untuk konfirmasi lebih lanjut, Anda dapat menghubungi admin Unmul Store di **0815‑2265‑0048**. Semoga membantu! 🙌",0.2580645161290322,0.5450733665251825,0.49999999995,1.0,0.07,0.4853606542922643
+Q136,in_scope,deadline,Ada deadline apa aja nih?,"Berikut *deadline* yang berlaku di **Unmul Store**:
+
+| Jenis deadline | Untuk apa? | Lama / ketentuan | Apa yang terjadi bila terlewat |
+|----------------|------------|------------------|--------------------------------|
+| **Batas pengambilan** | Pembelian barang (status *Siap Diambil*) | Barang harus diambil maksimal **3 hari** setelah status berubah menjadi *Siap Diambil*【source】 | Jika tidak diambil, pesanan berubah status **Kedaluwarsa** dan stok barang kembali ke sistem【source】 |
+| **Batas pengembalian** | Penyewaan barang | Tanggal & waktu maksimal barang sewa harus dikembalikan ke toko (ditetapkan saat produk dibuat)【source】 | Jika melewati batas, pesanan akan ditandai **Terlambat** dan denda otomatis dihitung【source】 |
+| **Pengingat / Countdown** | Semua pesanan (baik pembelian maupun penyewaan) | Halaman pesanan menampilkan hitung‑mundur (countdown) agar kamu bisa melihat sisa waktu secara real‑time【source】 |
+| **Pengaturan deadline** | Admin / superadmin | Admin dapat menetapkan atau mengubah **batas pengambilan** dan **batas pengembalian** saat mengelola produk; perubahan langsung terlihat pada pesanan terkait【source】 |
+
+**Ringkasnya**  
+- Untuk barang yang **dibeli**, kamu punya **3 hari** setelah toko menandai barang siap diambil.  
+- Untuk barang yang **disewa**, ada **batas pengembalian** yang ditentukan pada produk (misalnya 7 hari, 14 hari, dsb.).  
+- Sistem selalu menampilkan countdown sehingga kamu dapat memantau sisa waktu.  
+- Jika melewati salah satu deadline, pesanan akan berstatus **kedaluwarsa** (untuk tidak diambil) atau **terlambat** dengan denda otomatis (untuk tidak dikembalikan).  
+
+Jika ada yang ingin kamu tanyakan lebih detail—misalnya cara melihat countdown di aplikasi atau cara mengubah deadline pada produkmu—silakan beri tahu!",0.7307692307692307,0.6072202188891093,0.9999999999666668,1.0,0.27,0.4241662440946363
+Q200,in_scope,teknis,Gimana cara cek versi terbarunya?,"Berikut cara mengecek versi terbaru Unmul Store:
+
+1. **Buka aplikasi UnmulStore** di perangkat Android atau buka versi web melalui browser.  
+2. **Masuk dengan akun Anda** (email & password).  
+3. **Masuk ke menu “Profil” atau “Pengaturan”.**  
+4. Di bagian atas biasanya tertera **nomor versi aplikasi** (misalnya v2.3.1).  
+5. Jika versi yang tertulis bukan yang terbaru, **buka Google Play Store** (untuk Android) atau periksa notifikasi pembaruan di browser, lalu pilih **“Update”** untuk mengunduh versi terbaru.
+
+Aplikasi UnmulStore **gratis untuk diunduh** dan penggunaannya, jadi Anda tidak perlu membayar apa‑apa untuk memperbarui ke versi terbaru. Jika masih belum yakin versi yang terpasang, Anda bisa menghubungi admin melalui nomor 0815‑2265‑0048 untuk konfirmasi.",0.1428571428571428,0.6901168672802044,0.0,0.0,0.0,0.6044672546399495
+Q203,in_scope,akun,Gimana sih cara pulihin email akunnya?,"Untuk mengganti atau “membersihkan” email pada akun Unmul Store, saat ini tidak ada fungsi **ubah email** di aplikasi. Anda dapat melakukannya dengan dua cara:
+
+1. **Hubungi tim admin / CS Unmul Store**  
+   • Telepon/WhatsApp: **0815 2265 0048**  
+   • Beritahu mereka bahwa Anda ingin mengubah/alamat email akun. Tim akan memverifikasi data (misalnya nama lengkap, nomor telepon, atau ID mahasiswa) dan melakukan perubahan email di sistem.
+
+2. **Buat akun baru dengan email yang di‑inginkan**  
+   Jika Anda lebih memilih cara cepat, Anda juga bisa mendaftar akun baru dengan email baru (melalui menu **Daftar** → isi nama lengkap, email valid, password). Setelah itu, beri tahu admin agar data transaksi atau poin pada akun lama dapat dipindahkan (jika memang diperlukan).
+
+**Catatan penting**  
+- Pastikan email yang Anda pakai memang **valid** dan dapat diakses, karena Unmul Store akan mengirimkan email konfirmasi/​verifikasi.  
+- Jika Anda tidak menerima email konfirmasi setelah mengubah data profil, periksa folder **Spam** atau hubungi admin kembali.
+
+Jadi, untuk mengganti atau “membersihkan” email akun, hubungi admin Unmul Store di nomor di atas. Mereka akan membantu proses perubahan dengan aman.",0.1304347826086956,0.6579179592457572,0.8333333332916666,0.5,0.0,0.4923868444219401
+Q213,in_scope,teknis,"Kalau login-nya nggak berhasil berkali-kali, harusnya ngapain?","Jika Anda sudah mencoba masuk (login) berkali‑kali namun tetap tidak berhasil, langkah‑langkah yang dapat dilakukan adalah:
+
+1. **Periksa kembali data login**  
+   - Pastikan email dan kata sandi yang Anda masukkan sudah benar (tidak ada typo, huruf kapital yang tidak seharusnya, atau spasi tambahan).  
+   - Pastikan akun sudah **terdaftar** di Unmul Store. Jika belum, daftarkan dulu terlebih dahulu.
+
+2. **Reset kata sandi**  
+   - Jika Anda lupa atau tidak yakin dengan kata sandi, proses pemulihan password dapat dilakukan melalui alur pengaturan akun.  
+   - **Hubungi admin Unmul Store** untuk bantuan reset password. Nomor kontak yang dapat dihubungi adalah **0815‑2265‑0048**.
+
+3. **Laporkan masalah ke admin**  
+   - Jika setelah mengisi ulang data login masih gagal, kemungkinan ada masalah pada akun (misalnya akun belum di‑activate atau ada pembatasan).  
+   - Sampaikan detail masalah (misalnya: “Saya tidak bisa login meski sudah memasukkan email xyz@unmul.ac.id dan password yang benar”) kepada admin melalui nomor telepon di atas atau melalui chat yang tersedia di aplikasi.
+
+4. **Cek koneksi internet**  
+   - Pastikan jaringan internet Anda stabil. Kadang‑kadang kegagalan login disebabkan oleh koneksi yang terputus.
+
+5. **Coba di perangkat atau browser lain**  
+   - Jika Anda menggunakan aplikasi Android, coba buka Unmul Store lewat browser web (atau sebaliknya) untuk melihat apakah masalah tetap muncul.
+
+Jika semua langkah di atas sudah dilakukan namun login masih belum berhasil, admin akan memeriksa status akun Anda dan membantu menyelesaikan masalah secepat mungkin. Jangan ragu menghubungi **0815‑2265‑0048** untuk mendapatkan bantuan lebih lanjut.",0.4166666666666667,0.5611879670354011,0.8055555555287036,0.5,0.28,0.7697667918893502
+Q218,in_scope,teknis,Gambar kok nggak bisa dimuat ya?,"Gambar produk tidak muncul biasanya disebabkan dua hal:
+
+1. **Koneksi internet atau aplikasi belum dimuat ulang**  
+   - Pastikan perangkat terhubung ke internet dengan sinyal yang baik.  
+   - Tarik layar (pull‑to‑refresh) atau tutup‑buka kembali aplikasi/halaman web untuk memuat ulang.
+
+2. **Gambar belum diunggah oleh penjual**  
+   - Jika sudah dicoba di atas tapi gambar masih kosong, kemungkinan penjual belum menambahkan foto produk atau terjadi error saat meng‑upload.
+
+**Langkah selanjutnya**  
+- Coba refresh beberapa kali.  
+- Jika tetap tidak muncul, hubungi admin Unmul Store (misalnya lewat menu **Bantuan** atau chat) supaya mereka memeriksa status gambar produk tersebut.
+
+Semoga membantu! Jika ada pertanyaan lain tentang produk atau pemesanan, silakan beri tahu saya.",0.0833333333333333,0.4697777545542179,0.8333333332916666,1.0,0.35,0.7623861649774919
+Q220,in_scope,teknis,Gimana cara nyalain notifikasinya?,"Untuk menyalakan notifikasi Unmul Store, pastikan **izin notifikasi** sudah di‑aktifkan di perangkat dan di dalam aplikasi:
+
+1. **Di perangkat (Android/iOS)**  
+   - Buka **Pengaturan** > **Aplikasi** > **Unmul Store**.  
+   - Pilih **Notifikasi** dan aktifkan **Izinkan Notifikasi** (atau “Allow notifications”).  
+   - Jika ada pilihan “Prioritas” atau “Tipe notifikasi”, pilih “Normal” atau “Tinggi” agar notifikasi tidak terfilter.
+
+2. **Di dalam aplikasi Unmul Store**  
+   - Masuk ke **Akun** > **Pengaturan** > **Notifikasi**.  
+   - Aktifkan opsi **Notifikasi order**, **Promosi**, atau jenis notifikasi lain yang kamu inginkan.  
+
+Setelah langkah‑langkah di atas, tutup dan buka kembali aplikasi (atau tarik ke bawah untuk refresh). Jika masih belum muncul, coba periksa koneksi internet atau restart perangkat.  
+
+Semoga membantu! 😊",0.0526315789473684,0.2957649350014507,0.9999999999,1.0,0.0,0.7727284568558734
+Q224,in_scope,akun,Gimana sih cara ganti data profilnya?,"Untuk mengubah data profil di **Unmul Store**, ikuti langkah‑langkah berikut:
+
+1. **Buka aplikasi / situs Unmul Store** dan masuk dengan akun Anda (jika belum masuk).  
+2. Pilih menu **“Profile”** (ikon orang atau nama Anda di pojok kanan atas).  
+3. Pada halaman profil, tekan tombol **“Edit Profil”**.  
+4. Di sana Anda dapat memperbarui:
+   - **Nama lengkap**
+   - **Nomor telepon**
+   - **Alamat** (kota dan jalan)
+   - **Foto profil / avatar** (tap foto untuk mengganti, pilih gambar yang ukuran dan formatnya sesuai)
+5. Setelah selesai melakukan perubahan, **tekan tombol “Simpan”** atau “Save”.  
+6. Pastikan koneksi internet Anda stabil; perubahan akan tersimpan setelah muncul konfirmasi berhasil.
+
+> **Tips:**  
+> - Jika foto tidak ter‑upload, cek ukuran dan format gambar (biasanya JPG/PNG dan tidak terlalu besar).  
+> - Jika data tidak tersimpan, coba tekan “Simpan” lagi atau pastikan aplikasi sudah diperbarui ke versi terbaru.  
+
+Jika masih mengalami kendala, Anda dapat menghubungi admin Unmul Store di **0815‑2265‑0048** untuk bantuan lebih lanjut.",0.6086956521739131,0.5587410677940495,0.9999999999666668,1.0,0.25,0.6645917762669543
+Q230,in_scope,umum,Kontak buat bantuannya ada di mana nih?,"Berikut informasi kontak bantuan Unmul Store yang tercantum dalam dokumen FAQ:
+
+- **Nomor telepon admin / CS:** **0815‑2265‑0048**  
+- **Cara menghubungi:** Anda dapat menghubungi nomor tersebut untuk melaporkan masalah, menanyakan status pesanan, atau mendapatkan bantuan lain.  
+
+Saat ini, fitur chat otomatis (chatbot) masih dalam pengembangan, sehingga kontak utama tetap melalui nomor telepon di atas. Jika ada pertanyaan lain seputar produk, pemesanan, atau kebijakan toko, silakan tanya kembali!",0.75,0.3753302563565481,0.9999999999666668,1.0,0.46,0.6853709369462984
+Q235,in_scope,akun,"Cara keluar dari aplikasinya gimana, nih?","Berikut cara keluar (menutup) aplikasi Unmul Store:
+
+1. **Tombol “Back” / “Home”**  
+   - Pada perangkat Android, cukup tekan tombol **Back** (atau tombol Home) sampai aplikasi kembali ke layar utama perangkat. Aplikasi akan tertutup secara otomatis.
+
+2. **Menu “Logout” (Keluar Akun)**  
+   - Buka **Profil** (ikon pengguna) di pojok kanan atas.  
+   - Pilih **Logout** atau **Keluar** untuk mengakhiri sesi login. Setelah itu, aplikasi tetap terbuka, tetapi Anda tidak lagi terhubung dengan akun.
+
+3. **Menutup Paksa (Force Close)**  
+   - Buka **Pengaturan** pada perangkat → **Aplikasi** → cari **UnmulStore** → pilih **Force Stop**.  
+   - Ini akan menutup semua proses aplikasi secara paksa.
+
+4. **Swipe ke atas (Recent Apps)**  
+   - Tekan tombol **Recent Apps** (tombol persegi atau gesture swipe‑up).  
+   - Geser kartu UnmulStore ke samping atau ke atas untuk menghilangkannya dari daftar aplikasi yang sedang berjalan.
+
+Jika Anda hanya ingin keluar dari akun, gunakan langkah **Logout** di menu Profil. Untuk menutup aplikasi sepenuhnya, gunakan cara pertama, kedua, atau ketiga sesuai kenyamanan Anda. Semoga membantu! 🙌",0.0,0.6664231996979698,0.0,0.0,0.12,0.5078874567472949
+Q242,in_scope,klaim_almamater,Gimana kalau NIM-nya nggak bisa dipake?,"Berikut penjelasan dari FAQ UnmulStore yang relevan:
+
+- **Jika NIM tidak dapat dipakai** (misalnya Anda tidak tahu atau tidak memiliki NIM saat ingin mengklaim almamater), NIM dibutuhkan untuk proses klaim almamater.  
+- **Solusi:** Hubungi bagian akademik atau admin UnmulStore untuk meminta bantuan verifikasi. Mereka dapat membantu mencari NIM Anda atau memberi panduan alternatif.
+
+Jadi, bila NIM tidak bisa dipakai, sebaiknya menghubungi admin/unmul store untuk penyelesaian. Jika ada pertanyaan lain tentang proses pemesanan, pembayaran, atau produk, silakan beri tahu!",0.3333333333333333,0.4484380399024881,0.9999999999,1.0,0.25,0.7181519219627263
+Q249,in_scope,produk,Gimana sih cara tukar barangnya?,"Berikut cara menukar barang di Unmul Store:
+
+1. **Hubungi admin / CS**  
+   – Kirimkan pesan melalui WhatsApp atau chat di aplikasi Unmul Store.  
+   – Sertakan foto barang yang ingin ditukar (misalnya ukuran atau warna yang salah) serta alasan penukaran.
+
+2. **Cek ketersediaan barang pengganti**  
+   – Admin akan memeriksa apakah produk dengan spesifikasi yang Anda inginkan masih tersedia.  
+
+3. **Konfirmasi prosedur penukaran**  
+   – Jika barang pengganti tersedia, admin akan memberi tahu Anda mengenai:  
+   • Syarat (misalnya barang harus dalam kondisi baru, belum terpakai).  
+   • Apakah ada biaya tambahan atau selisih harga.  
+
+4. **Serahkan barang lama**  
+   – Bawalah barang yang akan ditukar ke **toko Unmul Store** (lokasi kampus).  
+   – Admin akan memeriksa kondisi barang, lalu mengonfirmasi penukaran di sistem.  
+
+5. **Terima barang baru**  
+   – Setelah pengecekan selesai, admin akan menyerahkan barang pengganti dan status pesanan Anda akan berubah menjadi **“Dikembalikan” → “Selesai”**.  
+
+**Catatan penting**  
+- Penukaran mengikuti kebijakan toko, jadi tidak semua barang atau ukuran dapat ditukar.  
+- Pastikan barang yang ingin ditukar masih dalam kondisi baik dan belum dipakai.  
+- Jika ada selisih harga, Anda harus melunasinya (atau proses pengembalian dana jika barang yang baru lebih murah).  
+
+Jika masih ada yang belum jelas, silakan chat admin kembali untuk detail spesifik mengenai produk yang ingin Anda tukar.",0.1851851851851851,0.4869726569016352,0.49999999995,1.0,0.0,0.5668420170317774
+Q253,in_scope,teknis,"Nemu masalah di aplikasi, harus ngapain ya?","Hai! Jika aplikasi Unmul Store mengalami masalah, coba ikuti langkah berikut:
+
+1. **Tutup dan buka kembali aplikasi** – kadang aplikasi macet karena sekedar perlu refresh.  
+2. **Periksa koneksi internet** – pastikan jaringan stabil atau coba ganti ke Wi‑Fi/seluler lain.  
+3. **Pastikan aplikasi sudah versi terbaru** – update lewat Google Play Store atau App Store.  
+4. **Cek ruang penyimpanan** – jika penyimpanan hampir penuh, bersihkan beberapa file atau cache.  
+
+Jika setelah melakukan langkah‑langkah di atas masalah masih berlanjut, **laporkan bug** kepada tim admin/Customer Service dengan menyertakan langkah‑langkah yang menyebabkan masalah. Kamu dapat menghubungi admin melalui:
+
+- **Nomor telepon:** 0815‑2265‑0048  
+- **Datang langsung** ke toko Unmul Store di kampus.
+
+Semoga membantu! Jika ada pertanyaan lain, silakan beri tahu saya.",0.6470588235294118,0.5745702273613316,0.9999999999666668,1.0,0.13,0.3404196501847226
+Q257,in_scope,pembayaran,Bayar di tokonya nggak berhasil?,"Berikut penjelasan mengenai masalah pembayaran di Unmul Store:
+
+**Metode pembayaran yang tersedia**  
+- Saat ini Unmul Store hanya menyediakan **“Bayar di Toko”**. Artinya, Anda membayar pesanan secara langsung di lokasi toko ketika barang sudah siap diambil.  
+- Tidak ada opsi pembayaran di muka, transfer bank, atau COD (pengantaran).
+
+**Kenapa pembayaran mungkin tidak berhasil**  
+- Karena pembayaran dilakukan di toko, proses “pembayaran tidak berhasil” biasanya berarti **pesanan belum selesai atau belum dapat diambil** (misalnya barang belum siap atau ada masalah pada status pesanan).  
+- Pastikan Anda datang ke toko pada jam operasional (Senin‑Jumat, 09.00‑15.00 WITA) dengan membawa **bukti pemesanan** (nomor order atau screenshot).  
+
+**Langkah yang dapat Anda lakukan**  
+1. **Cek status pesanan** di aplikasi/website Unmul Store untuk memastikan statusnya sudah “Siap Diambil”.  
+2. **Datang ke toko** pada jam buka dan tunjukkan bukti pemesanan.  
+3. **Jika masih ada kendala**, hubungi admin/kontak CS di **0815‑2265‑0048** atau datang langsung ke lokasi Unmul Store (Jl. Kuaro, Kampus Universitas Mulawarman).  
+
+Jika Anda sudah berada di toko namun tetap mengalami masalah pembayaran, staf toko akan membantu menyelesaikannya. Semoga membantu! 🙏",0.4444444444444444,0.6167039972712586,0.5833333333041666,0.0,0.0,0.2963991382149334
+Q198,in_scope,teknis,Aplikasinya harus ada internet nggak ya?,"Aplikasi Unmul Store memang memerlukan koneksi internet untuk kebanyakan fitur, karena data produk, pemesanan, dan pembayaran disimpan di server. Jadi, agar dapat melihat barang, melakukan pemesanan, atau melakukan pembayaran, perangkat Anda harus terhubung ke internet. Jika koneksi tidak tersedia, aplikasi tidak akan dapat memuat halaman atau menampilkan data. 
+
+Jika Anda mengalami masalah saat menggunakan aplikasi tanpa internet, pastikan jaringan Anda stabil atau coba kembali ketika ada koneksi yang baik. Semoga membantu!",0.3333333333333333,0.6449608188019554,0.99999999995,1.0,0.17,0.6823433097240017
+Q211,in_scope,keamanan,Bakal gimana kalau akunnya di-hack?,"Berikut ini langkah‑langkah yang dapat Anda lakukan jika akun Unmul Store Anda dicurigai telah diretas:
+
+| No | Langkah | Penjelasan |
+|----|---------|------------|
+| 1 | **Ubah password segera** | Masuk ke menu **Profil > Edit Profil** dan pilih **Ubah Password**. Buat password baru dengan minimal 6 karakter dan kombinasi yang kuat. |
+| 2 | **Laporkan ke admin** | Hubungi admin Unmul Store melalui WhatsApp **0815‑2265‑0048** untuk meminta bantuan reset password dan verifikasi keamanan akun. |
+| 3 | **Periksa riwayat aktivitas** | Cek **Riwayat Pesanan** dan **Status Pesanan** di aplikasi untuk memastikan tidak ada transaksi yang Anda tidak lakukan. |
+| 4 | **Nonaktifkan akun bila perlu** | Jika Anda merasa akun tidak dapat dipulihkan, dapatkan bantuan admin untuk menonaktifkan akun melalui **Profil > Hapus Akun** (pastikan tidak ada pesanan aktif). |
+| 5 | **Amankan email** | Pastikan email yang terdaftar di akun juga aman; ubah password email jika diperlukan. |
+| 6 | **Gunakan password unik** | Selalu gunakan password yang berbeda untuk tiap layanan dan jangan membagikannya kepada orang lain. |
+
+Jika Anda memerlukan bantuan lebih lanjut, silakan menghubungi admin Unmul Store di nomor **0815‑2265‑0048**. Kami siap membantu memastikan akun Anda kembali aman.",0.7294070512820513,0.6122302200931934,0.0,0.0,0.0,0.27133656835775677
+Q214,in_scope,akun,"Kalau akunnya udah terdaftar tapi nggak bisa masuk, gimana?","Jika akun Anda sudah terdaftar tetapi tidak bisa masuk, coba lakukan langkah‑langkah berikut:
+
+1. **Periksa kembali email & password**  
+   - Pastikan Anda memasukkan email yang sudah didaftarkan dan password dengan tepat (case‑sensitive).  
+   - Perhatikan tidak ada spasi ekstra di awal atau akhir kolom.
+
+2. **Gunakan fitur “Lupa Password”**  
+   - Pada layar login, pilih **Lupa Password**.  
+   - Ikuti alur pemulihan yang akan mengirimkan tautan atau kode ke email Anda untuk membuat password baru.
+
+3. **Hubungi admin bila masih terkendala**  
+   - Jika setelah reset password masih tidak bisa masuk, silakan menghubungi tim admin Unmul Store di nomor **0815‑2265‑0048** untuk bantuan lebih lanjut (misalnya verifikasi akun atau reset manual).
+
+Pastikan juga aplikasi UnmulStore Anda sudah versi terbaru atau coba masuk lewat browser web jika menggunakan perangkat Android. Jika ada pesan error spesifik (misalnya “akun tidak aktif” atau “email belum terverifikasi”), beri tahu kami agar kami dapat membantu lebih detail. Selamat mencoba!",0.4893038040864128,0.5075215737257096,0.499999999975,0.0,0.12,0.6404314563205797
+Q217,in_scope,keranjang,"Kalo pas bayar, bermasalah nggak?","Berikut penjelasan mengenai pembayaran di Unmul Store:
+
+- **Metode pembayaran yang tersedia**: Hanya ada satu metode, yaitu **“Bayar di Toko”**. Artinya Anda membayar pesanan secara langsung di lokasi Unmul Store saat barang sudah siap diambil.  
+- **Apakah harus membayar di muka?** Tidak. Pembayaran tidak diwajibkan di awal; Anda cukup membayarnya ketika mengambil barang di toko.  
+- **Kemungkinan masalah saat pembayaran**: Karena pembayaran dilakukan secara tunai (atau transfer bila ada) di tempat, biasanya tidak ada kendala teknis seperti gagal transaksi online. Jika ada kendala — misalnya barang belum siap tapi sudah ingin membayar, atau ada pertanyaan tentang jumlah yang harus dibayar — silakan hubungi tim admin toko (kontak biasanya tertera di aplikasi atau di lokasi toko).
+
+Jadi, selama Anda datang ke Unmul Store pada jam operasional (Senin‑Jumat 09.00‑15.00 WITA) dan membayar saat barang sudah siap, proses pembayaran berjalan lancar. Jika ada masalah, tim toko siap membantu.",0.42857142857142855,0.24669926279813192,0.0,0.0,0.0,0.29784046452434065
+Q223,in_scope,akun,kenapa avatar nggak ke-upload ya?,"Berikut ini penyebab umum mengapa avatar (foto profil) tidak dapat di‑upload di Unmul Store serta cara mengatasinya:
+
+**1. Koneksi internet tidak stabil**  
+Jika sinyal lemah atau jaringan terputus saat proses upload, gambar tidak akan terkirim.  
+**Solusi:** Pastikan Anda terhubung ke jaringan Wi‑Fi atau data seluler yang stabil, lalu coba upload kembali.
+
+**2. Format atau tipe file tidak didukung**  
+Unmul Store hanya menerima gambar ber‑format **JPEG/JPG** atau **PNG**. File dengan ekstensi lain (mis. GIF, BMP, WEBP) tidak akan ter‑upload.  
+**Solusi:** Konversi gambar ke salah satu format di atas (bisa pakai aplikasi pengedit foto atau layanan online).
+
+**3. Ukuran gambar terlalu besar**  
+File gambar yang sangat besar (misalnya > 5 MB) dapat menyebabkan proses upload gagal atau memakan waktu lama.  
+**Solusi:** Reduksi ukuran gambar dengan menurunkan resolusi atau meng‑compress‑nya. Sebaiknya gunakan gambar dengan lebar maksimal 800 px dan ukuran file di bawah 2 MB.
+
+**4. Nama file mengandung karakter khusus**  
+Karakter seperti spasi berlebih, tanda kutip, atau simbol non‑ASCII terkadang membuat server menolak file.  
+**Solusi:** Ganti nama file menjadi hanya huruf, angka, tanda hubung (-) atau garis bawah (_), misalnya `avatar_kamu.jpg`.
+
+**5. Cache atau bug sementara pada aplikasi**  
+Kadang aplikasi atau web browser menyimpan data lama yang mengganggu proses upload.  
+**Solusi:**  
+- Refresh halaman atau tutup‑buka kembali aplikasi.  
+- Jika memakai aplikasi mobile, bersihkan cache (Settings → Apps → Unmul Store → Clear cache).  
+- Coba gunakan browser atau perangkat lain untuk memastikan bukan masalah perangkat.
+
+**Langkah praktis untuk meng‑upload kembali avatar:**
+
+1. Masuk ke **Menu > Profil > Edit Profil**.  
+2. Pilih **Ubah Foto Profil** → **Pilih Gambar**.  
+3. Pastikan gambar memenuhi kriteria di atas (format JPEG/PNG, ukuran wajar).  
+4. Tekan **Simpan** dan tunggu hingga muncul notifikasi “Berhasil mengubah foto profil”.
+
+Jika semua langkah di atas sudah dicoba namun avatar masih tidak ter‑upload, silakan **hubungi admin Unmul Store** (WhatsApp +62 815 2265 0048) dengan menyertakan screenshot error serta informasi perangkat yang Anda gunakan. Administrator akan memeriksa log server dan membantu menyelesaikan masalah.
+
+Semoga membantu! Jika ada pertanyaan lain, silakan beri tahu saya. 🙏",0.5303409302050606,0.7182539731532543,0.9999999999,1.0,0.0,0.36383278429842136
+Q243,in_scope,produk,Almamaternya bisa dibeli reguler nggak?,"Ya, almamater dapat dibeli seperti produk biasa — asalkan memang sudah tersedia di katalog Unmul Store.  
+
+Jika almamater **tersedia sebagai produk**, Anda cukup:
+
+1. Buka halaman **Produk** di Unmul Store.  
+2. Cari item “Almamater” (biasanya ada pilihan ukuran, warna, dan harga).  
+3. Pilih ukuran yang diinginkan, masukkan jumlah, dan tambahkan ke keranjang belanja.  
+4. Lanjutkan ke proses checkout seperti pembelian produk lainnya (pilih metode pembayaran, alamat pengiriman, dll).
+
+Untuk **mahasiswa baru** ada alur khusus “klaim almamater” yang gratis dan tidak melibatkan pembayaran. Jadi, kalau Anda ingin **membeli secara reguler** (misalnya sebagai alumni atau bukan lewat klaim), cukup ikuti langkah di atas seperti produk lain.
+
+Jika tidak menemukan almamater di katalog, berarti saat ini belum dipasang sebagai produk reguler dan hanya bisa didapatkan lewat proses klaim. Silakan cek halaman produk secara berkala atau hubungi admin Unmul Store untuk konfirmasi ketersediaan.",0.3513037179445047,0.6939559180518052,0.3333333333,1.0,0.17,0.7361870105156889
+Q245,in_scope,produk,Gimana bedanya kalau pilih beli sama sewa?,"Berikut perbedaan utama antara **mode beli** dan **mode sewa** di Unmul Store:
+
+| Aspek | Beli | Sewa |
+|-------|------|------|
+| **Kepemilikan barang** | Barang menjadi milik Anda secara permanen setelah pembayaran. | Barang hanya dipakai untuk jangka waktu tertentu, kemudian harus dikembalikan. |
+| **Stok yang dipakai** | Mengurangi stok **beli** pada katalog. | Menggunakan stok **sewa** (jika produk tersedia untuk disewa). |
+| **Biaya** | Membayar satu kali harga beli penuh. | Membayar **harga sewa per periode** (biasanya lebih murah per waktu) **+ deposit/jaminan**. Deposit akan dikembalikan setelah barang dikembalikan dalam kondisi baik. |
+| **Pengembalian barang** | Tidak ada pengembalian; barang tetap milik Anda. | Harus mengembalikan barang sebelum atau pada tanggal akhir sewa. |
+| **Ketersediaan** | Semua produk yang ditandai “bisa dibeli” dapat dipilih. | Hanya produk yang mendukung penyewaan yang menampilkan opsi “Sewa”. |
+| **Penggunaan jangka panjang** | Cocok bila Anda ingin memiliki barang secara permanen. | Cocok bila hanya membutuhkan barang untuk sementara (mis‑mis: perlengkapan acara, peralatan lab, dll.). |
+
+**Ringkasnya:**  
+- **Beli** = kepemilikan permanen, bayar harga penuh, tidak ada deposit.  
+- **Sewa** = penggunaan sementara, bayar tarif sewa yang biasanya lebih rendah per periode, plus deposit yang akan dikembalikan setelah barang dikembalikan.
+
+Semoga membantu! Jika ada produk spesifik yang ingin Anda beli atau sewa, beri tahu saya supaya saya dapat menampilkan detailnya.",0.3513037179445047,0.5925957772970937,0.99999999995,1.0,0.48,0.5927376282111213
+Q247,in_scope,produk,Emang UnmulStore lagi ada promo nggak?,"Berikut informasi yang saya temukan terkait promo di Unmul Store:
+
+- **Promo atau diskon** akan ditampilkan pada **detail masing‑masing produk** serta pada **banner di beranda** bila sedang tersedia.  
+- Jika tidak ada info promo pada produk atau tidak ada banner promo di beranda, maka saat itu **tidak ada promo yang sedang berlangsung**.
+
+Jadi, untuk mengecek apakah ada promo saat ini, silakan lihat banner di halaman utama atau lihat bagian “Diskon / Promo” pada produk yang Anda minati. Jika tidak ada penanda, berarti belum ada promo khusus. Jika ada pertanyaan lain seputar produk atau cara pemesanan, saya siap membantu!",0.4444444444444444,0.6856617082689795,0.99999999995,1.0,0.67,0.6995204126738885
+OOS2,out_of_scope,-,Bagaimana cara bayar UKT lewat UnmulStore?,"Berikut cara membayar UKT (Uang Kuliah Tunggal) melalui Unmul Store:
+
+1. **Masuk ke aplikasi UnmulStore**  
+   - Gunakan akun yang sudah terdaftar (biasanya email kampus atau NIM).  
+
+2. **Pilih menu “Pembayaran” atau “UKT”**  
+   - Di dalam aplikasi akan ada pilihan khusus untuk membayar UKT.  
+
+3. **Masukkan data yang diminta**  
+   - NIM, nama, dan besaran UKT yang akan dibayar.  
+
+4. **Pilih metode pembayaran**  
+   - Saat ini UnmulStore hanya menyediakan **“Bayar di Toko”**. Artinya Anda tidak perlu membayar di muka secara online.  
+   - Setelah pesanan Anda siap, Anda cukup datang ke lokasi UnmulStore (Jl. Kuaro, Gunung Kelua, Samarinda Ulu) pada jam operasional **Senin‑Jumat 09.00‑15.00 WITA** untuk melakukan pembayaran secara tunai di kasir.  
+
+5. **Konfirmasi pembayaran**  
+   - Setelah membayar, kasir akan memberi tanda terima atau kode transaksi yang akan otomatis memperbarui status pembayaran Anda di aplikasi.  
+
+6. **Cek status**  
+   - Di aplikasi Anda dapat melihat status “Sudah Dibayar” dan/atau “Lunas” pada bagian riwayat pembayaran.  
+
+**Catatan penting**  
+- Karena metode yang tersedia hanya “Bayar di Toko”, pastikan Anda datang ke toko pada jam operasional untuk menyelesaikan pembayaran.  
+- Jika ada pertanyaan lebih lanjut (misalnya tentang jumlah UKT atau bantuan administrasi), Anda dapat menghubungi bagian akademik atau admin UnmulStore melalui kontak yang tertera di aplikasi.  
+
+Semoga membantu, dan selamat menyelesaikan pembayaran UKT!",0.35511363636363635,0.7786821425974967,0.4166666666458333,0.0,0.0,0.27109044588783665

@@ -1,0 +1,829 @@
+"content"
+"Q1. Apa itu UnmulStore? ~ UnmulStore itu apa?
+Varian: Apa itu aplikasi UnmulStore? | Jelaskan tentang UnmulStore
+Jawaban: UnmulStore adalah aplikasi resmi toko dan layanan sewa di lingkungan Universitas Mulawarman (UNMUL). Melalui aplikasi ini mahasiswa dapat membeli merchandise kampus, memakai layanan toga dan almamater (peminjaman dan pemesanan), serta mengklaim almamater mahasiswa baru. Pesanan, pembayaran, dan status penyewaan dikelola langsung lewat aplikasi.
+Domain: umum | Tags: apa itu, aplikasi, toko, unmulstore, mulawarman"
+"Q2. Fitur apa saja yang tersedia di UnmulStore? ~ Apa saja fitur UnmulStore?
+Varian: Fitur aplikasi UnmulStore apa? | Menu apa saja yang ada di UnmulStore?
+Jawaban: Fitur utama UnmulStore adalah: beranda (katalog produk), keranjang, checkout, riwayat dan status pesanan, profil pengguna, klaim almamater mahasiswa baru, serta sewa toga.
+Domain: umum | Tags: fitur, aplikasi, menu, layanan, unmulstore"
+"Q3. Apakah UnmulStore hanya untuk mahasiswa UNMUL? ~ Apakah UnmulStore khusus mahasiswa mulawarman?
+Varian: Siapa yang boleh pakai UnmulStore? | Apakah orang luar kampus bisa berbelanja di UnmulStore?
+Jawaban: UnmulStore diperuntukkan bagi mahasiswa dan civitas Universitas Mulawarman, khususnya untuk keperluan akademik seperti almamater, toga, dan merchandise kampus.
+Domain: umum | Tags: mahasiswa, unmul, mulawarman, civitas, toko"
+"Q4. Bagaimana cara mengakses UnmulStore? ~ Gimana cara pakai UnmulStore?
+Varian: Di mana aplikasi UnmulStore bisa diakses? | Bagaimana cara membuka UnmulStore?
+Jawaban: UnmulStore dapat diakses melalui aplikasi yang diinstal pada perangkat Android atau melalui browser (versi Web), lalu masuk menggunakan akun email dan password.
+Domain: umum, teknis | Tags: akses, android, web, aplikasi, login, unmulstore"
+"Q5. Apakah ada layanan lain selain produk dan sewa di aplikasi? ~ Layanan apa saja yang belum ada di UnmulStore?
+Varian: Apakah ada layanan UKT, pesawat, pulsa di aplikasi? | Kenapa ada menu layanan yang belum tersedia?
+Jawaban: Selain produk dan sewa, aplikasi menampilkan menu layanan lain: Akademik (Almamater Maba, Toga, UKT), Merchandise, Fasilitas & Sewa (Lapangan, Lahan), Perjalanan (Pesawat, Hotel), dan Digital (Listrik, Pulsa). Saat ini yang sudah tersedia hanya Almamater Maba, Toga, dan Merchandise. Menu lainnya belum aktif dan menampilkan keterangan ""Layanan Belum Tersedia"".
+Domain: umum | Tags: layanan, ukt, pesawat, pulsa, listrik, belum tersedia"
+"Q6. Apa perbedaan membeli dan menyewa/meminjam di UnmulStore? ~ Bedanya beli sama sewa di UnmulStore apa?
+Varian: Apa beda pembelian dan penyewaan? | Beli atau sewa, bedanya apa? | Apa beda sewa dan pinjam?
+Jawaban: Membeli berarti barang menjadi milik Anda dan stok berkurang dari stok beli. Menyewa (sering juga disebut meminjam) berarti barang dipakai untuk jangka waktu tertentu lalu dikembalikan, dikenakan biaya sewa plus deposit/jaminan, dan menggunakan stok sewa.
+Domain: umum, sewa | Tags: beli, sewa, pinjam, meminjam, rental, perbedaan, deposit"
+"Q7. Apakah saya bisa berbelanja tanpa login? ~ Bisa checkout tanpa login?
+Varian: Apakah harus login dulu untuk belanja? | Bisa lihat produk tanpa masuk akun?
+Jawaban: Tidak. Untuk melakukan pemesanan dan checkout, Anda harus masuk (login) terlebih dahulu. Namun halaman produk dan katalog tetap dapat dilihat sebelum login.
+Domain: umum, akun | Tags: login, tanpa login, checkout, belanja, katalog"
+"Q9. Apakah UnmulStore menyediakan aplikasi web? ~ Ada versi web UnmulStore?
+Varian: Bisa pakai UnmulStore di browser? | Apakah UnmulStore bisa diakses lewat web?
+Jawaban: Ya, UnmulStore mendukung platform web (browser) selain Android.
+Domain: umum, teknis | Tags: web, browser, android, platform, akses"
+"Q10. Bagaimana cara menghubungi admin UnmulStore jika ada masalah? ~ Gimana cara hubungi CS UnmulStore?
+Varian: Bagaimana cara lapor masalah ke admin? | Di mana bisa tanya-tanya soal UnmulStore?
+Jawaban: Saat ini bantuan dilakukan melalui admin yang mengelola pesanan Anda, atau melalui kontak admin di nomor 081522650048. Fitur chat otomatis (chatbot) sedang dikembangkan untuk membantu menjawab pertanyaan seputar produk, sewa, dan status pesanan.
+Domain: umum, teknis | Tags: hubungi, cs, admin, bantuan, kontak, chatbot"
+"Q11. Bagaimana cara mendaftar akun di UnmulStore? ~ Gimana cara daftar akun UnmulStore?
+Varian: Langkah-langkah registrasi di UnmulStore? | Cara buat akun baru di UnmulStore?
+Jawaban: Buka halaman registrasi, lalu isi nama lengkap, email yang valid, dan password minimal 6 karakter, kemudian tekan tombol daftar.
+Domain: akun, umum | Tags: daftar, registrasi, akun, email, nama"
+"Q12. Apa syarat password saat registrasi? ~ Password harus berapa karakter?
+Varian: Syarat kata sandi di UnmulStore? | Berapa panjang minimal password?
+Jawaban: Password minimal 6 karakter. Gunakan kombinasi yang cukup kuat dan jangan dibagikan ke siapa pun.
+Domain: akun, keamanan | Tags: password, kata sandi, 6 karakter, syarat, keamanan"
+"Q13. Apakah email harus valid saat mendaftar? ~ Boleh pakai email asal-asalan?
+Varian: Apakah email harus benar saat daftar? | Email seperti apa yang bisa dipakai daftar?
+Jawaban: Ya. Email harus berformat valid karena digunakan untuk masuk dan verifikasi akun.
+Domain: akun | Tags: email, valid, daftar, verifikasi, akun"
+"Q14. Bagaimana cara masuk ke aplikasi? ~ Gimana cara login UnmulStore?
+Varian: Bagaimana cara masuk akun yang sudah daftar? | Langkah login di UnmulStore?
+Jawaban: Pilih menu masuk/login, isi email dan password yang sudah didaftarkan, lalu tekan tombol masuk.
+Domain: akun | Tags: login, masuk, email, password, akun"
+"Q15. Saya lupa password, bagaimana caranya? ~ Lupa kata sandi, gimana?
+Varian: Password lupa, cara reset? | Bagaimana memulihkan akun yang lupa password?
+Jawaban: Saat ini proses pemulihan password dilakukan melalui alur pengaturan akun. Hubungi admin UnmulStore di nomor 081522650048 untuk bantuan reset password.
+Domain: akun, keamanan | Tags: lupa, password, reset, kata sandi, akun"
+"Q16. Apakah saya bisa mengganti nama atau data profil? ~ Bisa edit profil tidak?
+Varian: Bagaimana cara ubah data profil? | Bisa ganti foto profil?
+Jawaban: Ya. Melalui menu Profil > Edit Profil Anda dapat memperbarui nama lengkap, nomor telepon, alamat (kota dan jalan), serta foto profil.
+Domain: akun | Tags: profil, edit, nama, alamat, telepon"
+"Q17. Bagaimana cara menghapus akun? ~ Gimana cara hapus akun UnmulStore?
+Varian: Bisa hapus akun dari aplikasi? | Cara menonaktifkan akun?
+Jawaban: Melalui menu Profil > Hapus Akun. Pastikan tidak ada pesanan aktif sebelum menghapus akun, karena data terkait dapat terpengaruh.
+Domain: akun | Tags: hapus akun, delete, profil, data"
+"Q20. Apakah aplikasi menyimpan password saya? ~ Apakah password saya aman di aplikasi?
+Varian: Apakah password disimpan dengan aman? | Bagaimana keamanan password di UnmulStore?
+Jawaban: Password tidak pernah ditampilkan atau disimpan secara terang-terangan di aplikasi. Autentikasi ditangani secara aman melalui layanan otentikasi, dan aplikasi tidak boleh mencetak/menampilkan data sensitif seperti password.
+Domain: keamanan, akun | Tags: password, aman, keamanan, autentikasi, privasi"
+"Q21. Produk apa saja yang dijual di UnmulStore? ~ Apa saja barang yang dijual UnmulStore?
+Varian: Merchandise apa yang tersedia? | Produk apa yang ada di katalog UnmulStore?
+Jawaban: UnmulStore menjual merchandise kampus seperti kaos, kemeja putih, work shirt, gantungan kunci, mug, tumblr, jaket, totebag, sticker pack, boneka Opan, dan selempang cumlaude, serta produk akademik seperti almamater dan toga.
+Domain: produk | Tags: produk, merchandise, kaos, kemeja, work shirt, totebag, mug, tumblr, jaket, sticker, boneka opan, selempang cumlaude, toga, almamater"
+"Q22. Apakah semua produk bisa disewa? ~ Semua barang bisa disewa?
+Varian: Produk apa saja yang bisa disewa? | Apakah setiap produk punya opsi sewa?
+Jawaban: Tidak. Hanya toga yang dapat disewa. Almamater tidak dapat disewa. Produk lain hanya dapat dibeli.
+Domain: produk, sewa | Tags: sewa, rental, toga"
+"Q23. Bagaimana saya tahu suatu produk bisa disewa? ~ Dari mana tahu produk bisa disewa?
+Varian: Bagaimana cara melihat opsi sewa pada produk? | Bagaimana menandai produk yang bisa dirental?
+Jawaban: Pada halaman detail produk terdapat pilihan mode sewa jika produk mendukung penyewaan. Jika produk tidak bisa disewa, hanya opsi beli yang tersedia.
+Domain: produk, sewa | Tags: sewa, rental, detail produk, mode sewa"
+"Q24. Apakah harga sewa sama dengan harga beli? ~ Bedanya harga sewa dan harga beli?
+Varian: Apakah harga rental lebih murah? | Harga sewa berapa?
+Jawaban: Tidak. Harga sewa (rental_price) berbeda dan biasanya lebih murah daripada harga beli. Harga sewa ditampilkan saat Anda memilih mode sewa.
+Domain: produk, sewa | Tags: harga, harga sewa, rental, harga beli, murah"
+"Q25. Apakah ada variasi ukuran dan warna pada produk? ~ Produk punya ukuran dan warna?
+Varian: Apakah bisa pilih ukuran produk? | Variasi apa saja yang tersedia?
+Jawaban: Ya. Beberapa produk memiliki variasi warna, ukuran (S, M, L, XL), dan jenjang. Anda harus memilih variasi yang tersedia sebelum menambahkan ke keranjang.
+Domain: produk | Tags: ukuran, warna, variasi, s, m, l, xl"
+"Q26. Apa itu jenjang pada produk? ~ Apa maksud jenjang di produk?
+Varian: Jenjang itu apa? | Apa itu klasifikasi jenjang produk?
+Jawaban: Jenjang adalah klasifikasi produk berdasarkan tingkat pendidikan/pengguna, misalnya untuk mahasiswa baru (Maba). Setiap jenjang dapat memiliki harga, deposit, dan stok tersendiri.
+Domain: produk | Tags: jenjang, maba, klasifikasi, harga, stok"
+"Q27. Berapa jumlah maksimal produk yang bisa saya beli sekaligus? ~ Maksimal beli berapa banyak?
+Varian: Batas pembelian per produk berapa? | Apakah ada batas jumlah pesanan?
+Jawaban: Jumlah maksimal per produk (max_qty) umumnya 5, kecuali produk menentukan batas lain.
+Domain: produk, keranjang, stok | Tags: max_qty, batas, jumlah, maksimal, 5"
+"Q28. Bagaimana saya melihat detail dan spesifikasi produk? ~ Cara lihat spesifikasi produk?
+Varian: Dimana melihat deskripsi produk? | Bagaimana membuka detail produk?
+Jawaban: Klik produk pada beranda untuk membuka halaman detail yang menampilkan deskripsi, spesifikasi, panduan ukuran (size guide), harga, stok, dan opsi variasi.
+Domain: produk | Tags: detail produk, spesifikasi, deskripsi, size guide"
+"Q29. Apakah produk yang stoknya habis tetap bisa dilihat? ~ Bisa lihat produk habis stok?
+Varian: Apakah produk kosong tetap muncul? | Mengapa produk abu-abu di katalog?
+Jawaban: Bisa dilihat, tetapi produk akan tampak abu-abu (out of stock) dan tidak dapat dipesan. Untuk produk sewa, produk tetap dianggap habis hanya jika stok sewa juga habis.
+Domain: produk, stok | Tags: stok, habis, out of stock, abu-abu, sewa"
+"Q30. Bagaimana cara mencari produk tertentu? ~ Gimana cara cari barang di UnmulStore?
+Varian: Apakah ada fitur pencarian produk? | Bagaimana mencari kaos di aplikasi?
+Jawaban: Gunakan halaman beranda untuk menjelajah katalog. Pencarian berdasarkan nama produk dapat dilakukan dari katalog yang tersedia.
+Domain: produk | Tags: cari, pencarian, katalog, beranda"
+"Q31. Apakah foto produk bisa dilihat lebih dari satu? ~ Bisa lihat banyak foto produk?
+Varian: Apakah ada beberapa gambar produk? | Foto produk ada berapa?
+Jawaban: Ya, beberapa produk memiliki beberapa gambar (image_paths), termasuk gambar per jenjang.
+Domain: produk | Tags: foto, gambar, image, jenjang"
+"Q32. Apa arti rating pada produk? ~ Apa itu bintang di produk?
+Varian: Bagaimana rating produk dihitung? | Apa maksud rating 4.8 pada produk?
+Jawaban: Rating adalah penilaian kualitas produk dari pengguna, ditampilkan dalam skala bintang (misalnya 4.8).
+Domain: produk | Tags: rating, bintang, penilaian, kualitas"
+"Q33. Apakah produk dapat diurutkan/ditampilkan khusus? ~ Apakah produk bisa diurutkan di beranda?
+Varian: Bagaimana admin mengatur urutan produk? | Apakah ada produk unggulan?
+Jawaban: Ya, produk unggulan ditampilkan lebih dulu di beranda.
+Domain: produk, admin | Tags: urutan, unggulan, beranda"
+"Q34. Apakah ada panduan ukuran produk? ~ Ada size guide tidak?
+Varian: Bagaimana cara cek ukuran yang pas? | Apakah tersedia panduan ukuran?
+Jawaban: Ya. Produk yang memiliki panduan ukuran akan menampilkan size guide di halaman detail produk.
+Domain: produk | Tags: size guide, panduan ukuran, ukuran"
+"Q35. Apakah kategori produk tersedia? ~ Apakah produk dikelompokkan per kategori?
+Varian: Apa saja kategori produk? | Bagaimana cara lihat produk per kategori?
+Jawaban: Ya, produk dapat dikelompokkan dalam kategori (misalnya merchandise, akademik) untuk memudahkan penelusuran.
+Domain: produk | Tags: kategori, merchandise, akademik, kelompok"
+"Q36. Apa itu stok beli dan stok sewa? ~ Apa beda stok beli dan stok sewa?
+Varian: Stok ada dua macam? | Apa itu stock dan rental_stock?
+Jawaban: Setiap produk memiliki dua jenis stok: stok beli (stock) untuk penjualan, dan stok sewa (rental_stock) untuk penyewaan. Keduanya dihitung terpisah.
+Domain: stok, sewa | Tags: stok, stock, rental_stock, stok sewa, stok beli"
+"Q37. Kapan stok produk berkurang? ~ Kapan stok berkurang?
+Varian: Apakah stok berkurang saat admin approve? | Kapan stok dipotong?
+Jawaban: Stok berkurang otomatis saat pesanan berhasil dibuat (checkout), bukan saat admin menyetujui. Ini mencegah barang terjual ganda.
+Domain: stok, pesanan | Tags: stok, berkurang, checkout, pesanan, approve"
+"Q38. Apakah stok bisa berkurang lebih dari yang tersedia? ~ Bisa stok minus?
+Varian: Apakah ada proteksi stok? | Bisakah barang dijual melebihi stok?
+Jawaban: Tidak. Proses pengurangan stok dilindungi agar tidak melebihi stok yang ada (misal stok tidak cukup maka pesanan gagal dibuat).
+Domain: stok | Tags: stok, minus, overselling, proteksi, gagal"
+"Q39. Bagaimana jika stok tidak mencukupi saat checkout? ~ Apa yang terjadi kalau stok kurang?
+Varian: Stok habis saat checkout gimana? | Mengapa pesanan gagal karena stok?
+Jawaban: Pesanan tidak dapat dibuat dan stok yang sempat terpotong akan dikembalikan otomatis. Anda akan melihat pesan bahwa stok tidak cukup.
+Domain: stok, keranjang | Tags: stok, kurang, gagal, checkout, dikembalikan"
+"Q40. Apakah stok kembali lagi jika pesanan dibatalkan? ~ Stok kembali saat pesanan batal?
+Varian: Apakah barang batal dikembalikan ke stok? | Stok di-restore saat pembatalan?
+Jawaban: Ya. Jika pesanan dibatalkan, ditolak, atau kedaluwarsa, stok (beli atau sewa) akan dikembalikan sesuai jumlah yang dipesan.
+Domain: stok, pembatalan | Tags: stok, kembali, batal, dibatalkan, ditolak, kadaluarsa, kedaluwarsa, restore"
+"Q41. Apakah stok sewa kembali setelah penyewaan selesai? ~ Stok sewa dikembalikan saat sewa selesai?
+Varian: Apakah rental stock di-restore setelah selesai? | Kapan stok sewa kembali?
+Jawaban: Ya. Setelah sewa selesai/dikembalikan, stok sewa otomatis dikembalikan sehingga barang dapat disewakan lagi.
+Domain: stok, sewa | Tags: stok sewa, rental_stock, kembali, selesai, dikembalikan"
+"Q42. Apakah stok beli kembali setelah sewa selesai? ~ Stok beli di-restore setelah sewa?
+Varian: Apakah stok pembelian kembali saat sewa selesai?
+Jawaban: Tidak. Menyewa memakai stok sewa, bukan stok beli. Saat sewa selesai, yang kembali hanya stok sewa; stok beli tidak berubah.
+Domain: stok, sewa | Tags: stok beli, stock, kembali, sewa, selesai"
+"Q43. Bagaimana cara melihat jumlah stok produk? ~ Dimana bisa lihat stok?
+Varian: Bagaimana melihat sisa stok? | Stok produk terlihat di mana?
+Jawaban: Jumlah stok ditampilkan pada halaman detail produk dan saat memilih variasi ukuran/jenjang pada bottom sheet produk.
+Domain: stok, produk | Tags: stok, lihat stok, sisa, detail produk"
+"Q44. Apakah stok per ukuran ditampilkan? ~ Stok per ukuran terlihat?
+Varian: Apakah bisa lihat stok S, M, L? | Bagaimana stok per variasi?
+Jawaban: Ya. Jika produk memiliki variasi, stok yang ditampilkan adalah stok per kombinasi ukuran/jenjang yang Anda pilih.
+Domain: stok, produk | Tags: stok, ukuran, variasi, per ukuran, jenjang"
+"Q45. Kenapa produk masih bisa dilihat tapi berwarna abu-abu? ~ Mengapa produk abu-abu?
+Varian: Kenapa produk tidak bisa dipesan tapi terlihat? | Apa arti produk berwarna abu?
+Jawaban: Itu menandakan produk sedang habis stok untuk semua opsi yang relevan (beli dan sewa). Produk tetap tampil agar pengguna tahu produk tersebut ada.
+Domain: stok, produk | Tags: abu-abu, habis, stok, out of stock, tidak bisa dipesan"
+"Q46. Apakah stok berubah secara real-time? ~ Apakah stok realtime?
+Varian: Apakah stok langsung update saat ada pembelian? | Bagaimana stok diperbarui?
+Jawaban: Ya. Aplikasi menggunakan pembaruan real-time sehingga stok yang berubah (misal karena pembelian pengguna lain) dapat langsung diperbarui di beranda.
+Domain: stok | Tags: stok, realtime, update, real-time, beranda"
+"Q47. Apakah saya bisa membeli produk yang stok sewa habis? ~ Bisa beli kalau stok sewa habis?
+Varian: Apakah stok sewa habis menghalangi pembelian? | Stok beli ada tapi stok sewa habis, bisa beli?
+Jawaban: Bisa, selama stok beli masih tersedia. Begitu juga sebaliknya.
+Domain: stok | Tags: stok beli, stok sewa, habis, beli, sewa"
+"Q48. Apa yang terjadi jika stok berubah saat saya sudah memasukkan ke keranjang? ~ Stok berubah setelah masuk keranjang?
+Varian: Apakah keranjang saya aman dari kehabisan stok? | Bagaimana jika barang di keranjang sudah habis?
+Jawaban: Stok final akan divalidasi kembali saat checkout/pembuatan pesanan. Jika stok sudah habis, pembuatan pesanan akan ditolak.
+Domain: stok, keranjang | Tags: stok, keranjang, berubah, validasi, habis"
+"Q49. Bagaimana cara menambahkan produk ke keranjang? ~ Gimana cara masukin barang ke keranjang?
+Varian: Bagaimana menambahkan item ke cart? | Cara pesan produk lewat keranjang?
+Jawaban: Buka halaman detail produk, pilih variasi (ukuran/jenjang) dan mode (beli/sewa), tentukan jumlah, lalu tekan tombol tambah ke keranjang.
+Domain: keranjang | Tags: keranjang, cart, tambah, produk, variasi"
+"Q50. Apakah saya bisa mengubah jumlah produk di keranjang? ~ Bisa ubah jumlah barang di keranjang?
+Varian: Bagaimana cara menambah/mengurangi jumlah? | Apakah total harga ikut berubah jika jumlah diubah?
+Jawaban: Ya. Di halaman keranjang Anda dapat menambah atau mengurangi jumlah, dan total harga akan menyesuaikan.
+Domain: keranjang | Tags: keranjang, jumlah, ubah, total, harga"
+"Q51. Apa perbedaan checkout satu produk dan banyak produk? ~ Beda checkout satu item dan banyak item?
+Varian: Bisa checkout beberapa produk sekaligus? | Bagaimana checkout banyak produk?
+Jawaban: Anda dapat membeli langsung satu produk, atau mencentang beberapa produk di keranjang lalu checkout sekaligus dalam satu pesanan.
+Domain: keranjang | Tags: checkout, satu produk, banyak produk, keranjang"
+"Q52. Apakah harga sewa masuk ke keranjang? ~ Apakah keranjang memakai harga sewa?
+Varian: Harga apa yang dipakai jika mode sewa? | Bagaimana harga sewa di keranjang?
+Jawaban: Ya. Saat memilih mode sewa, harga yang dipakai adalah harga sewa produk. Deposit/jaminan tidak termasuk dalam harga produk di keranjang.
+Domain: keranjang, sewa | Tags: harga sewa, keranjang, deposit, rental"
+"Q53. Apa itu deposit dan kapan dibayarkan? ~ Deposit itu apa?
+Varian: Kapan deposit dibayar? | Apa itu uang jaminan?
+Jawaban: Deposit (biaya jaminan) adalah sejumlah uang yang dibayarkan bersamaan dengan pembayaran sewa, dan dikembalikan setelah barang dikembalikan dalam kondisi baik.
+Domain: deposit, sewa | Tags: deposit, jaminan, uang jaminan, dibayar, dikembalikan"
+"Q54. Mengapa total checkout sewa lebih besar dari harga sewa? ~ Kenapa total sewa lebih besar?
+Varian: Apakah deposit membuat total lebih besar? | Kenapa harga yang harus dibayar melebihi harga sewa?
+Jawaban: Karena total checkout sewa menambahkan deposit/jaminan di atas harga sewa. Deposit tidak dihitung sebagai biaya permanen.
+Domain: deposit, sewa, keranjang | Tags: deposit, total, checkout, harga sewa, biaya"
+"Q55. Apakah deposit ditambahkan saat checkout sewa? ~ Deposit ditambahkan otomatis saat sewa?
+Varian: Apakah deposit otomatis masuk total pembayaran? | Kapan deposit ditambahkan ke total?
+Jawaban: Ya. Saat checkout pesanan sewa, deposit otomatis ditambahkan ke total pembayaran.
+Domain: deposit, keranjang | Tags: deposit, checkout, otomatis, total"
+"Q56. Bisakah saya mengubah isi keranjang setelah checkout? ~ Bisa ubah isi pesanan setelah checkout?
+Varian: Apakah saya bisa edit item setelah pesanan dibuat? | Bisa tambah barang setelah checkout?
+Jawaban: Tidak. Setelah checkout selesai, isi keranjang sudah dikunci dalam pesanan. Ubah jumlah sebelum menekan tombol bayar.
+Domain: keranjang, pesanan | Tags: checkout, ubah, isi pesanan, terkunci"
+"Q57. Apakah ada proteksi klik ganda saat checkout? ~ Apakah tombol bayar bisa dipencet dua kali?
+Varian: Bagaimana mencegah pesanan ganda? | Apakah ada pencegahan double submit?
+Jawaban: Ya. Tombol bayar dilindungi agar tidak memproses pesanan dua kali jika ditekan berulang (mencegah pesanan ganda).
+Domain: keranjang | Tags: klik ganda, double click, pesanan ganda, proteksi, bayar"
+"Q58. Apa itu batas pengembalian pada saat checkout sewa? ~ Apa itu batas pengembalian?
+Varian: Kenapa ada batas pengembalian di checkout? | Apa yang dimaksud batas pengembalian?
+Jawaban: Batas pengembalian adalah tanggal dan waktu maksimal barang sewa harus dikembalikan. Informasi ini ditampilkan saat checkout.
+Domain: deadline, sewa | Tags: batas pengembalian, deadline, checkout, sewa"
+"Q59. Apakah saya bisa checkout lebih dari batas stok? ~ Bisa pesan melebihi stok?
+Varian: Apakah jumlah checkout dibatasi stok? | Bisa beli barang lebih banyak dari stok?
+Jawaban: Tidak. Jumlah yang dipesan dibatasi oleh stok dan batas maksimal per produk.
+Domain: stok, keranjang | Tags: stok, batas, checkout, jumlah, max_qty"
+"Q60. Bagaimana jika saya menutup aplikasi saat checkout? ~ Apa terjadi jika tutup app saat checkout?
+Varian: Checkout terputus, gimana? | Apakah pesanan hilang jika aplikasi ditutup?
+Jawaban: Pesanan yang sudah dikonfirmasi akan tersimpan. Jika belum selesai, silakan ulangi proses checkout.
+Domain: keranjang, teknis | Tags: checkout, tutup aplikasi, gagal, tersimpan"
+"Q61. Metode pembayaran apa saja yang tersedia? ~ Apa saja metode bayar di UnmulStore?
+Varian: Cara bayar apa saja? | Metode pembayaran apa yang didukung?
+Jawaban: Saat ini metode pembayaran yang tersedia hanya Bayar di Toko, yaitu dibayar saat mengambil barang di toko. Belum ada pengantaran barang.
+Domain: pembayaran | Tags: pembayaran, metode, bayar di toko, cod, transfer"
+"Q62. Apa itu ""Bayar di Toko""? ~ Bayar di toko itu apa?
+Varian: Apa arti metode bayar di toko? | Bagaimana cara bayar di toko?
+Jawaban: Bayar di Toko berarti Anda membayar pesanan secara langsung di lokasi UnmulStore saat barang siap diambil.
+Domain: pembayaran, pengambilan_pengiriman | Tags: bayar di toko, pembayaran, ambil di toko, langsung"
+"Q64. Apakah saya harus membayar di muka? ~ Bisa bayar belakangan?
+Varian: Apakah wajib bayar dulu sebelum barang dikirim? | Kapan saya harus bayar?
+Jawaban: Tidak wajib. Pembayaran dilakukan di toko saat Anda mengambil barang.
+Domain: pembayaran | Tags: bayar, di muka, dp, pembayaran, belakangan"
+"Q65. Apakah pembayaran bisa dilakukan transfer? ~ Bisa bayar lewat transfer bank?
+Varian: Apakah ada metode transfer? | Bisa transfer dulu sebelum ambil barang?
+Jawaban: Saat ini metode yang tersedia hanya Bayar di Toko. Untuk transfer silakan konfirmasi ke admin di nomor 081522650048.
+Domain: pembayaran | Tags: transfer, bank, pembayaran, admin"
+"Q67. Bagaimana status pembayaran saya terlihat? ~ Dimana lihat status pembayaran?
+Varian: Bagaimana tahu saya sudah bayar? | Apakah status pembayaran bisa dicek?
+Jawaban: Status pembayaran dapat dilihat pada detail pesanan, termasuk metode yang dipilih dan status pesanan saat ini.
+Domain: pembayaran, pesanan | Tags: status pembayaran, detail pesanan, metode, cek"
+"Q68. Bagaimana cara melihat pesanan saya? ~ Gimana cara lihat pesanan?
+Varian: Dimana daftar pesanan saya? | Bagaimana cara cek order saya?
+Jawaban: Buka menu Pesanan pada navigasi bawah untuk melihat daftar pesanan, lalu klik salah satu untuk melihat detail dan statusnya.
+Domain: pesanan | Tags: pesanan, order, lihat pesanan, status, menu pesanan"
+"Q69. Apa saja status pesanan yang ada? ~ Apa daftar status pesanan?
+Varian: Status order apa saja yang tersedia? | Berapa banyak status pesanan?
+Jawaban: Status pesanan bergantung pada jenis pesanan. Pembelian (diambil di toko): Menunggu Verifikasi, Dikemas, Siap Diambil, lalu Selesai. Sewa: Menunggu Verifikasi, Siap Diambil, Dalam Masa Sewa, Dikembalikan, lalu Selesai; status Terlambat muncul bila melewati batas pengembalian. Status lain yang dapat muncul: Disetujui, Menunggu Pembatalan, Ditolak, Dibatalkan, dan Kedaluwarsa.
+Domain: pesanan | Tags: status, pesanan, menunggu verifikasi, dikemas, siap diambil, selesai"
+"Q70. Apa arti status ""Menunggu Verifikasi""? ~ Apa itu menunggu verifikasi?
+Varian: Kenapa pesanan saya menunggu verifikasi? | Berapa lama status menunggu verifikasi?
+Jawaban: Pesanan baru saja dibuat dan sedang menunggu admin memverifikasi serta memproses pesanan Anda.
+Domain: pesanan | Tags: menunggu verifikasi, verifikasi, admin, pesanan"
+"Q71. Apa arti status ""Dikemas""? ~ Status dikemas itu apa?
+Varian: Kenapa pesanan saya dikemas? | Apa yang terjadi saat dikemas?
+Jawaban: Admin sedang menyiapkan/mengemas barang pesanan Anda sebelum siap diambil.
+Domain: pesanan | Tags: dikemas, kemas, admin, proses"
+"Q72. Apa arti status ""Siap Diambil""? ~ Status siap diambil apa artinya?
+Varian: Barang saya sudah bisa diambil? | Apa itu siap diambil?
+Jawaban: Barang sudah siap dan dapat diambil langsung di toko UnmulStore. Pastikan mengambil sebelum batas waktu.
+Domain: pesanan, pengambilan_pengiriman | Tags: siap diambil, pickup, ambil, toko"
+"Q75. Apa arti status ""Selesai""? ~ Status selesai itu apa?
+Varian: Kapan pesanan dinyatakan selesai? | Apa arti pesanan selesai?
+Jawaban: Pesanan telah selesai. Untuk pembelian, barang sudah menjadi milik Anda. Untuk sewa, barang sudah dikembalikan dan sewa dinyatakan selesai.
+Domain: pesanan | Tags: selesai, selesai pesanan, milik, dikembalikan"
+"Q76. Apa arti status ""Ditolak""? ~ Kenapa pesanan saya ditolak?
+Varian: Apa itu status ditolak? | Mengapa pesanan ditolak admin?
+Jawaban: Pesanan Anda ditolak oleh admin (misalnya data tidak valid). Anda akan melihat alasan penolakan pada detail pesanan.
+Domain: pesanan, pembatalan | Tags: ditolak, tolak, alasan, admin"
+"Q77. Apa arti status ""Dibatalkan""? ~ Status dibatalkan itu apa?
+Varian: Mengapa pesanan saya dibatalkan? | Apa yang terjadi jika pesanan dibatalkan?
+Jawaban: Pesanan telah dibatalkan, baik atas permintaan Anda maupun oleh admin. Stok akan dikembalikan.
+Domain: pesanan, pembatalan, stok | Tags: dibatalkan, batal, cancel, stok kembali"
+"Q78. Apa arti status ""Kedaluwarsa""? ~ Status kedaluwarsa itu apa?
+Varian: Kenapa pesanan saya kedaluwarsa? | Apa yang terjadi jika pesanan kedaluwarsa?
+Jawaban: Pesanan kedaluwarsa, umumnya karena barang tidak diambil dalam batas waktu yang ditentukan, sehingga stok dikembalikan dan pesanan tidak dilanjutkan.
+Domain: pesanan, pembatalan, stok | Tags: kadaluarsa, kedaluwarsa, expired, tidak diambil, stok"
+"Q79. Apa arti status ""Menunggu Pembatalan""? ~ Status menunggu pembatalan itu apa?
+Varian: Kenapa status saya menunggu pembatalan? | Apa itu menunggu pembatalan?
+Jawaban: Anda mengajukan pembatalan pesanan dan sedang menunggu persetujuan admin.
+Domain: pesanan, pembatalan | Tags: menunggu pembatalan, batal, request, admin"
+"Q80. Bagaimana alur status pembelian yang diambil di toko? ~ Apa alur pesanan ambil di toko?
+Varian: Bagaimana alur pembelian non-kirim? | Urutan status beli di toko?
+Jawaban: Alurnya: Menunggu Verifikasi → Dikemas → Siap Diambil → Selesai.
+Domain: pesanan, pengambilan_pengiriman | Tags: alur, status, ambil di toko, pembelian, urutan"
+"Q82. Bagaimana alur status penyewaan? ~ Apa alur status sewa?
+Varian: Urutan status rental? | Bagaimana alur penyewaan barang?
+Jawaban: Alurnya: Menunggu Verifikasi → Siap Diambil → Dalam Masa Sewa → Dikembalikan → Selesai.
+Domain: pesanan, sewa | Tags: alur, sewa, rental, dalam masa sewa, selesai"
+"Q83. Apa arti status ""Dalam Masa Sewa""? ~ Status dalam masa sewa itu apa?
+Varian: Apa itu masa sewa aktif? | Barang saya sedang dipakai, statusnya apa?
+Jawaban: Barang sewa sedang Anda gunakan sejak admin memulai masa sewa hingga batas pengembalian.
+Domain: sewa, pesanan | Tags: dalam masa sewa, masa sewa, rental, batas pengembalian"
+"Q84. Apa arti status ""Dikembalikan""? ~ Status dikembalikan itu apa?
+Varian: Apa yang terjadi setelah barang dikembalikan? | Kenapa status saya dikembalikan?
+Jawaban: Barang sewa sudah Anda kembalikan dan admin sedang memfinalisasi penyewaan.
+Domain: sewa, pesanan | Tags: dikembalikan, return, pengembalian, sewa"
+"Q85. Apa arti status ""Terlambat""? ~ Status terlambat itu apa?
+Varian: Kenapa status sewa saya terlambat? | Apa yang terjadi jika telat mengembalikan?
+Jawaban: Anda belum mengembalikan barang sewa hingga melewati batas pengembalian, sehingga dikenakan denda keterlambatan.
+Domain: denda, sewa, pesanan | Tags: terlambat, telat, denda, keterlambatan"
+"Q86. Apakah saya bisa melihat timeline alur pesanan? ~ Bisa lihat timeline pesanan?
+Varian: Apakah ada progress pesanan? | Bagaimana melihat perkembangan pesanan?
+Jawaban: Ya. Halaman status pesanan menampilkan timeline perjalanan pesanan Anda sesuai status terkini.
+Domain: pesanan | Tags: timeline, progress, status, alur"
+"Q87. Bagaimana cara melacak pesanan saya? ~ Gimana cara lacak pesanan?
+Varian: Apakah ada tombol lacak? | Bagaimana melihat resi dan pelacakan?
+Jawaban: Pada detail pesanan tersedia tombol Lacak yang menampilkan petunjuk pengambilan barang di toko. Saat ini belum ada pengiriman, sehingga tidak ada nomor resi.
+Domain: pesanan, pengambilan_pengiriman | Tags: lacak, tracking, pengambilan, bayar di toko"
+"Q88. Apakah ada notifikasi saat status pesanan berubah? ~ Ada notifikasi status pesanan?
+Varian: Apakah saya diberitahu saat pesanan berubah? | Bagaimana tahu status pesanan berubah?
+Jawaban: Status pesanan dapat dipantau dari menu Pesanan, dan informasi deadline ditampilkan langsung di halaman pesanan.
+Domain: pesanan | Tags: notifikasi, status, berubah, pesanan"
+"Q89. Apakah ID pesanan bisa dilihat? ~ Dimana lihat ID pesanan?
+Varian: Apakah ada nomor order? | Bagaimana cara lihat ID pesanan saya?
+Jawaban: Ya. ID pesanan ditampilkan pada detail dan riwayat pesanan dalam format yang mudah dikenali.
+Domain: pesanan | Tags: id pesanan, nomor order, order id"
+"Q90. Bagaimana jika saya tidak melihat pesanan di daftar? ~ Pesanan tidak muncul di daftar, kenapa?
+Varian: Mengapa pesanan saya hilang? | Bagaimana jika daftar pesanan kosong?
+Jawaban: Pastikan Anda masuk dengan akun yang sama saat memesan, lalu tarik untuk memuat ulang daftar pesanan.
+Domain: pesanan, teknis | Tags: pesanan hilang, tidak muncul, refresh, akun"
+"Q91. Di mana barang diambil? ~ Dimana tempat ambil barang?
+Varian: Barang diambil di mana? | Lokasi pengambilan barang?
+Jawaban: Barang dengan metode Bayar di Toko diambil langsung di lokasi UnmulStore.
+Domain: pengambilan_pengiriman | Tags: ambil, toko, lokasi, unmulstore"
+"Q92. Berapa lama barang harus diambil setelah siap? ~ Batas waktu ambil barang berapa lama?
+Varian: Berapa hari harus diambil? | Sampai kapan barang bisa diambil?
+Jawaban: Barang harus diambil dalam batas waktu yang ditentukan (3 hari sejak dinyatakan Siap Diambil). Jika tidak, pesanan bisa kedaluwarsa.
+Domain: pengambilan_pengiriman, deadline, stok | Tags: ambil, 3 hari, batas waktu, siap diambil, kadaluarsa, kedaluwarsa"
+"Q93. Apa yang terjadi jika saya tidak mengambil barang sampai batas waktu? ~ Jika tidak diambil sampai batas, apa yang terjadi?
+Varian: Barang tidak diambil, apakah hangus? | Apa konsekuensi tidak mengambil barang?
+Jawaban: Pesanan akan berubah status menjadi Kedaluwarsa, dan stok barang dikembalikan ke sistem. Pesanan tidak dapat dilanjutkan.
+Domain: pembatalan, stok, deadline | Tags: tidak diambil, kadaluarsa, kedaluwarsa, stok, dibatalkan"
+"Q94. Bagaimana saya tahu batas waktu pengambilan? ~ Dimana lihat batas waktu ambil?
+Varian: Apakah ada hitung mundur pengambilan? | Bagaimana tahu deadline pengambilan?
+Jawaban: Halaman pesanan menampilkan hitung mundur (countdown) batas pengambilan berdasarkan deadline yang ditetapkan.
+Domain: deadline, pengambilan_pengiriman | Tags: batas waktu, countdown, deadline, pengambilan"
+"Q98. Apakah pengambilan barang sewa dan beli sama? ~ Beda cara ambil barang sewa dan beli?
+Varian: Apakah pengambilan sewa sama seperti beli? | Dimana ambil barang sewa?
+Jawaban: Sama-sama dilakukan di toko jika memilih metode Bayar di Toko. Khusus sewa, setelah diambil masa sewa mulai berjalan.
+Domain: pengambilan_pengiriman, sewa | Tags: ambil, sewa, beli, masa sewa"
+"Q99. Apakah ada jadwal pengambilan khusus untuk klaim almamater? ~ Jadwal ambil almamater maba kapan?
+Varian: Apakah klaim almamater ada jadwal khusus? | Kapan almamater maba bisa diambil?
+Jawaban: Ya. Untuk klaim almamater mahasiswa baru, jadwal pengambilan mengikuti jadwal yang ditetapkan (umumnya minggu setelah verifikasi).
+Domain: klaim_almamater, pengambilan_pengiriman | Tags: almamater, maba, jadwal, klaim, pengambilan"
+"Q100. Bagaimana cara menyewa produk? ~ Gimana cara sewa barang?
+Varian: Langkah-langkah menyewa di UnmulStore? | Cara rental produk?
+Jawaban: Buka produk yang dapat disewa, pilih mode Sewa, tentukan variasi dan jumlah, lalu checkout dengan deposit yang otomatis ditambahkan.
+Domain: sewa | Tags: sewa, rental, checkout, deposit, mode sewa"
+"Q101. Produk apa saja yang bisa disewa? ~ Barang apa yang bisa dirental?
+Varian: Produk sewa apa saja? | Apa saja yang tersedia untuk disewa?
+Jawaban: Produk yang dapat disewa adalah toga. Almamater tidak dapat disewa.
+Domain: sewa, produk | Tags: sewa, rental, toga"
+"Q102. Apakah ada batas waktu penyewaan? ~ Apakah sewa ada batas waktu?
+Varian: Berapa lama maksimal sewa? | Apakah ada durasi sewa?
+Jawaban: Ya. Setiap produk sewa memiliki batas pengembalian (return deadline). Setelah itu barang harus dikembalikan atau dikenakan denda.
+Domain: sewa, deadline, denda | Tags: batas waktu, sewa, return deadline, denda"
+"Q103. Siapa yang menentukan batas pengembalian? ~ Siapa yang menetapkan batas pengembalian?
+Varian: Apakah admin menentukan deadline sewa? | Siapa yang atur batas pengembalian produk?
+Jawaban: Admin/superadmin menetapkan batas pengembalian (deadline) pada produk, dan sistem mencatatnya saat sewa dimulai.
+Domain: sewa, deadline, admin | Tags: batas pengembalian, admin, deadline, produk"
+"Q104. Kapan masa sewa mulai dihitung? ~ Kapan masa sewa dimulai?
+Varian: Sejak kapan sewa berjalan? | Kapan hitungan sewa mulai?
+Jawaban: Masa sewa mulai berjalan ketika admin menandai pesanan sebagai Dalam Masa Sewa setelah barang diambil.
+Domain: sewa | Tags: masa sewa, mulai, dalam masa sewa, diambil"
+"Q105. Bagaimana cara mengembalikan barang sewa? ~ Gimana cara balikin barang sewa?
+Varian: Prosedur pengembalian sewa? | Dimana mengembalikan barang sewa?
+Jawaban: Kembalikan barang ke toko UnmulStore, lalu admin mengonfirmasi pengembalian sehingga status berubah menjadi Dikembalikan dan akhirnya Selesai.
+Domain: sewa, pengambilan_pengiriman | Tags: kembalikan, return, toko, dikembalikan"
+"Q106. Apakah deposit dikembalikan setelah sewa selesai? ~ Deposit balik setelah sewa selesai?
+Varian: Apakah jaminan dikembalikan? | Kapan deposit saya kembali?
+Jawaban: Ya. Deposit/jaminan dikembalikan setelah barang sewa dikembalikan dalam kondisi baik sesuai ketentuan.
+Domain: deposit, sewa | Tags: deposit, jaminan, kembali, selesai, dikembalikan"
+"Q107. Bagaimana jika barang sewa rusak atau hilang? ~ Barang sewa rusak, gimana?
+Varian: Apa yang terjadi jika barang sewa hilang? | Apakah deposit dipotong jika barang rusak?
+Jawaban: Kondisi barang akan diperiksa saat pengembalian. Kerusakan di luar wajar dapat memengaruhi pengembalian deposit sesuai kebijakan toko.
+Domain: sewa, deposit | Tags: rusak, hilang, deposit, diperiksa, kondisi"
+"Q108. Apakah masa sewa bisa diperpanjang? ~ Bisa perpanjang sewa?
+Varian: Bagaimana cara perpanjang masa sewa? | Apakah sewa bisa ditambah durasinya?
+Jawaban: Untuk perpanjangan, silakan koordinasikan langsung dengan admin toko sebelum batas pengembalian.
+Domain: sewa, deadline | Tags: perpanjang, sewa, admin, batas pengembalian"
+"Q109. Apakah saya bisa menyewa lebih dari satu produk sekaligus? ~ Bisa sewa banyak produk sekali?
+Varian: Bisa sewa beberapa barang dalam satu pesanan? | Apakah bisa gabung sewa dalam satu order?
+Jawaban: Bisa. Beberapa produk sewa dapat digabung dalam satu pesanan selama stok sewa mencukupi.
+Domain: sewa, keranjang | Tags: sewa, banyak produk, stok sewa, pesanan"
+"Q110. Apakah batas jumlah penyewaan per produk berlaku? ~ Apakah sewa juga dibatasi jumlah?
+Varian: Maksimal sewa berapa? | Apakah ada batas jumlah sewa?
+Jawaban: Ya, sama seperti pembelian, jumlah dibatasi oleh stok sewa dan batas maksimal per produk.
+Domain: sewa, stok | Tags: batas, jumlah, stok sewa, sewa"
+"Q111. Apa itu batas pengembalian sewa? ~ Apa itu return deadline?
+Varian: Apa yang dimaksud batas pengembalian sewa? | Return deadline itu apa?
+Jawaban: Return deadline adalah tanggal dan waktu maksimal pengembalian barang sewa yang tercatat pada pesanan.
+Domain: deadline, sewa | Tags: return deadline, batas pengembalian, sewa, tanggal"
+"Q112. Apakah return deadline sama untuk semua produk sewa? ~ Apakah batas pengembalian semua produk sama?
+Varian: Semua produk sewa deadline-nya sama? | Apakah deadline berbeda per produk?
+Jawaban: Tidak selalu. Batas pengembalian ditetapkan per produk oleh admin.
+Domain: deadline, sewa | Tags: return deadline, per produk, admin, berbeda"
+"Q113. Bisakah saya melihat batas pengembalian sebelum checkout? ~ Apakah batas pengembalian terlihat sebelum bayar?
+Varian: Dimana lihat batas pengembalian saat checkout? | Bisa cek deadline sebelum checkout?
+Jawaban: Ya. Batas pengembalian ditampilkan pada halaman checkout untuk pesanan sewa.
+Domain: deadline, sewa, keranjang | Tags: batas pengembalian, checkout, lihat"
+"Q114. Apakah ada konfirmasi jika sewa hampir habis masa berlakunya? ~ Apakah ada peringatan sewa hampir habis?
+Varian: Apakah diingatkan sebelum deadline? | Bagaimana tahu sewa mau habis?
+Jawaban: Halaman pesanan menampilkan hitung mundur batas pengembalian sehingga Anda dapat mengawasi sisa waktu.
+Domain: deadline, sewa | Tags: countdown, peringatan, batas pengembalian, sewa"
+"Q115. Apa yang terjadi setelah barang sewa dikembalikan? ~ Setelah dikembalikan, apa yang terjadi?
+Varian: Apa yang terjadi saat sewa selesai? | Setelah barang balik, stoknya bagaimana?
+Jawaban: Setelah admin mengonfirmasi pengembalian, stok sewa dikembalikan ke sistem dan status berubah menjadi Selesai.
+Domain: sewa, stok | Tags: dikembalikan, selesai, stok sewa, kembali"
+"Q116. Apa itu deposit? ~ Apa arti deposit?
+Varian: Deposit dalam sewa itu apa? | Apa yang dimaksud deposit?
+Jawaban: Deposit adalah biaya jaminan yang dibayarkan bersamaan saat checkout penyewaan dan dikembalikan setelah barang kembali dalam kondisi baik.
+Domain: deposit, sewa | Tags: deposit, jaminan, biaya jaminan, sewa"
+"Q117. Bagaimana cara menghitung deposit? ~ Berapa besar deposit?
+Varian: Bagaimana deposit ditentukan? | Berapa deposit untuk produk?
+Jawaban: Besar deposit ditetapkan per produk (atau per jenjang untuk produk dengan variasi jenjang) oleh admin.
+Domain: deposit, admin | Tags: deposit, besar deposit, per produk, jenjang, admin"
+"Q118. Kapan deposit dibayar? ~ Kapan saya bayar deposit?
+Varian: Apakah deposit dibayar saat checkout? | Kapan uang jaminan dibayar?
+Jawaban: Deposit dibayar bersamaan dengan pembayaran sewa saat checkout, dan otomatis masuk ke total pembayaran.
+Domain: deposit, sewa | Tags: deposit, bayar, checkout, total"
+"Q119. Apakah deposit dikembalikan? ~ Apakah uang jaminan kembali?
+Varian: Deposit dapat dikembalikan? | Apakah deposit hangus?
+Jawaban: Ya. Deposit dikembalikan setelah barang dikembalikan dalam kondisi baik. Potongan hanya berlaku untuk kerusakan di luar wajar.
+Domain: deposit, sewa | Tags: deposit, kembali, hangus, rusak"
+"Q120. Kapan deposit dikembalikan? ~ Kapan uang jaminan dikembalikan?
+Varian: Berapa lama deposit kembali? | Proses pengembalian deposit?
+Jawaban: Deposit dikembalikan setelah admin mengonfirmasi barang dikembalikan dalam kondisi baik dan penyewaan dinyatakan selesai.
+Domain: deposit, sewa | Tags: deposit, kembali, selesai, dikembalikan"
+"Q121. Apakah deposit berlaku untuk semua produk? ~ Apakah semua produk wajib deposit?
+Varian: Semua sewa kena deposit? | Produk apa yang tidak kena deposit?
+Jawaban: Deposit berlaku pada produk sewa yang memiliki nilai deposit ditetapkan. Produk yang tidak disewakan tidak dikenakan deposit.
+Domain: deposit, sewa | Tags: deposit, semua produk, sewa, wajib"
+"Q122. Apakah deposit termasuk biaya sewa? ~ Apakah deposit dihitung sebagai biaya?
+Varian: Apakah deposit merupakan biaya permanen? | Deposit termasuk total harga sewa?
+Jawaban: Deposit ditambahkan ke total pembayaran, tetapi tidak termasuk biaya sewa permanen karena akan dikembalikan.
+Domain: deposit, sewa | Tags: deposit, biaya, total, kembali"
+"Q123. Apakah deposit dipotong jika barang terlambat dikembalikan? ~ Apakah denda dipotong dari deposit?
+Varian: Apakah deposit berkurang karena telat? | Bisa dipotong dari deposit saat telat?
+Jawaban: Denda keterlambatan dihitung terpisah sesuai ketentuan; kebijakan pemotongan dari deposit dikonfirmasi oleh admin.
+Domain: deposit, denda | Tags: deposit, denda, terlambat, potongan"
+"Q124. Apa itu denda keterlambatan? ~ Denda itu apa?
+Varian: Apa itu denda sewa? | Apa yang dimaksud denda?
+Jawaban: Denda adalah biaya yang dikenakan jika barang sewa tidak dikembalikan hingga melewati batas pengembalian.
+Domain: denda, sewa | Tags: denda, keterlambatan, telat, sewa"
+"Q125. Berapa besaran denda per hari? ~ Denda berapa per hari?
+Varian: Berapa tarif denda? | Berapa denda keterlambatan?
+Jawaban: Denda default adalah Rp10.000 per hari, namun dapat berbeda sesuai yang ditetapkan pada masing-masing produk.
+Domain: denda, sewa | Tags: denda, 10000, per hari, tarif, produk"
+"Q126. Bagaimana denda dihitung? ~ Bagaimana perhitungan denda?
+Varian: Denda dihitung bagaimana? | Berapa total denda saya?
+Jawaban: Denda dihitung dari jumlah hari keterlambatan dikali denda harian produk, dihitung otomatis oleh sistem.
+Domain: denda, sewa | Tags: denda, hitung, hari, keterlambatan, otomatis"
+"Q127. Sejak kapan denda mulai dihitung? ~ Kapan denda mulai?
+Varian: Denda mulai dari hari ke berapa? | Sejak kapan keterlambatan dihitung?
+Jawaban: Denda mulai dihitung setelah melewati batas pengembalian yang tercatat pada pesanan.
+Domain: denda, deadline | Tags: denda, mulai, batas pengembalian, hari"
+"Q128. Apakah denda berlaku jika saya telat 1 hari? ~ Denda kalau telat sehari?
+Varian: Apakah telat sehari kena denda? | Berapa denda jika telat 1 hari?
+Jawaban: Ya, keterlambatan dihitung per hari termasuk hari pertama setelah batas pengembalian.
+Domain: denda, sewa | Tags: denda, telat 1 hari, per hari, keterlambatan"
+"Q129. Bagaimana saya tahu total denda? ~ Dimana lihat total denda?
+Varian: Bagaimana cara cek denda saya? | Apakah denda ditampilkan?
+Jawaban: Total denda dapat dilihat di detail pesanan berstatus Terlambat dan dikonfirmasi admin pada menu monitoring denda.
+Domain: denda, pesanan, admin | Tags: denda, lihat, total, terlambat, monitoring"
+"Q131. Apakah denda bisa dimaafkan atau dihapus? ~ Bisa denda dihapus?
+Varian: Apakah denda bisa dibatalkan? | Bagaimana jika denda keliru?
+Jawaban: Denda dapat dimaafkan atau diubah oleh admin pada menu monitoring denda sesuai evaluasi kasus.
+Domain: denda, admin | Tags: denda, dihapus, dimaafkan, admin"
+"Q132. Apakah ada tenggat sebelum denda dikenakan? ~ Apakah ada tenggang waktu?
+Varian: Apakah ada masa tenggang? | Berapa lama masa tenggang?
+Jawaban: Tidak ada masa tenggang tambahan; denda dihitung sejak lewat batas pengembalian. Harap segera kembalikan barang.
+Domain: denda, deadline | Tags: tenggat, tenggang, denda, batas pengembalian"
+"Q133. Apakah denda dikenakan untuk pembelian? ~ Apakah pembelian kena denda?
+Varian: Denda hanya untuk sewa? | Apakah beli barang telat ambil kena denda?
+Jawaban: Tidak. Denda hanya berlaku untuk penyewaan yang telat mengembalikan. Pembelian yang tidak diambil dapat berstatus Kedaluwarsa.
+Domain: denda, pembatalan, sewa | Tags: denda, pembelian, sewa, kadaluarsa, kedaluwarsa"
+"Q135. Apakah denda dihitung otomatis oleh sistem? ~ Denda otomatis?
+Varian: Apakah sistem menghitung denda? | Bagaimana sistem menghitung denda?
+Jawaban: Ya. Sistem menghitung denda keterlambatan secara otomatis dan menandai pesanan sebagai Terlambat.
+Domain: denda | Tags: denda, otomatis, sistem, hitung"
+"Q136. Apa itu deadline dalam pesanan? ~ Apa itu batas waktu pesanan?
+Varian: Deadline apa saja yang ada? | Apa saja batas waktu yang perlu diperhatikan?
+Jawaban: Terdapat dua batas waktu utama: batas pengambilan untuk pembelian di toko, dan batas pengembalian untuk penyewaan.
+Domain: deadline | Tags: deadline, batas waktu, pengambilan, pengembalian"
+"Q137. Apa itu batas pengambilan? ~ Batas ambil barang itu apa?
+Varian: Apa yang dimaksud batas pengambilan? | Berapa lama batas pengambilan?
+Jawaban: Batas pengambilan adalah waktu maksimal barang pesanan harus diambil di toko sebelum dinyatakan kedaluwarsa.
+Domain: deadline, pengambilan_pengiriman | Tags: batas pengambilan, ambil, deadline, kadaluarsa, kedaluwarsa"
+"Q138. Berapa lama batas pengambilan? ~ Batas ambil berapa hari?
+Varian: Berapa hari waktu ambil barang? | Batas pengambilan default berapa?
+Jawaban: Batas pengambilan adalah 3 hari sejak pesanan dinyatakan Siap Diambil.
+Domain: deadline, pengambilan_pengiriman | Tags: batas pengambilan, 3 hari, default"
+"Q139. Apa yang terjadi jika melewati batas pengambilan? ~ Lewat batas ambil, apa terjadi?
+Varian: Tidak ambil barang sampai deadline, gimana? | Apa akibatnya tidak mengambil barang?
+Jawaban: Pesanan akan berstatus Kedaluwarsa dan stok dikembalikan ke sistem.
+Domain: deadline, pembatalan, stok | Tags: batas pengambilan, kadaluarsa, kedaluwarsa, stok"
+"Q140. Apa itu batas pengembalian? ~ Batas balikin barang itu apa?
+Varian: Apa yang dimaksud batas pengembalian sewa? | Apa itu return deadline?
+Jawaban: Batas pengembalian adalah tanggal dan waktu maksimal barang sewa harus dikembalikan ke toko.
+Domain: deadline, sewa | Tags: batas pengembalian, return deadline, sewa"
+"Q141. Apakah batas pengembalian sama dengan batas pengambilan? ~ Beda batas pengembalian dan batas pengambilan?
+Varian: Apakah kedua deadline itu sama? | Batas pengembalian vs batas pengambilan?
+Jawaban: Berbeda. Batas pengambilan berlaku untuk pembelian di toko (sebelum barang diambil), sedangkan batas pengembalian berlaku untuk penyewaan (kapan barang harus dikembalikan).
+Domain: deadline, sewa | Tags: batas pengambilan, batas pengembalian, sewa, beli"
+"Q142. Siapa yang mengatur deadline produk? ~ Siapa yang menetapkan deadline?
+Varian: Admin bisa ubah deadline? | Siapa yang atur batas waktu produk?
+Jawaban: Admin/superadmin menetapkan batas pengambilan dan batas pengembalian saat mengelola produk.
+Domain: deadline, admin | Tags: deadline, admin, superadmin, produk"
+"Q143. Apakah deadline bisa diubah setelah pesanan dibuat? ~ Bisa ubah deadline pesanan?
+Varian: Apakah admin bisa mengubah batas waktu? | Bagaimana jika deadline salah?
+Jawaban: Admin dapat mengubah deadline produk, dan perubahan tersebut dapat terlihat real-time pada pesanan terkait.
+Domain: deadline, admin | Tags: deadline, ubah, admin, realtime"
+"Q144. Apakah ada hitung mundur untuk deadline? ~ Apakah ada countdown deadline?
+Varian: Bagaimana melihat sisa waktu? | Apakah ada pengingat waktu?
+Jawaban: Ya. Halaman pesanan menampilkan hitung mundur untuk batas pengambilan maupun batas pengembalian.
+Domain: deadline | Tags: countdown, hitung mundur, deadline, pesanan"
+"Q145. Apakah deadline berlaku untuk semua jenis pesanan? ~ Apakah semua pesanan punya deadline?
+Varian: Deadline berlaku untuk apa saja?
+Jawaban: Batas pengambilan berlaku untuk pesanan yang diambil di toko, dan batas pengembalian untuk penyewaan.
+Domain: deadline | Tags: deadline, pengambilan, pengembalian, kirim"
+"Q146. Bagaimana cara membatalkan pesanan? ~ Gimana cara batal pesanan?
+Varian: Bagaimana mengajukan pembatalan? | Langkah membatalkan order?
+Jawaban: Pada detail pesanan, ajukan pembatalan. Status akan menjadi Menunggu Pembatalan hingga admin menyetujui.
+Domain: pembatalan, pesanan | Tags: batal, pembatalan, batalkan pesanan, ajukan"
+"Q147. Apakah semua pesanan bisa dibatalkan? ~ Apakah semua status bisa dibatalkan?
+Varian: Bisa batal pesanan yang sudah dikirim? | Kapan pesanan tidak bisa dibatalkan?
+Jawaban: Pembatalan diproses oleh admin. Beberapa kondisi (misalnya barang sudah dalam proses) mungkin tidak dapat dibatalkan.
+Domain: pembatalan, pesanan | Tags: batal, syarat, admin, proses"
+"Q149. Apakah pembatalan diproses otomatis? ~ Batal langsung diproses?
+Varian: Apakah pembatalan langsung jadi? | Apakah batal butuh persetujuan?
+Jawaban: Tidak. Pembatalan harus disetujui admin terlebih dahulu.
+Domain: pembatalan, admin | Tags: pembatalan, otomatis, admin, persetujuan"
+"Q150. Apakah stok kembali setelah pembatalan? ~ Stok balik setelah batal?
+Varian: Apakah barang batal kembali ke stok? | Setelah dibatalkan stoknya gimana?
+Jawaban: Ya. Setelah pesanan dibatalkan atau ditolak, stok beli/sewa otomatis dikembalikan sesuai jumlah pesanan.
+Domain: pembatalan, stok | Tags: stok, kembali, batal, dibatalkan"
+"Q151. Apakah deposit saya kembali jika sewa dibatalkan? ~ Deposit balik jika sewa batal?
+Varian: Apakah jaminan dikembalikan saat batal? | Jika pesanan sewa dibatalkan, deposit gimana?
+Jawaban: Jika penyewaan dibatalkan sebelum berjalan, deposit/jaminan dikembalikan sesuai ketentuan yang berlaku.
+Domain: pembatalan, deposit | Tags: deposit, kembali, batal, sewa"
+"Q152. Apa perbedaan Ditolak dan Dibatalkan? ~ Beda ditolak dan dibatalkan?
+Varian: Apa bedanya pesanan ditolak dengan dibatalkan? | Ditolak vs dibatalkan?
+Jawaban: Ditolak berarti admin menolak pesanan/perubahan (biasanya ada alasan), sedangkan Dibatalkan adalah pesanan yang dibatalkan oleh Anda atau admin.
+Domain: pembatalan, pesanan | Tags: ditolak, dibatalkan, beda, alasan"
+"Q153. Mengapa pesanan saya ditolak? ~ Kenapa pesanan ditolak?
+Varian: Alasan pesanan ditolak? | Apa penyebab order ditolak?
+Jawaban: Pesanan umumnya ditolak karena data pesanan tidak valid atau tidak dapat dipenuhi. Alasan ditampilkan pada detail pesanan.
+Domain: pembatalan, pesanan | Tags: ditolak, alasan, data, valid"
+"Q154. Apakah pesanan yang ditolak bisa dipesan ulang? ~ Bisa pesan ulang setelah ditolak?
+Varian: Apakah saya bisa checkout lagi? | Setelah ditolak, apa yang bisa saya lakukan?
+Jawaban: Ya. Anda dapat membuat pesanan baru dengan data yang benar.
+Domain: pembatalan, pesanan | Tags: pesan ulang, ditolak, checkout, lagi"
+"Q155. Apakah pembatalan memengaruhi penilaian saya? ~ Batal pesanan kena penalti?
+Varian: Apakah pembatalan berdampak ke akun? | Apakah sering batal dihukum?
+Jawaban: Pembatalan tidak memengaruhi stok atau akun Anda secara permanen selama mengikuti alur yang berlaku.
+Domain: pembatalan, akun | Tags: penalti, batal, akun, dampak"
+"Q156. Bagaimana jika saya membatalkan pesanan sewa yang sedang berjalan? ~ Bisa batal sewa yang sudah jalan?
+Varian: Apakah sewa aktif bisa dibatalkan? | Bagaimana membatalkan sewa yang sedang berjalan?
+Jawaban: Untuk penyewaan yang sudah berjalan, selesaikan pengembalian barang terlebih dahulu. Pembatalan tengah jalan dikonfirmasi dengan admin.
+Domain: pembatalan, sewa | Tags: batal, sewa, berjalan, pengembalian"
+"Q157. Bagaimana cara klaim almamater mahasiswa baru? ~ Gimana cara klaim almamater maba?
+Varian: Cara mendapatkan almamater maba? | Bagaimana cara klaim jas almamater?
+Jawaban: Buka menu Akademik → Almamater Maba di beranda, isi formulir klaim (nama, NIM, jalur masuk, ukuran, dan totebag opsional).
+Domain: klaim_almamater | Tags: almamater, maba, klaim, formulir, akademik"
+"Q158. Data apa saja yang diperlukan untuk klaim almamater? ~ Apa syarat klaim almamater?
+Varian: Data apa yang harus diisi saat klaim? | Apa saja yang dibutuhkan untuk klaim?
+Jawaban: Diperlukan nama, NIM, jalur masuk, dan ukuran almamater.
+Domain: klaim_almamater | Tags: syarat, data, nama, nim, ukuran, jalur masuk"
+"Q159. Apa itu NIM dan mengapa diperlukan? ~ NIM itu apa?
+Varian: Kenapa harus pakai NIM? | Apa fungsi NIM untuk klaim?
+Jawaban: NIM (Nomor Induk Mahasiswa) digunakan untuk memvalidasi identitas agar almamater hanya dapat diklaim oleh mahasiswa yang berhak.
+Domain: klaim_almamater | Tags: nim, validasi, identitas, mahasiswa"
+"Q160. Apakah satu NIM hanya bisa klaim satu kali? ~ Apakah NIM bisa dipakai berulang?
+Varian: Bisa klaim almamater dua kali? | Apakah satu NIM = satu almamater?
+Jawaban: Ya. Satu NIM hanya dapat digunakan untuk satu klaim almamater.
+Domain: klaim_almamater | Tags: nim, satu kali, sekali, klaim"
+"Q161. Jalur masuk apa saja yang tersedia? ~ Apa saja jalur masuk untuk klaim?
+Varian: Jalur masuk apa yang didukung? | Apa pilihan jalur masuk almamater?
+Jawaban: Tersedia jalur masuk SNBP, SNBT, dan MANDIRI. Mahasiswa jalur ADIK saat ini dicatat dalam jalur MANDIRI.
+Domain: klaim_almamater | Tags: jalur masuk, snbp, snbt, mandiri, adik"
+"Q162. Apakah totebag opsional? ~ Apakah totebag wajib?
+Varian: Bisa klaim tanpa totebag? | Apakah totebag termasuk paket almamater?
+Jawaban: Ya, totebag bersifat opsional dan dapat dipilih saat mengisi formulir klaim.
+Domain: klaim_almamater | Tags: totebag, opsional, wajib, formulir"
+"Q163. Bagaimana cara memilih ukuran almamater? ~ Bagaimana menentukan ukuran?
+Varian: Ukuran apa saja yang tersedia? | Bagaimana pilih ukuran yang sesuai?
+Jawaban: Pilih ukuran sesuai panduan pada formulir klaim. Disarankan mengikuti petunjuk ukuran yang tersedia.
+Domain: klaim_almamater | Tags: ukuran, panduan, formulir, klaim"
+"Q164. Bagaimana proses setelah saya mengirim klaim? ~ Apa yang terjadi setelah klaim dikirim?
+Varian: Berapa lama proses verifikasi klaim? | Setelah submit klaim, apa selanjutnya?
+Jawaban: Klaim akan diverifikasi admin. Setelah disetujui, Anda mendapat jadwal pengambilan almamater.
+Domain: klaim_almamater, admin | Tags: verifikasi, proses, jadwal, pengambilan"
+"Q165. Kapan almamater bisa diambil? ~ Kapan pengambilan almamater?
+Varian: Berapa lama menunggu almamater? | Jadwal ambil almamater?
+Jawaban: Pengambilan mengikuti jadwal yang ditetapkan admin, umumnya pada minggu setelah klaim diverifikasi.
+Domain: klaim_almamater, pengambilan_pengiriman | Tags: jadwal, pengambilan, almamater, minggu"
+"Q166. Apakah almamater maba dikenakan biaya? ~ Berapa biaya almamater maba?
+Varian: Apakah klaim almamater gratis? | Apakah bayar untuk almamater?
+Jawaban: Tidak ada biaya. Klaim almamater mahasiswa baru gratis (Rp0).
+Domain: klaim_almamater, pembayaran | Tags: biaya, gratis, almamater, bayar"
+"Q167. Bagaimana jika NIM saya tidak terdaftar? ~ NIM tidak ditemukan, kenapa?
+Varian: Mengapa NIM saya ditolak? | Apa yang terjadi jika NIM salah?
+Jawaban: NIM yang tidak valid/tidak terdaftar akan ditolak. Pastikan NIM benar, dan hubungi admin jika masih bermasalah.
+Domain: klaim_almamater, admin | Tags: nim, tidak ditemukan, ditolak, admin"
+"Q168. Bisakah saya mengubah data klaim setelah mengirim? ~ Bisa ubah data klaim?
+Varian: Apakah formulir klaim bisa diedit? | Salah ukuran, bisa ubah?
+Jawaban: Untuk mengubah data setelah pengiriman, silakan hubungi admin agar diperbarui.
+Domain: klaim_almamater, admin | Tags: ubah, data, klaim, admin"
+"Q169. Apakah saya bisa klaim almamater selain maba? ~ Bisa klaim almamater non-maba?
+Varian: Apakah almamater hanya untuk maba? | Siapa saja yang bisa klaim almamater?
+Jawaban: Saat ini fitur klaim almamater ditujukan untuk mahasiswa baru (maba) melalui menu Akademik.
+Domain: klaim_almamater | Tags: almamater, maba, klaim, akademik"
+"Q196. Aplikasi macet atau tidak merespons, apa yang harus saya lakukan? ~ Aplikasi hang, gimana?
+Varian: Apakah aplikasi sering error? | Bagaimana jika aplikasi tidak merespons?
+Jawaban: Coba tutup dan buka kembali aplikasi, pastikan koneksi internet stabil. Jika berlanjut, hubungi admin.
+Domain: teknis | Tags: macet, hang, error, tutup, buka kembali"
+"Q197. Mengapa halaman tidak bisa dimuat? ~ Halaman tidak load, kenapa?
+Varian: Bagaimana jika data tidak muncul? | Apa yang terjadi jika loading gagal?
+Jawaban: Periksa koneksi internet dan coba muat ulang halaman (pull to refresh). Pastikan aplikasi sudah versi terbaru.
+Domain: teknis | Tags: tidak bisa dimuat, loading, refresh, koneksi"
+"Q198. Apakah aplikasi memerlukan koneksi internet? ~ Perlu internet?
+Varian: Apakah bisa dipakai offline? | Apakah aplikasi butuh jaringan?
+Jawaban: Ya. Sebagian besar fitur membutuhkan koneksi internet karena data tersimpan di server.
+Domain: teknis | Tags: internet, offline, koneksi, online"
+"Q200. Bagaimana cara memperbarui aplikasi? ~ Cara update aplikasi?
+Varian: Bagaimana tahu versi terbaru? | Dimana download aplikasi terbaru?
+Jawaban: Aplikasi diperbarui melalui toko aplikasi tempat Anda mengunduhnya (misalnya Google Play Store atau App Store).
+Domain: teknis | Tags: update, versi, aplikasi, play store, app store"
+"Q202. Apakah saya bisa masuk dari beberapa perangkat? ~ Bisa login di banyak perangkat?
+Varian: Apakah bisa pakai aplikasi di HP dan tablet? | Apakah sesi ganda diperbolehkan?
+Jawaban: Anda dapat masuk di perangkat berbeda selama Anda masih login di perangkat tersebut.
+Domain: teknis, akun | Tags: perangkat, login, multi device, sesi"
+"Q203. Bagaimana jika saya lupa email yang dipakai mendaftar? ~ Lupa email akun, gimana?
+Varian: Tidak ingat email terdaftar? | Bagaimana memulihkan email akun?
+Jawaban: Hubungi admin untuk bantuan pemulihan akun. Data akun terkait email/NIM dapat dicarikan oleh admin.
+Domain: akun, teknis | Tags: lupa email, pemulihan, admin, akun"
+"Q207. Apakah aplikasi menampilkan password ke pihak lain? ~ Bisa password dilihat orang lain?
+Varian: Apakah admin bisa melihat password saya? | Apakah password saya terlihat?
+Jawaban: Tidak. Password tidak pernah ditampilkan, termasuk kepada admin.
+Domain: keamanan | Tags: password, admin, terlihat, privasi"
+"Q209. Apakah saya dapat melihat pesanan pengguna lain? ~ Bisa lihat pesanan orang lain?
+Varian: Apakah data pesanan orang lain terlihat? | Apakah kerahasiaan pesanan terjaga?
+Jawaban: Tidak. Setiap pengguna hanya dapat melihat pesanan miliknya sendiri.
+Domain: keamanan | Tags: pesanan, orang lain, privasi, akses"
+"Q210. Apakah aplikasi melindungi informasi pembayaran? ~ Bagaimana keamanan pembayaran?
+Varian: Apakah data pembayaran aman? | Apakah transaksi terlindungi?
+Jawaban: Informasi transaksi hanya diakses oleh pengguna terkait dan admin yang berwenang sesuai keperluan.
+Domain: keamanan, pembayaran | Tags: pembayaran, transaksi, keamanan, admin"
+"Q211. Apa yang dilakukan jika terjadi pelanggaran keamanan? ~ Bagaimana jika data bocor?
+Varian: Apa yang terjadi jika akun diretas? | Bagaimana penanganan insiden keamanan?
+Jawaban: Silakan laporkan dugaan pelanggaran atau aktivitas mencurigakan kepada admin untuk segera ditangani.
+Domain: keamanan | Tags: pelanggaran, lapor, admin, insiden"
+"Q213. Login gagal meskipun password benar, kenapa? ~ Tidak bisa login padahal password benar?
+Varian: Login gagal terus, gimana? | Mengapa saya tidak bisa masuk?
+Jawaban: Pastikan email dan password sesuai, koneksi stabil, dan akun sudah terdaftar. Jika masih gagal, hubungi admin.
+Domain: teknis, akun | Tags: login, gagal, password, email, admin"
+"Q214. Email sudah terdaftar tapi tidak bisa login? ~ Sudah daftar tapi tidak bisa masuk?
+Varian: Mengapa akun saya tidak bisa login? | Akun terdaftar tapi login gagal?
+Jawaban: Cek kembali email yang digunakan (mungkin berbeda dengan yang didaftarkan) dan reset ulang proses login.
+Domain: akun, teknis | Tags: email, login, daftar, akun"
+"Q215. Pesanan saya tidak muncul di daftar pesanan. ~ Pesanan hilang dari daftar?
+Varian: Mengapa pesanan tidak terlihat? | Dimana pesanan yang sudah saya buat?
+Jawaban: Pastikan masuk dengan akun yang sama, tarik untuk memuat ulang, dan periksa kembali di menu Pesanan.
+Domain: pesanan, teknis | Tags: pesanan, hilang, tidak muncul, refresh"
+"Q216. Pembayaran berhasil tapi status tidak berubah? ~ Sudah bayar tapi status tetap?
+Varian: Status tidak update setelah bayar? | Mengapa status belum berubah?
+Jawaban: Status diperbarui oleh admin secara bertahap. Jika terlalu lama, hubungi admin untuk memastikan pembayaran Anda tercatat.
+Domain: pesanan, pembayaran | Tags: pembayaran, status, belum berubah, admin"
+"Q217. Aplikasi error saat checkout. ~ Checkout gagal terus, kenapa?
+Varian: Ada error saat bayar? | Mengapa checkout tidak berhasil?
+Jawaban: Cek koneksi dan stok produk. Jika muncul pesan stok tidak cukup, kurangi jumlah atau pilih produk lain.
+Domain: keranjang, stok, teknis | Tags: checkout, error, gagal, stok"
+"Q218. Gambar produk tidak muncul. ~ Foto produk kosong, kenapa?
+Varian: Mengapa gambar tidak load? | Gambar produk buram/kosong?
+Jawaban: Periksa koneksi internet dan muat ulang. Jika tetap kosong, kemungkinan produk belum mengunggah gambar.
+Domain: teknis, produk | Tags: gambar, foto, produk, tidak muncul"
+"Q219. Halaman beranda kosong. ~ Beranda tidak menampilkan produk, kenapa?
+Varian: Mengapa daftar produk kosong? | Produk tidak muncul di beranda?
+Jawaban: Pastikan koneksi stabil dan tarik untuk memuat ulang. Jika tetap kosong, hubungi admin.
+Domain: teknis, produk | Tags: beranda, kosong, produk, refresh"
+"Q220. Notifikasi tidak muncul. ~ Tidak dapat notifikasi?
+Varian: Mengapa pemberitahuan tidak muncul? | Bagaimana mengaktifkan notifikasi?
+Jawaban: Pastikan izin notifikasi diaktifkan pada perangkat dan pengaturan aplikasi.
+Domain: teknis | Tags: notifikasi, izin, perangkat, pengaturan"
+"Q221. Kecepatan aplikasi lambat. ~ Aplikasi lemot, gimana?
+Varian: Mengapa aplikasi terasa lambat? | Bagaimana mempercepat aplikasi?
+Jawaban: Pastikan koneksi stabil, tutup aplikasi lain, dan perbarui aplikasi ke versi terbaru.
+Domain: teknis | Tags: lambat, lemot, koneksi, performa"
+"Q222. Aplikasi tiba-tiba tertutup sendiri. ~ Aplikasi crash, kenapa?
+Varian: Mengapa aplikasi force close? | Bagaimana jika aplikasi sering keluar?
+Jawaban: Perbarui aplikasi ke versi terbaru dan pastikan ruang penyimpanan cukup. Jika sering, laporkan ke admin.
+Domain: teknis | Tags: crash, force close, tertutup, error"
+"Q223. Saya tidak bisa mengunggah avatar. ~ Gagal ganti foto profil, kenapa?
+Varian: Mengapa avatar tidak terupload? | Bagaimana cara ubah foto profil?
+Jawaban: Periksa koneksi dan format gambar. Pastikan gambar berukuran wajar untuk diunggah.
+Domain: akun, teknis | Tags: avatar, foto profil, upload, ubah"
+"Q224. Bagaimana cara memperbarui nomor telepon? ~ Cara ubah no HP di profil?
+Varian: Bagaimana mengubah data profil? | Dimana edit nomor telepon?
+Jawaban: Buka menu Profile, lalu ubah data seperti nomor telepon dan alamat pada bagian edit profil.
+Domain: akun | Tags: nomor telepon, profil, ubah, edit"
+"Q225. Bagaimana cara mengganti password? ~ Cara ubah password?
+Varian: Bagaimana reset kata sandi? | Dimana menu ganti password?
+Jawaban: Kelola kata sandi melalui menu profil/akun. Jika lupa, ikuti alur pemulihan atau hubungi admin.
+Domain: akun | Tags: password, ganti, reset, akun"
+"Q226. Data yang saya ubah di profil tidak tersimpan? ~ Profil tidak tersimpan, kenapa?
+Varian: Mengapa perubahan profil hilang? | Bagaimana agar perubahan profil tersimpan?
+Jawaban: Pastikan menekan tombol simpan dan koneksi stabil. Perubahan baru tersimpan setelah berhasil disimpan.
+Domain: akun, teknis | Tags: profil, tersimpan, simpan, hilang"
+"Q229. Saya tidak menerima email konfirmasi. ~ Email konfirmasi tidak masuk?
+Varian: Mengapa email verifikasi tidak terkirim? | Bagaimana jika email tidak sampai?
+Jawaban: Periksa folder spam dan pastikan email benar. Jika masih tidak ada, hubungi admin.
+Domain: akun, teknis | Tags: email, konfirmasi, spam, verifikasi"
+"Q230. Apakah ada layanan bantuan pelanggan? ~ Ada CS UnmulStore?
+Varian: Dimana kontak bantuan? | Bagaimana menghubungi pihak toko?
+Jawaban: Untuk pertanyaan lebih lanjut, silakan hubungi admin/CS UnmulStore di nomor 081522650048 atau datang langsung ke lokasi toko di Universitas Mulawarman (Senin - Jumat, 09.00 - 15.00 WITA).
+Domain: umum | Tags: bantuan, cs, kontak, admin, toko, nomor, whatsapp"
+"Q235. Bagaimana cara logout? ~ Gimana cara keluar akun?
+Varian: Bagaimana keluar dari aplikasi? | Dimana tombol logout?
+Jawaban: Buka menu Profile dan pilih Keluar (logout).
+Domain: akun | Tags: logout, keluar, profil, akun"
+"Q236. Apakah saya harus login untuk memesan? ~ Wajib login untuk order?
+Varian: Bisa pesan tanpa login? | Apakah checkout butuh akun?
+Jawaban: Ya. Anda perlu login untuk membuat pesanan dan memantau statusnya.
+Domain: akun, pesanan | Tags: login, pesan, checkout, wajib"
+"Q237. Apakah saya harus login untuk melihat produk? ~ Bisa lihat produk tanpa login?
+Varian: Apakah beranda butuh login? | Apakah browsing produk bebas?
+Jawaban: Tidak. Anda dapat melihat produk di beranda tanpa login, namun perlu login untuk memesan.
+Domain: akun, produk | Tags: login, lihat produk, beranda, bebas"
+"Q238. Apa perbedaan menu Akademik, Merchandise, dan Fasilitas & Sewa? ~ Beda menu layanan?
+Varian: Apa saja layanan di beranda? | Apa isi menu Akademik?
+Jawaban: Menu Akademik berisi layanan seperti Almamater Maba dan Toga, Merchandise untuk produk seperti kaos dan jaket, serta Fasilitas & Sewa untuk layanan seperti lapangan dan lahan.
+Domain: umum | Tags: akademik, merchandise, fasilitas, sewa, layanan"
+"Q239. Apakah semua layanan sudah aktif? ~ Apakah ada layanan belum tersedia?
+Varian: Kenapa layanan menampilkan belum tersedia? | Layanan apa yang belum aktif?
+Jawaban: Beberapa layanan belum aktif dan menampilkan notifikasi ""Layanan Belum Tersedia"".
+Domain: umum | Tags: layanan, belum tersedia, menu, beranda"
+"Q240. Di mana lokasi UnmulStore? ~ Dimana alamat toko UnmulStore?
+Varian: Lokasi pengambilan barang? | Dimana alamat UnmulStore?
+Jawaban: UnmulStore berada di kampus Universitas Mulawarman (UNMUL), Jl. Kuaro, Gunung Kelua, Kecamatan Samarinda Ulu, Kota Samarinda, Kalimantan Timur. Barang pesanan diambil di lokasi ini.
+Domain: umum | Tags: lokasi, alamat, toko, universitas mulawarman"
+"Q241. Apakah ada jam operasional toko? ~ Jam buka toko?
+Varian: Kapan toko buka? | Jam operasional UnmulStore?
+Jawaban: Toko UnmulStore buka hari Senin sampai Jumat, pukul 09.00 - 15.00 WITA.
+Domain: umum | Tags: jam, operasional, buka, toko, senin, jumat, wita"
+"Q242. Bagaimana jika saya tidak tahu NIM saya? ~ Lupa NIM, gimana?
+Varian: Tidak tahu NIM saat klaim almamater? | Bagaimana jika NIM tidak tersedia?
+Jawaban: Untuk klaim almamater, NIM diperlukan. Jika tidak tahu, hubungi bagian akademik atau admin.
+Domain: klaim_almamater | Tags: nim, lupa, almamater, admin"
+"Q243. Apakah saya bisa membeli almamater tanpa klaim? ~ Bisa beli almamater langsung?
+Varian: Apakah almamater bisa dibeli biasa? | Bisa beli almamater tanpa NIM?
+Jawaban: Jika tersedia sebagai produk, almamater dapat dipesan seperti produk lain; khusus maba ada alur klaim khusus.
+Domain: produk, klaim_almamater | Tags: almamater, beli, klaim, produk"
+"Q244. Bagaimana cara melihat detail produk? ~ Gimana cara lihat detail produk?
+Varian: Dimana info lengkap produk? | Bagaimana melihat spesifikasi produk?
+Jawaban: Klik produk di beranda untuk melihat harga, stok, deskripsi, spesifikasi, panduan ukuran, dan opsi sewa/beli.
+Domain: produk | Tags: detail produk, spesifikasi, harga, stok"
+"Q245. Apa itu mode beli dan mode sewa pada produk? ~ Beda beli dan sewa?
+Varian: Apa perbedaan mode beli dan sewa? | Kapan memilih beli atau sewa?
+Jawaban: Mode beli digunakan untuk membeli produk sehingga barang menjadi milik Anda. Mode sewa digunakan untuk menyewa barang dengan batas pengembalian dan deposit.
+Domain: produk, sewa | Tags: beli, sewa, mode, produk"
+"Q246. Apakah harga sewa selalu lebih murah dari harga beli? ~ Apakah harga sewa lebih murah?
+Varian: Beda harga sewa dan beli? | Apakah sewa lebih terjangkau?
+Jawaban: Umumnya ya, harga sewa per periode lebih rendah daripada harga beli, namun setiap produk menetapkan harganya sendiri.
+Domain: sewa, produk | Tags: harga sewa, harga beli, murah, produk"
+"Q247. Apakah produk memiliki diskon? ~ Ada promo?
+Varian: Apakah ada potongan harga? | Apakah UnmulStore mengadakan promo?
+Jawaban: Informasi promo/diskon ditampilkan pada detail produk dan banner beranda bila tersedia.
+Domain: produk | Tags: diskon, promo, potongan, banner"
+"Q248. Bagaimana jika barang yang saya terima rusak? ~ Barang rusak saat diterima?
+Varian: Apa yang harus dilakukan jika barang cacat? | Barang tidak sesuai pesanan, gimana?
+Jawaban: Laporkan segera kepada admin/CS beserta bukti foto untuk ditindaklanjuti.
+Domain: produk, pesanan | Tags: rusak, cacat, tidak sesuai, lapor, admin"
+"Q249. Apakah saya bisa menukar ukuran yang salah? ~ Bisa tukar ukuran?
+Varian: Ukuran tidak cocok, bisa ditukar? | Bagaimana menukar barang?
+Jawaban: Penukaran menyesuaikan kebijakan toko. Hubungi admin untuk pengecekan ketersediaan dan ketentuan.
+Domain: produk | Tags: tukar, ukuran, penukaran, admin"
+"Q250. Apakah ada garansi untuk produk? ~ Apakah produk bergaransi?
+Varian: Ada garansi tidak? | Apa kebijakan garansi?
+Jawaban: Kebijakan garansi ditentukan per produk/kebijakan toko; hubungi admin untuk detail.
+Domain: produk | Tags: garansi, produk, kebijakan, admin"
+"Q251. Apakah saya bisa memberi ulasan produk? ~ Bisa review produk?
+Varian: Apakah ada fitur rating? | Bagaimana memberi penilaian produk?
+Jawaban: Fitur ulasan produk belum tersedia saat ini.
+Domain: produk | Tags: ulasan, review, rating, belum tersedia"
+"Q252. Apakah aplikasi ini gratis? ~ Aplikasi berbayar?
+Varian: Apakah perlu bayar untuk download? | Apakah UnmulStore gratis digunakan?
+Jawaban: Ya, aplikasi gratis untuk diunduh dan digunakan.
+Domain: umum | Tags: gratis, aplikasi, download, berbayar"
+"Q253. Bagaimana jika saya menemukan bug di aplikasi? ~ Ada bug, ke mana lapor?
+Varian: Bagaimana melaporkan error aplikasi? | Saya menemukan masalah aplikasi, gimana?
+Jawaban: Laporkan bug beserta langkah yang menyebabkan masalah kepada admin/CS untuk diperbaiki.
+Domain: teknis | Tags: bug, lapor, error, admin"
+"Q254. Apakah saya dapat menghubungi admin melalui aplikasi? ~ Bisa hubungi admin lewat app?
+Varian: Apakah ada kontak admin di aplikasi? | Bagaimana menghubungi admin?
+Jawaban: Hubungi admin di nomor 081522650048, atau datang langsung ke toko di kampus Universitas Mulawarman, Jl. Kuaro, Gunung Kelua, Kecamatan Samarinda Ulu, Kota Samarinda, Kalimantan Timur, pada Senin - Jumat pukul 09.00 - 15.00 WITA.
+Domain: umum | Tags: kontak, admin, aplikasi, hubungi, nomor, whatsapp"
+"Q255. Apakah ada uang kembali untuk pembelian? ~ Apakah bisa refund?
+Varian: Uang kembali jika batal? | Apakah pembelian bisa di-refund?
+Jawaban: Kebijakan pengembalian dana menyesuaikan ketentuan toko; hubungi admin untuk detail.
+Domain: pembayaran, pembatalan | Tags: refund, uang kembali, batal, admin"
+"Q256. Apakah deposit bisa digunakan untuk sewa berikutnya? ~ Bisa deposit untuk sewa berikutnya?
+Varian: Apakah deposit bisa dipindah? | Deposit bisa dipakai lagi?
+Jawaban: Deposit dikembalikan setelah sewa selesai; kebijakan penggunaan untuk sewa berikutnya ditentukan admin.
+Domain: deposit, sewa | Tags: deposit, sewa, berikutnya, dipakai"
+"Q257. Bagaimana jika saya tidak bisa menyelesaikan pembayaran di toko? ~ Tidak bisa bayar di toko, gimana?
+Varian: Pembayaran di toko gagal? | Bagaimana jika tidak sempat bayar di toko?
+Jawaban: Konfirmasikan kepada admin untuk alternatif pembayaran dan waktu.
+Domain: pembayaran | Tags: bayar di toko, gagal, admin, alternatif"
+"Q259. Apakah saya bisa mengambil pesanan orang lain? ~ Bisa ambil pesanan atas nama orang lain?
+Varian: Apakah barang bisa diwakilkan? | Bisa diambil oleh teman?
+Jawaban: Pengambilan umumnya dilakukan oleh pemesan. Untuk perwakilan, konfirmasi dengan admin.
+Domain: pengambilan_pengiriman | Tags: ambil, wakil, pesanan, admin"
+"Q260. Bagaimana cara melihat riwayat pesanan? ~ Dimana riwayat pesanan?
+Varian: Bagaimana melihat pesanan lama? | Cara cek pesanan sebelumnya?
+Jawaban: Menu Pesanan menampilkan riwayat pesanan, termasuk pesanan yang sedang berjalan dan selesai.
+Domain: pesanan | Tags: riwayat, pesanan, lama, menu pesanan"
+"Q261. Kapan produk akan direstok? ~ Kapan barang yang habis tersedia lagi?
+Varian: Kapan restok? | Kapan stok produk ditambah? | Barang habis, kapan ada lagi?
+Jawaban: Belum ada jadwal restok yang pasti. Silakan cek ketersediaan stok produk di aplikasi secara berkala.
+Domain: stok | Tags: restok, stok habis, kapan tersedia, ketersediaan, jadwal"

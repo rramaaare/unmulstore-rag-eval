@@ -1,0 +1,7 @@
+﻿metrik,versi,persen_sempurna_1.0,persen_di_bawah_0.5,median
+Faithfulness,v1,3.9,48.8,0.5
+Faithfulness,v2,74.9,6.3,1.0
+Context recall,v1,79.7,13.5,1.0
+Context recall,v2,93.7,4.3,1.0
+Context precision,v1,53.6,25.1,1.0
+Context precision,v2,64.3,15.9,1.0

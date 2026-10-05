@@ -1,0 +1,7 @@
+﻿metrik,v1,v2,selisih,CI95_bawah,CI95_atas,naik,turun,sama,n,bermakna
+Faithfulness,0.49,0.877,0.386,0.338,0.436,176,21,10,207,ya
+Context precision,0.761,0.855,0.094,0.043,0.144,71,47,89,207,ya
+Context recall,0.835,0.947,0.112,0.059,0.165,38,9,160,207,ya
+Semantic similarity,0.618,0.853,0.235,0.208,0.261,181,11,15,207,ya
+Factual correctness,0.266,0.67,0.405,0.353,0.459,159,24,24,207,ya
+Answer relevancy,0.532,0.534,0.002,-0.026,0.031,87,69,51,207,belum terbukti

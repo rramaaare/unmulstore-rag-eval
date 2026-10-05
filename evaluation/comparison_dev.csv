@@ -1,0 +1,7 @@
+﻿metrik,v1,A,B
+Faithfulness,0.079,0.792,0.894
+Context precision,0.447,0.762,0.875
+Context recall,0.474,0.839,0.935
+Semantic similarity,0.483,0.78,0.836
+Factual correctness,0.11,0.63,0.668
+Answer relevancy,0.357,0.478,0.441
